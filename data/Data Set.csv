@@ -1,0 +1,1182 @@
+﻿ID,goal,enddate,startdate,coinNum,teamSize,country_region,categories,overallrating,ratingTeam,ratingProduct,platform,acceptingCurrencyNum,whitepaper,video,socialMedia,GitHub,teamLinkedIn,teamPhotos,CEOPhoto
+1,N,15-04-2018,01-03-2018,12750000,14,Estonia,"Charity,Education,Health,Smart Contract",2.6,2.4,2.4,Ethereum,1,1,1,0,0,86%,100%,0
+2,N,25-08-2017,25-07-2017,0,13,Singapore,Infrastructure,2.1,0,0,unknown,1,1,1,0,1,0%,100%,0
+3,Y,23-11-2017,18-11-2017,2220000000,9,Singapore,"Platform,Business services",2.5,0,0,Ethereum,unknown,1,0,3,0,0%,100%,0
+4,Y,18-05-2018,22-04-2018,45000000,7,Mexico,"Internet,Infrastructure,Cryptocurrency,Business services,Big Data,Banking,Artificial Intelligence,Legal,Real estate,Smart Contract,Software",2.1,1,2,Ethereum,2,1,0,0,0,0%,100%,1
+5,Y,02-02-2018,01-02-2018,80000000,20,Gibraltar,"Platform,Infrastructure,Energy",4.3,4.4,4,Ethereum,1,1,1,2,1,100%,100%,0
+6,N,30-04-2018,12-03-2018,120000000,10,South Africa,"Platform,Cryptocurrency,Internet,Media,Retail",3.5,3.3,3.3,Ethereum,1,1,1,3,1,90%,100%,1
+7,N,23-04-2018,24-03-2018,10000000,4,Switzerland,"Smart Contract,Cryptocurrency",2.5,0,0,Ethereum,unknown,1,1,0,1,100%,100%,1
+8,Y,06-12-2017,06-11-2017,51000000,22,UK,"Banking,Platform,Software",3.5,4.2,3.6,Ethereum,3,1,0,3,1,95%,100%,0
+9,Y,08-10-2017,08-09-2017,6000000,7,Russia,"Infrastructure,Platform",3.3,3,3,Ethereum,1,1,1,0,1,29%,100%,1
+10,N,30-11-2017,01-11-2017,0,13,Estonia,"Cryptocurrency,Internet,Investment,Energy",2,0,0,Ethereum,unknown,1,0,0,0,23%,100%,0
+11,N,31-10-2017,01-10-2017,0,7,USA,"Platform,Investment,Cryptocurrency",2.1,1,1,Ethereum,1,1,0,3,1,0%,57%,0
+12,Y,29-04-2018,01-04-2018,30000000,12,Japan,Business services,2.3,0,0,Ethereum,3,1,1,0,0,0%,100%,1
+13,N,03-03-2018,03-02-2018,0,4,United Kingdom,"Artificial Intelligence,Investment,Big Data",1.9,4,4,Ethereum,2,1,0,0,0,0%,0%,0
+14,N,15-02-2018,15-01-2018,100000000,3,United Arab Emirates,"Platform,Other",1.8,3,3,EOS,1,1,1,0,0,0%,0%,0
+15,Y,30-09-2017,30-08-2017,29999997,6,Switzerland,Health,2.5,0,0,Litecoin,3,1,1,0,1,0%,100%,0
+16,N,31-10-2017,11-09-2017,0,10,Russia,"Business services,Investment,Energy",3.4,3.2,3,Ethereum,1,1,1,0,1,90%,100%,1
+17,N,11-06-2018,11-03-2018,30000000,8,USA,Media,2.3,0,0,Ethereum,1,1,1,0,0,88%,100%,0
+18,N,29-05-2018,06-03-2018,0,8,Cyprus,"Infrastructure,Real estate,Tourism",2.8,0,0,Ethereum,4,1,0,0,1,50%,100%,0
+19,Y,12-01-2018,08-01-2018,187500000,14,USA,"Artificial Intelligence,Business services",2.9,3,3,Ethereum,2,1,1,3,1,100%,100%,1
+20,N,18-12-2017,16-11-2017,0,4,Bulgaria,Other,1.5,0,0,WAVES,10,1,0,0,0,0%,100%,0
+21,N,19-03-2018,19-02-2018,400000000,1,Russia,Investment,1.3,1,1,WAVES,3,1,0,0,0,0%,100%,1
+22,Y,11-08-2017,10-07-2017,3000000,9,United Arab Emirates,Cryptocurrency,2.8,0,0,Ethereum,2,1,1,0,1,0%,100%,0
+23,N,27-04-2018,10-04-2018,142975000,23,USA,"Cryptocurrency,Casino & Gambling,Entertainment,Platform,Software",3.6,3.5,3.5,Ethereum,3,1,0,3,1,96%,100%,0
+24,N,15-05-2018,15-02-2018,200000000,9,USA,"Legal,Cryptocurrency,Platform,Real estate,Smart Contract",3.9,4.6,4.3,Ethereum,7,1,1,0,0,100%,88%,1
+25,Y,20-05-2018,20-04-2018,24000000,11,Singapore,"Platform,Cryptocurrency,Software",3.2,3.2,2.7,Ethereum,4,1,1,0,1,91%,100%,0
+26,Y,11-03-2018,11-02-2018,122400000,16,Cyprus,"Business services,Investment,Internet",3,3.1,2.6,Ethereum,1,1,1,0,1,100%,100%,0
+27,Y,31-05-2018,01-03-2018,1,10,India,"Cryptocurrency,Investment,Media,Software",4.3,3.9,4.4,Ethereum,1,1,1,0,1,100%,100%,0
+28,N,11-04-2018,04-04-2018,204000000,21,Isle of Man,"Internet,Entertainment,Cryptocurrency,Casino & Gambling,Sports",4.1,5,4.6,Ethereum,1,1,1,0,0,90%,100%,0
+29,N,25-12-2017,10-11-2017,21000000,4,Russia,Sports,2.1,2.3,2.3,Ethereum,1,1,0,0,0,50%,100%,0
+30,N,28-05-2018,01-05-2018,0,10,Russia,"Artificial Intelligence,Big Data,Communication,Infrastructure,Platform",3,3,3.2,Ethereum,3,1,1,0,1,60%,100%,0
+31,N,31-05-2018,16-04-2018,139000000,6,Thailand,Education,2.4,0,0,Ethereum,1,1,1,0,0,0%,100%,0
+32,N,03-11-2017,03-10-2017,20000000,6,Russia,"Platform,Internet,Business services",2.9,0,0,Ethereum,2,1,1,0,0,33%,100%,0
+33,N,02-09-2017,11-08-2017,15000000,6,Seychelles,"Platform,Cryptocurrency,Entertainment,Internet,Casino & Gambling,Sports",2.4,0,0,Ethereum,1,1,1,0,0,0%,100%,0
+34,Y,20-03-2018,20-02-2018,350000000,14,Slovenia,"Cryptocurrency,Internet,Tourism",3.3,4,3.5,Ethereum,1,1,1,2,0,86%,100%,0
+35,N,08-06-2018,08-05-2018,20000000,9,Latvia,"Banking,Infrastructure,Software",3.8,3.7,3.9,Ethereum,1,1,1,0,1,89%,100%,0
+36,N,29-11-2017,12-10-2017,192000000,16,Czech Republic,"Business services,Cryptocurrency",2.8,0,0,Ethereum,1,1,0,0,1,69%,100%,0
+37,Y,02-11-2017,02-10-2017,433494437,15,USA,"Platform,Business services",2.6,0,0,Ethereum,2,1,1,3,1,100%,100%,1
+38,Y,31-05-2017,31-05-2017,1000000000,12,USA,Cryptocurrency,2.8,5,4.5,Ethereum,1,1,1,3,0,0%,100%,1
+39,N,29-05-2018,15-04-2018,363200000,15,Bulgaria,"Platform,Retail",3,0,0,Ethereum,3,1,1,0,1,33%,100%,0
+40,Y,15-12-2017,29-11-2017,3000000000,17,Russia,"Investment,Platform,Internet,Cryptocurrency",3.1,3.5,3,Ethereum,3,1,1,0,1,29%,100%,0
+41,Y,30-04-2018,12-02-2018,21000000,13,Estonia,"Legal,Business services,Platform",4.5,4.1,4.2,Ethereum,5,1,1,0,1,100%,100%,0
+42,Y,14-08-2017,14-07-2017,60000000,4,USA,Business services,2.3,0,0,Ethereum,1,1,0,0,0,0%,100%,0
+43,N,07-02-2018,20-08-2017,10000000,6,Russia,"Banking,Investment",2.1,3,2,unknown,3,1,0,0,0,0%,100%,0
+44,Y,04-04-2018,04-03-2018,500000000,13,Estonia,"Artificial Intelligence,Banking,Cryptocurrency",4.2,4.5,3.9,Ethereum,2,1,1,3,1,100%,100%,0
+45,N,25-07-2017,25-06-2017,65000000,7,USA,"Platform,Cryptocurrency,Software",2.4,0,0,Ethereum,1,1,1,0,0,0%,100%,0
+46,Y,30-04-2018,01-04-2018,185,9,Canada,"Smart Contract,Cryptocurrency",2.6,0,0,Ethereum,2,1,1,0,0,0%,100%,1
+47,Y,31-05-2018,03-05-2018,700000000,21,Marshall Islands,"Platform,Health,Communication,Business services,Internet,Cryptocurrency,Smart Contract,Software,Infrastructure,Legal",4.4,4.7,4.2,Ethereum,1,1,1,3,1,95%,100%,0
+48,Y,13-02-2018,16-01-2018,750000000,11,Singapore,"Software,Tourism",4.1,4.3,3.8,Ethereum,1,1,1,0,1,100%,100%,1
+49,Y,13-01-2018,01-01-2018,10000000,21,Singapore,"Big Data,Business services,Cryptocurrency,Platform",4.3,4.3,4.2,Ethereum,2,1,1,0,1,95%,100%,0
+50,N,15-09-2017,01-09-2017,800000,3,Belgium,Other,1.9,0,0,Ethereum,1,1,1,0,1,0%,100%,0
+51,N,25-12-2017,25-11-2017,50000000,9,India,Cryptocurrency,2.9,3.2,3.1,Ethereum,2,1,1,0,1,100%,100%,0
+52,N,31-03-2018,01-03-2018,0,8,USA,"Communication,Platform,Software",3.4,3,3.2,Ethereum,1,1,1,0,1,100%,100%,1
+53,Y,19-04-2018,19-03-2018,30000000,16,United Arab Emirates,"Platform,Cryptocurrency,Investment",4.5,4.7,4.7,Ethereum,4,1,1,0,1,69%,100%,1
+54,Y,24-01-2018,21-12-2017,5000000000,42,Luxembourg,"Business services,Big Data,Banking,Artificial Intelligence,Cryptocurrency,Investment,Legal,Platform,Smart Contract,Software",3.4,2.9,3.2,Ethereum,1,1,1,3,1,98%,100%,0
+55,Y,19-12-2017,19-12-2017,500000000,14,Switzerland,"Platform,Cryptocurrency,Software,Internet,Infrastructure",4.1,4.6,3.8,Ethereum,1,1,1,3,1,0%,100%,1
+56,Y,27-04-2018,27-03-2018,150000000,29,Estonia,"Platform,Health",4.1,4.4,4,Ethereum,1,1,1,0,1,66%,100%,0
+57,N,16-11-2017,16-09-2017,0,11,Singapore,"Cryptocurrency,Retail,Business services",1.5,0,0,unknown,1,0,1,0,0,100%,100%,0
+58,N,12-01-2018,18-12-2017,10000000,6,Singapore,"Software,Cryptocurrency",1.6,2,1,Ethereum,2,1,0,0,0,0%,100%,0
+59,Y,08-07-2017,28-06-2017,10500000,13,Sweden,Cryptocurrency,3.2,4,5,Ethereum,1,1,1,0,1,0%,100%,0
+60,N,30-12-2017,05-12-2017,20000000,11,Russia,"Platform,Cryptocurrency",2.8,3.7,3,Ethereum,1,1,1,0,0,73%,100%,0
+61,N,01-05-2018,08-04-2018,86400000,8,Hungary,"Electronics,Infrastructure",2.5,0,0,Ethereum,4,1,1,0,0,100%,100%,0
+62,N,02-05-2018,02-04-2018,300000000,6,USA,"Health,Cryptocurrency",2.5,0,0,Ethereum,unknown,1,0,0,1,67%,100%,0
+63,Y,15-10-2017,15-09-2017,30000000,10,Slovenia,"Cryptocurrency,Platform,Investment",4.2,4.2,4,Ethereum,1,1,1,0,1,70%,100%,0
+64,Y,14-08-2017,03-07-2017,375000000,16,Slovenia,"Business services,Platform",4.1,4.6,4,Ethereum,2,1,1,0,0,94%,100%,1
+65,N,22-12-2017,22-11-2017,0,4,Ukraine,"Platform,Business services,Investment",1.8,0,0,Ethereum,unknown,1,0,0,0,0%,100%,1
+66,Y,05-04-2018,27-03-2018,350000000,15,Estonia,"Big Data,Business services,Platform,Smart Contract",4,4,4,Ethereum,4,1,0,0,0,100%,100%,0
+67,Y,28-09-2017,31-08-2017,45000000,7,Spain,"Cryptocurrency,Platform,Internet,Investment,Business services,Banking,Software",2.8,0,0,Ethereum,1,1,0,0,1,71%,100%,0
+68,N,10-11-2017,10-09-2017,0,4,Russia,Cryptocurrency,1.4,2,2,Waves,unknown,0,0,0,0,0%,100%,0
+69,N,22-03-2018,20-02-2018,105000000,11,Vietnam,"Artificial Intelligence,Cryptocurrency,Smart Contract",2.3,0,0,unknown,unknown,1,0,0,1,64%,100%,0
+70,Y,20-09-2017,21-08-2017,11500000,23,Canada,Investment,3.1,0,0,Waves,2,1,1,3,0,0%,100%,1
+71,Y,24-03-2018,10-02-2018,10350000,6,Sweden,Education,2.8,3,3,Ethereum,1,1,1,0,1,17%,100%,0
+72,Y,17-03-2018,01-03-2018,10000000000,21,Lithuania,Media,3.5,3.2,2,Ethereum,1,1,1,0,0,86%,86%,0
+73,N,27-12-2017,01-12-2017,300000000,8,Canada,"Banking,Cryptocurrency",1.6,0,0,Ethereum,1,0,0,0,1,0%,100%,0
+74,Y,14-10-2017,14-09-2017,600000000,13,Austria,"Entertainment,Casino & Gambling",3.7,4.5,3.9,Ethereum,1,1,1,2,1,100%,100%,1
+75,N,30-01-2018,01-12-2017,75000000,12,Estonia,"Platform,Business services,Software",2.9,4,4,Ethereum,1,1,1,0,1,58%,100%,0
+76,N,05-06-2018,26-04-2018,70000000,7,Latvia,Platform,2.9,0,0,Ethereum,1,1,0,0,0,100%,100%,1
+77,N,01-05-2018,01-04-2018,600000000,15,Korea,"Artificial Intelligence,Big Data,Cryptocurrency,Investment",2.4,0,0,Ethereum,1,1,0,0,0,47%,100%,1
+78,Y,31-05-2018,15-04-2018,3500000000,24,Japan,"Artificial Intelligence,Big Data,Business services,Cryptocurrency,Infrastructure,Platform",3,0,0,Ethereum,1,1,1,0,0,44%,100%,0
+79,N,10-06-2018,06-06-2018,3200000000,9,Singapore,Cryptocurrency,2,0,0,Ethereum,1,1,0,3,0,0%,100%,0
+80,N,30-05-2018,15-04-2018,2250000000,4,Ukraine,"Artificial Intelligence,Platform",2.3,0,0,Ethereum,1,1,0,0,0,0%,100%,0
+81,Y,30-11-2017,16-10-2017,75000000,19,USA,Investment,4.1,4.2,4.1,Ethereum,1,1,1,0,1,100%,100%,0
+82,Y,04-08-2017,06-07-2017,10000000,4,Panama,Entertainment,3,0,0,Waves,unknown,1,0,3,0,0%,100%,1
+83,Y,18-04-2018,21-03-2018,250000000,23,Estonia,Virtual Reality,2.9,0,0,Ethereum,1,1,0,0,0,43%,100%,1
+84,Y,21-02-2018,07-12-2017,22440000,5,UK,"Manufacturing,Platform,Health",2.1,3,2.4,Ethereum,5,1,0,0,0,0%,100%,0
+85,Y,30-09-2017,25-08-2017,8700000,12,USA,"Platform,Tourism",2.4,3.5,3.2,Ethereum,1,0,1,0,0,100%,100%,0
+86,Y,01-06-2018,03-03-2018,24999999,22,UK,"Communication,Banking,Cryptocurrency,Investment,Other,Smart Contract,Software",4.2,4.7,4.1,Ethereum,2,1,1,2,1,96%,100%,1
+87,N,30-09-2017,01-09-2017,0,4,Malaysia,Cryptocurrency,2.3,0,0,unknown,3,1,0,2,0,0%,100%,0
+88,N,18-03-2018,18-01-2018,255200,8,Canada,"Artificial Intelligence,Business services,Platform,Software",2.9,3,3,Ethereum,1,1,1,0,1,100%,100%,0
+89,Y,08-09-2017,12-08-2017,1000000000,3,USA,"Platform,Retail",2.5,0,0,Ethereum,1,1,1,0,1,0%,100%,0
+90,N,08-06-2018,23-05-2018,7,15,Spain,"Business services,Cryptocurrency,Investment,Platform,Smart Contract,Software",4.3,4.3,4.2,Ethereum,2,1,1,0,1,86%,100%,0
+91,N,04-02-2018,08-01-2018,500000000,9,USA,"Platform,Tourism",2.9,3.3,3,Ethereum,1,1,0,0,1,0%,0%,0
+92,N,19-05-2018,19-03-2018,437000000,11,Slovenia,"Business services,Communication,Cryptocurrency,Platform",2.6,0,0,Ethereum,unknown,1,0,0,0,55%,100%,0
+93,N,29-12-2017,27-10-2017,39999999,3,Russia,"Investment,Business services",1.8,2,2,Waves,4,1,1,0,0,0%,100%,0
+94,N,25-02-2018,25-12-2017,80,8,UK,"Platform,Cryptocurrency,Investment,Infrastructure,Real estate",2.4,3.5,2.7,unknown,2,1,1,0,0,88%,100%,1
+95,Y,06-03-2018,04-02-2018,8550000000,9,Singapore,Cryptocurrency,2.4,0,0,Ethereum,2,1,1,0,0,63%,100%,0
+96,N,15-03-2018,16-02-2018,72000000,12,UK,"Platform,Software,Communication,Infrastructure",3,0,0,Ethereum,unknown,1,1,3,0,8%,100%,0
+97,Y,05-09-2017,05-09-2017,120000000,31,Slovenia,Entertainment,4.3,4.7,3.9,Ethereum,1,1,1,3,1,94%,100%,1
+98,N,31-03-2018,09-03-2018,0,8,UK,"Business services,Software",2,0,0,Ethereum,1,1,0,0,0,0%,100%,0
+99,Y,08-12-2017,08-11-2017,3000000,22,Russia,"Software,Platform",3.3,3,3,Ethereum,5,1,1,0,1,59%,100%,1
+100,N,05-06-2018,06-04-2018,245000000,6,Lithuania,Platform,2.2,1.6,1.6,Ethereum,1,1,1,0,1,100%,100%,1
+101,N,30-03-2018,26-02-2018,0,10,Switzerland,"Cryptocurrency,Platform",2.3,0,0,Ethereum,unknown,1,1,0,0,90%,100%,0
+102,N,25-04-2018,15-02-2018,0,12,UK,Charity,1.4,0,0,unknown,2,0,1,0,1,100%,100%,0
+103,N,31-12-2017,01-12-2017,22000,10,Russia,"Investment,Platform,Infrastructure",2.9,3.5,4.1,Ethereum,3,1,1,0,0,20%,100%,1
+104,N,29-03-2018,04-03-2018,800000000,3,USA,Internet,2.1,0,0,Ethereum,1,1,1,0,0,100%,100%,0
+105,N,31-10-2017,01-10-2017,65000000,10,Malaysia,Real estate,2.4,2,1,Waves,10,1,1,0,0,70%,100%,0
+106,Y,02-06-2018,01-05-2018,400000000,20,Switzerland,"Banking,Business services,Smart Contract",2.4,0,0,Ethereum,3,1,0,0,1,95%,100%,1
+107,Y,28-02-2018,29-11-2017,14000000,9,Laos,"Retail,Manufacturing",3.2,3.7,3.7,Ethereum,2,1,1,0,0,44%,100%,0
+108,N,15-09-2017,15-08-2017,0,2,Georgia,"Business services,Platform",1.9,0,0,unknown,unknown,1,1,0,0,0%,100%,0
+109,N,23-03-2018,23-02-2018,250000000,21,Singapore,Big Data,3.1,2.8,4.1,Ethereum,1,1,0,2,1,0%,100%,1
+110,Y,10-04-2018,20-03-2018,1500000000,16,UK,"Cryptocurrency,Entertainment",3.7,3.8,3.5,Ethereum,1,1,1,0,1,100%,100%,0
+111,Y,15-01-2018,15-01-2018,5100000000,13,China,"Big Data,Platform,Artificial Intelligence,Smart Contract",3.7,3.5,3.3,NEO,1,1,1,0,1,85%,100%,0
+112,N,28-02-2018,15-01-2018,100000000,6,Canada,Cryptocurrency,2.6,2.7,2.7,Ethereum,5,1,1,0,0,100%,100%,1
+113,N,28-02-2018,31-01-2018,1782692307,24,Germany,"Platform,Retail,Business services,Internet",3.3,4,4,Ethereum,1,1,1,0,1,83%,100%,1
+114,Y,15-12-2017,15-11-2017,36900000,8,Netherlands,"Platform,Software,Entertainment,Media",3.5,0,0,Ethereum,1,1,0,3,0,88%,100%,1
+115,Y,14-04-2018,14-03-2018,350000000,15,USA,Media,4.1,4.6,4.4,Ethereum,unknown,1,1,0,1,100%,100%,1
+116,N,10-06-2018,02-05-2018,42000000,12,Luxembourg,"Cryptocurrency,Investment,Software,Banking,Internet",2.3,1.8,1.3,Ethereum,3,1,0,0,0,91%,100%,0
+117,N,01-03-2018,01-02-2018,0,7,Russia,"Platform,Media",2.8,0,0,Waves,unknown,1,0,3,0,57%,100%,1
+118,N,31-03-2018,01-03-2018,6000000000,3,USA,"Platform,Smart Contract",2.1,0,0,Ethereum,1,1,1,0,1,100%,100%,0
+119,Y,28-02-2018,05-12-2017,400000000,40,Gibraltar,Real estate,4,4.4,3.7,Ethereum,2,1,1,3,1,58%,90%,1
+120,Y,31-05-2018,01-05-2018,425000000,18,Brazil,"Business services,Cryptocurrency,Investment,Platform",4.3,4.4,4.1,Ethereum,1,1,1,0,1,100%,100%,0
+121,Y,15-04-2018,01-04-2018,9,14,Singapore,"Art,Entertainment,Media",3.2,3,3,Ethereum,1,1,1,3,1,54%,100%,1
+122,N,14-10-2017,13-09-2017,54600000,19,Canada,Entertainment,3.4,3.6,3.2,Ethereum,1,1,1,3,1,74%,95%,0
+123,N,14-05-2018,10-03-2018,0,4,Sweden,Cryptocurrency,1.7,1,1,Ethereum,1,1,0,0,0,0%,100%,0
+124,Y,04-06-2018,28-03-2018,55000000,19,UK,"Internet,Infrastructure,Communication,Business services,Platform,Smart Contract,Software",4.6,4.8,4.4,Hyperledger,3,1,1,3,1,100%,100%,0
+125,N,15-12-2017,15-11-2017,100000000,8,Germany,"Internet,Platform,Communication,Media",2.4,0,0,Ethereum,2,1,0,0,0,25%,100%,0
+126,Y,17-12-2017,17-11-2017,12500000,18,Gibraltar,"Platform,Cryptocurrency,Retail,Media,Entertainment,Investment",3,3.7,2.1,Ethereum,2,1,1,0,1,94%,100%,0
+127,Y,20-10-2017,10-10-2017,18,4,Singapore,Cryptocurrency,3.4,3.4,2.4,Ethereum,1,1,1,0,1,0%,100%,0
+128,Y,30-05-2018,01-03-2018,3000000000,17,USA,"Business services,Tourism",2.6,0,0,Ethereum,1,1,1,0,0,100%,71%,1
+129,Y,30-04-2018,21-03-2018,570500000,32,Slovenia,"Artificial Intelligence,Energy,Infrastructure",4.1,3.7,4.2,Ethereum,1,1,1,0,1,72%,100%,0
+130,Y,05-02-2018,15-01-2018,110000000,18,Indonesia,"Cryptocurrency,Infrastructure,Investment,Platform",3.4,0,0,Ethereum,2,1,1,0,1,0%,100%,0
+131,Y,01-11-2017,01-10-2017,2.40E+11,25,Netherlands,Health,3.7,4.3,3.5,Ethereum,1,1,1,0,1,85%,100%,1
+132,Y,15-04-2018,19-03-2018,395000000,17,France,"Banking,Artificial Intelligence,Big Data,Business services,Communication,Education,Energy,Entertainment,Health,Infrastructure,Internet,Media,Platform,Software",3.6,3.9,2.5,Neurochain,2,1,1,0,1,100%,100%,1
+133,N,29-05-2018,15-04-2018,85000000,6,UK,Cryptocurrency,2.6,0,0,Ethereum,3,1,1,0,0,100%,100%,0
+134,N,10-12-2017,14-11-2017,0,7,UK,Banking,2.9,2,2.6,unknown,1,1,1,2,1,100%,100%,0
+135,N,31-05-2018,02-04-2018,150000000,11,UK,Business services,2.5,0,0,Ethereum,3,1,1,0,0,100%,100%,0
+136,Y,31-05-2018,01-02-2018,14250000,8,Switzerland,"Energy,Investment",3.8,0,0,Ethereum,3,1,1,3,1,50%,100%,0
+137,Y,09-04-2018,12-02-2018,650000000,13,UK,Internet,3.4,3,3.1,Ethereum,4,1,1,0,1,62%,100%,1
+138,Y,14-01-2018,15-12-2017,124500000,10,Switzerland,"Cryptocurrency,Software,Investment,Infrastructure,Manufacturing,Energy",3,3.2,3.3,Ethereum,3,1,1,0,0,0%,100%,0
+139,N,06-04-2018,15-02-2018,50000000,2,Germany,"Platform,Cryptocurrency,Investment",2.3,1,1,Ethereum,unknown,1,0,3,1,100%,0%,0
+140,N,11-04-2018,01-03-2018,70000000,10,Austria,"Entertainment,Media",2.1,2.3,2,Ethereum,1,1,0,0,0,67%,78%,0
+141,Y,13-02-2018,31-01-2018,150000000,20,USA,Real estate,4,4.4,3.6,Ethereum,1,1,0,0,1,100%,100%,1
+142,N,21-11-2017,24-10-2017,100000000,11,Mexico,"Entertainment,Platform,Other",3,5,4,Ethereum,1,1,1,0,1,100%,100%,0
+143,N,31-08-2017,01-08-2017,20000000,5,Canada,Investment,2,0,0,Ethereum,1,1,0,0,0,0%,100%,0
+144,N,20-03-2018,28-02-2018,0,5,Bulgaria,Cryptocurrency,2.1,0,0,Ethereum,1,1,0,0,0,100%,100%,0
+145,Y,17-01-2018,15-01-2018,250000000,15,Slovenia,"Platform,Retail,Software",3.8,4.1,3.2,Ethereum,1,1,1,3,1,100%,100%,0
+146,N,09-06-2017,09-06-2017,55000000,7,USA,Cryptocurrency,2.5,5,5,Ethereum,1,0,1,3,0,0%,100%,0
+147,Y,30-04-2018,01-03-2018,500000000,9,Russia,"Cryptocurrency,Platform,Business services,Infrastructure",2.3,0,0,ETH,unknown,1,0,0,1,11%,100%,0
+148,N,31-03-2018,16-02-2018,30000000,4,USA,"Business services,Communication,Cryptocurrency,Investment,Platform",1.3,0,0,Ethereum,1,1,0,0,0,0%,0%,0
+149,N,10-12-2017,10-11-2017,330000000,3,USA,"Business services,Cryptocurrency",2.4,3,2,Ethereum,1,1,0,0,1,100%,100%,0
+150,Y,24-07-2017,24-07-2017,53252246,5,UK,Business services,3.1,0,0,Ethereum,unknown,1,0,0,1,100%,100%,0
+151,N,10-11-2017,27-10-2017,150000,4,Japan,"Platform,Cryptocurrency",1.9,2,2,Ethereum,unknown,1,0,0,0,100%,0%,0
+152,N,30-04-2018,19-03-2018,65000000,1,UK,"Other,Investment,Cryptocurrency,Platform",1.7,1,1,Ethereum,2,1,0,0,0,100%,0%,0
+153,N,20-12-2017,20-11-2017,50000000,6,India,"Business services,Investment,Platform",2.8,3,4,Ethereum,1,1,1,0,1,50%,100%,0
+154,N,14-05-2018,22-10-2017,60000000,7,USA,"Software,Business services,Platform",2.5,0,0,Ethereum,1,1,0,0,1,43%,100%,0
+155,Y,19-04-2017,19-04-2017,87000000,10,France,Platform,3.1,0,0,unknown,2,1,1,2,0,90%,0%,0
+156,N,31-03-2018,05-03-2018,2700000,3,india,Cryptocurrency,1.5,0,0,unknown,unknown,1,1,0,0,100%,100%,0
+157,N,22-04-2018,22-02-2018,10500000,5,UK,"Business services,Platform",2.4,2,2,CryptoNote-based Blockchain,5,1,0,0,1,100%,60%,1
+158,Y,15-01-2018,24-11-2017,165000000,18,Gibraltar,"Platform,Investment,Education",3.2,3.6,2.5,Ethereum,1,1,1,3,1,100%,100%,0
+159,Y,31-01-2018,07-12-2017,64000000,14,Lithuania,"Internet,Infrastructure,Platform,Cryptocurrency,Software",3.4,3.4,3.2,Ethereum,4,1,1,0,1,88%,100%,0
+160,N,14-02-2018,10-01-2018,130000000,12,Seychelles,Energy,1.8,1,1,Ethereum,1,1,0,0,0,0%,100%,0
+161,Y,07-03-2018,07-02-2018,15000000000,8,USA,Investment,3.6,5,5,Ethereum,8,1,1,2,1,50%,100%,1
+162,N,14-10-2017,06-10-2017,200000000,20,Denmark,"Platform,Software",2.4,3,3,Ethereum,3,1,0,0,0,0%,80%,0
+163,Y,30-04-2018,02-04-2018,31000000,14,Switzerland,Platform,4.2,4.7,4.3,Ethereum,1,1,1,3,1,79%,93%,1
+164,Y,11-04-2018,11-03-2018,73270000,14,UK,"Platform,Infrastructure",3.7,4,3.3,Ethereum,1,1,1,0,1,100%,100%,1
+165,Y,26-12-2017,26-11-2017,60000000,16,Australia,"Platform,Investment,Cryptocurrency,Software",2.9,3,2.9,Ethereum,1,1,1,0,1,100%,100%,1
+166,Y,05-03-2018,29-01-2018,40000000,14,Estonia,"Business services,Software",3.7,3.6,2.5,Ethereum,1,1,1,2,1,89%,100%,1
+167,Y,17-11-2017,02-10-2017,40000000,24,Russia,"Platform,Business services",4.3,4.5,4.7,Ethereum,6,1,1,2,0,25%,100%,1
+168,N,22-11-2017,01-11-2017,200000000,6,Russia,"Platform,Entertainment,Art",2,1.6,1.4,Ethereum,1,1,0,0,0,0%,100%,0
+169,Y,15-02-2018,01-02-2018,7000000,10,Switzerland,Tourism,3.4,3.5,2.8,Ethereum,1,1,1,2,1,100%,100%,0
+170,N,30-04-2018,19-03-2018,0,7,Russian,Cryptocurrency,2.4,0,0,Ethereum,1,1,0,0,0,43%,86%,0
+171,N,10-06-2018,16-04-2018,141,18,Belarus,"Infrastructure,Cryptocurrency,Big Data,Platform,Smart Contract,Software",3.5,3.2,2.9,Ethereum,5,1,1,0,1,100%,100%,0
+172,N,31-10-2017,15-09-2017,50000000,2,USA,"Business services,Platform,Cryptocurrency",2.1,0,0,Ethereum,8,1,1,1,0,50%,100%,1
+173,N,15-04-2018,15-03-2018,1500000000,6,UK,"Business services,Cryptocurrency,Internet,Media,Platform,Retail",1.9,0,0,Ethereum,1,1,0,0,0,0%,100%,0
+174,N,23-11-2017,26-10-2017,0,3,Russia,Manufacturing,1.8,0,0,unknown,1,1,0,0,0,0%,100%,0
+175,Y,15-05-2018,08-05-2018,904000000,19,Slovenia,"Investment,Business services,Banking,Artificial Intelligence,Platform",3.6,3.7,2.9,Ethereum,1,1,1,0,0,100%,100%,0
+176,N,22-09-2017,08-09-2017,0,7,Singapore,"Platform,Business services,Entertainment,Software",1.7,3,2.2,unknown,unknown,1,1,0,0,0%,100%,0
+177,Y,20-04-2018,15-03-2018,9325000,5,USA,Cryptocurrency,2.9,0,0,Ethereum,1,1,1,0,1,43%,100%,0
+178,Y,20-10-2017,16-09-2017,80000000,5,Malta,"Casino & Gambling,Entertainment",3,4.1,3.4,Ethereum,1,1,1,0,1,100%,100%,0
+179,Y,08-05-2018,01-03-2018,160000000,17,USA,Entertainment,3.5,3.4,3.2,Ethereum,2,1,1,0,1,100%,100%,0
+180,Y,27-01-2018,29-11-2017,66666666,19,Estonia,"Software,Platform",3.8,4,4.2,Ethereum,1,1,1,0,1,37%,100%,1
+181,Y,24-11-2017,24-10-2017,200000000,9,Argentina,"Platform,Entertainment,Media",3.5,4,4,Ethereum,1,1,1,3,0,100%,100%,0
+182,N,08-01-2018,18-12-2017,18000000,13,Ukraine,"Cryptocurrency,Platform,Investment,Business services",1.8,1.8,1.3,Ethereum,1,0,1,0,1,31%,100%,0
+183,Y,15-03-2018,05-02-2018,3000000000,37,Singapore,"Other,Investment,Internet,Infrastructure,Cryptocurrency,Business services,Banking,Platform,Smart Contract,Tourism",4.3,4.3,4.3,Ethereum,1,1,1,0,1,68%,70%,0
+184,Y,29-12-2017,29-11-2017,1000000000,16,Russia,"Platform,Communication",3.8,5,5,Ethereum,3,1,1,0,1,88%,100%,1
+185,Y,23-03-2018,16-03-2018,325000000,13,USA,"Platform,Banking",4.1,4.3,3.8,Ethereum,3,1,1,3,1,100%,100%,1
+186,Y,18-05-2018,18-04-2018,342000000,19,Singapore,"Internet,Platform,Electronics,Media,Communication,Infrastructure,Software",3.7,3.8,3.4,Ethereum,1,1,1,0,1,95%,100%,0
+187,Y,19-04-2018,20-11-2017,350,2,Estonia,"Platform,Cryptocurrency,Business services,Infrastructure",3.4,3,3,Ethereum,1,1,1,0,0,100%,100%,1
+188,N,14-09-2017,14-08-2017,112000000,7,Kyrgyzstan,Platform,1.9,0,0,Ethereum,1,0,1,0,1,0%,100%,0
+189,N,31-01-2018,01-01-2018,1950000,6,Singapore,Cryptocurrency,2.3,1.6,2.3,Ethereum,1,1,0,0,1,83%,100%,0
+190,N,24-10-2017,04-10-2017,3250000,21,Spain,Energy,3.3,3,1,Ethereum,1,1,0,0,1,90%,100%,0
+191,N,19-10-2017,19-09-2017,1.24E+12,4,Israel,"Platform,Software,Retail",2.9,0,0,Ethereum,1,1,1,0,1,100%,100%,0
+192,N,29-11-2017,21-11-2017,0,2,UK,"Casino & Gambling,Platform",1.6,2,2,Ethereum,1,1,0,0,0,100%,100%,0
+193,N,07-05-2018,19-03-2018,175,13,Czech Republic,"Artificial Intelligence,Big Data,Education,Energy,Health,Virtual Reality",2.3,0,0,Counterparty,unknown,1,1,0,1,0%,62%,0
+194,N,10-06-2018,11-04-2018,0,18,Russia,Energy,2.5,0,0,Ethereum,1,1,0,0,1,0%,100%,0
+195,Y,27-12-2017,27-11-2017,10000000,7,Russia,"Cryptocurrency,Manufacturing",2.8,3,3,Ethereum,1,1,1,0,1,71%,100%,0
+196,Y,15-03-2018,15-12-2017,1000000000,11,South Africa,"Platform,Business services",3.4,3.5,3.5,Ethereum,1,1,1,0,0,100%,100%,1
+197,N,18-08-2017,17-07-2017,5000000,8,USA,"Entertainment,Internet",3,0,0,Ethereum,1,1,1,3,1,93%,100%,1
+198,N,10-06-2018,26-04-2018,12000000,13,Australia,Retail,2.3,3,3,Ethereum,2,1,1,0,1,100%,100%,0
+199,N,12-01-2018,25-12-2017,50000000,8,Liechtenstein,Investment,4.3,4.7,4.1,Ethereum,4,1,0,0,1,100%,100%,0
+200,Y,25-02-2018,25-01-2018,33000000,33,Switzerland,Communication,3.6,4,3.2,Ethereum,4,1,1,0,1,88%,100%,0
+201,Y,20-07-2017,20-06-2017,100000000,8,Malta,"Entertainment,Sports",2.5,2,2,Ethereum,1,1,1,0,0,38%,100%,0
+202,Y,08-05-2018,18-04-2018,1200000,17,Slovenia,"Software,Real estate,Platform,Infrastructure,Cryptocurrency",3.9,3.9,3.4,Ethereum,1,1,1,3,1,88%,100%,1
+203,N,20-04-2018,19-03-2018,65000000,11,UK,"Cryptocurrency,Manufacturing",3.2,4.4,3.8,Ethereum,unknown,1,1,0,1,0%,100%,0
+204,Y,01-02-2018,01-02-2018,200000000,17,UK,Health,4.4,4.5,4.1,Ethereum,2,1,1,2,0,100%,100%,0
+205,Y,10-02-2018,11-12-2017,4750000000,23,Philippines,"Platform,Cryptocurrency,Retail",3.7,4.6,3.7,NEM,3,1,1,1,0,43%,100%,0
+206,N,31-03-2018,01-03-2018,25,11,France,"Business services,Communication",2,0,0,Ethereum,1,1,0,0,0,36%,100%,0
+207,Y,20-03-2018,01-03-2018,20000000,10,Singapore,"Cryptocurrency,Infrastructure,Smart Contract",3.4,4.1,3.2,Ethereum,1,1,1,0,1,100%,100%,0
+208,Y,10-08-2017,23-07-2017,21000000,4,Latvia,Casino & Gambling,1.8,0,0,Ethereum,2,1,0,0,0,0%,100%,1
+209,Y,11-05-2018,12-03-2018,53760000,18,Seychelles,Real estate,4.2,4.5,4,Ethereum,1,1,1,0,1,94%,100%,0
+210,Y,29-05-2018,01-05-2018,56000000,7,Switzerland,"Entertainment,Communication,Tourism",2.6,0,0,Ethereum,1,1,1,0,1,0%,100%,1
+211,Y,06-09-2017,08-08-2017,200000000,24,Singapore,"Platform,Cryptocurrency",2.9,0,0,Ethereum,unknown,1,1,3,0,97%,100%,1
+212,N,01-06-2018,01-05-2018,0,4,Netherlands,Tourism,2,1,1,Waves,2,1,0,0,0,100%,100%,0
+213,N,23-12-2017,24-11-2017,142000000,15,Russia,Investment,3.5,4,3.7,Ethereum,5,1,1,2,1,87%,100%,0
+214,N,30-01-2018,05-01-2018,0,2,Netherlands,"Platform,Cryptocurrency,Business services,Investment,Infrastructure,Retail",2,2,2,Ethereum,2,1,0,0,0,100%,0%,0
+215,Y,30-01-2018,10-12-2017,12000000,16,Cyprus,"Business services,Cryptocurrency,Investment,Platform",3,0,0,Ethereum,unknown,1,1,0,0,0%,100%,0
+216,N,11-06-2018,01-04-2018,49978560,12,Bulgaria,"Business services,Platform,Software",3.2,3.6,3.6,Ethereum,1,1,1,0,1,0%,0%,0
+217,N,10-06-2018,03-04-2018,1400000000,4,Singapore,"Investment,Internet,Entertainment,Energy,Electronics,Education,Communication,Business services,Big Data,Artificial Intelligence,Art,Media,Platform,Smart Contract,Software,Virtual Reality",2.3,0,0,Ethereum,1,1,0,0,1,0%,100%,0
+218,N,31-03-2018,01-02-2018,80000000,8,Croatia,Platform,2.4,0,0,Ethereum,1,1,1,0,0,88%,100%,0
+219,N,18-03-2018,16-01-2018,9000000,4,USA,Real estate,2.4,0,0,Ethereum,2,1,0,0,0,75%,100%,0
+220,Y,30-11-2017,18-09-2017,720000,4,Guinea-Bissau,"Energy,Internet,Infrastructure,Electronics",2.3,0,0,Ethereum,1,1,0,3,0,100%,100%,1
+221,N,30-05-2018,02-02-2018,49,7,UK,"Business services,Casino & Gambling,Cryptocurrency,Media,Other,Platform,Retail",2.7,2.4,1.7,Ethereum,1,1,0,0,1,0%,0%,0
+222,Y,28-12-2017,29-11-2017,3141592653,9,Singapore,"Platform,Infrastructure",2.4,0,0,Ethereum,1,1,0,1,0,0%,100%,0
+223,N,18-11-2017,18-10-2017,0,7,USA,"Banking,Cryptocurrency",1.8,0,0,Ethereum,1,0,1,0,0,100%,100%,0
+224,N,31-05-2018,18-04-2018,0,17,Ireland,"Software,Platform",2.7,3.8,3.1,Ethereum,1,1,1,0,1,41%,59%,1
+225,Y,08-04-2018,26-02-2018,14000000,21,Russia,"Health,Cryptocurrency,Artificial Intelligence,Infrastructure,Platform",4.4,4.4,4.1,Ethereum,2,1,1,2,1,86%,100%,0
+226,Y,05-09-2017,08-08-2017,3141592653,9,Singapore,Media,3.1,3,4,Ethereum,2,1,1,2,1,0%,100%,0
+227,Y,20-10-2017,14-09-2017,6300000000,14,UK,Cryptocurrency,4,4.4,4.2,Electroneum,2,1,1,3,1,79%,100%,0
+228,Y,04-11-2017,10-10-2017,66000000,11,Switzerland,Retail,3.5,3.3,3.3,Ethereum,2,1,1,0,0,100%,100%,0
+229,Y,19-12-2017,28-11-2017,400000000,12,UK,"Business services,Platform,Banking",3.6,4.3,3.2,Ethereum,2,1,1,3,1,100%,100%,0
+230,Y,06-10-2017,08-09-2017,350000000,17,Australia,Energy,3.4,3,3,Ethereum,1,1,1,3,0,12%,100%,0
+231,Y,30-04-2018,01-04-2018,140714286,9,Georgia,"Platform,Software,Sports,Tourism,Virtual Reality",3.9,4.4,4,Ethereum,4,1,1,3,1,100%,100%,1
+232,Y,31-05-2018,01-05-2018,5500000000,6,Switzerland,Casino & Gambling,2.8,0,0,Ethereum,2,1,0,0,0,100%,100%,0
+233,N,31-10-2017,01-10-2017,1280000000,10,United Arab Emirates,Energy,2.6,0,0,Ethereum,2,1,1,0,1,0%,100%,1
+234,N,16-05-2018,16-04-2018,0,11,Gibraltar,Artificial Intelligence,2.5,3,2.3,Ethereum,2,1,0,0,1,0%,100%,0
+235,Y,21-05-2018,05-03-2018,10000000,9,Slovak Republic,"Big Data,Infrastructure,Investment,Platform",2.1,0,0,Ethereum,1,1,1,0,0,56%,100%,0
+236,N,03-04-2018,19-03-2018,0,16,India,"Business services,Education,Energy",2.3,0,0,Ethereum,1,1,1,0,1,0%,0%,0
+237,Y,28-02-2018,21-02-2018,52941177,10,Japan,"Charity,Tourism",2.1,0,0,Ethereum,1,1,0,0,0,0%,100%,0
+238,N,31-05-2018,25-03-2018,318000000,10,New Caledonia,"Platform,Investment",2.7,2.6,2.9,Ethereum,1,1,0,0,0,90%,100%,0
+239,N,15-01-2018,15-12-2017,0,14,Japan,"Platform,Other",3.4,5,3,Ethereum,1,1,0,0,1,0%,100%,1
+240,N,01-05-2018,01-03-2018,6000000,5,USA,"Platform,Cryptocurrency,Business services,Banking",1.7,1.5,1.8,Ethereum,unknown,1,0,0,0,100%,100%,1
+241,Y,20-04-2018,31-01-2018,250000000,12,Singapore,"Cryptocurrency,Art,Platform,Software",3.4,3.4,3.2,Ethereum,4,1,1,3,0,0%,100%,0
+242,Y,30-04-2018,16-03-2018,770,22,Cayman Islands,"Business services,Cryptocurrency,Platform,Software",4.5,4.8,4.4,Ethereum,1,1,1,0,0,94%,100%,1
+243,N,01-12-2017,01-11-2017,80000000,15,France,"Internet,Business services,Infrastructure",3.3,4,4.6,Ethereum,1,1,1,0,1,100%,100%,0
+244,Y,30-04-2018,12-02-2018,1692000000,29,Gibraltar,Platform,3.5,4.2,2.7,Ethereum,1,1,1,0,1,21%,100%,0
+245,Y,04-01-2018,07-12-2017,275000000,38,Switzerland,"Investment,Platform",3.6,4.4,2.9,Ethereum,1,1,1,3,0,95%,97%,0
+246,Y,01-12-2017,28-11-2017,46000000,13,Russia,"Retail,Health,Manufacturing,Platform",3.8,4,4.1,Ethereum,2,1,1,2,0,85%,92%,1
+247,N,29-05-2018,02-04-2018,42500000,3,Russia,"Cryptocurrency,Entertainment,Investment",2,2,1,Ethereum,1,1,0,0,0,0%,100%,0
+248,Y,31-05-2018,12-04-2018,1280000000,36,Singapore,Software,4.5,4.6,4.5,Ethereum,2,1,1,2,1,83%,100%,1
+249,N,28-02-2018,15-01-2018,30000000,7,Ukraine,Health,2.4,3,2.7,Ethereum,2,1,1,0,0,0%,100%,1
+250,Y,28-02-2018,05-12-2017,3600000,7,Bulgaria,"Electronics,Manufacturing",2,3,3,Ethereum,unknown,1,1,0,0,0%,100%,1
+251,N,31-12-2017,25-11-2017,10000000,7,Poland,Software,3,0,0,Ethereum,2,1,1,0,1,100%,100%,0
+252,N,31-03-2018,31-12-2017,66000000,14,Russia,Platform,2.7,2,3.5,Ethereum,1,1,1,0,0,43%,100%,1
+253,N,23-02-2018,22-10-2017,0,12,USA,"Entertainment,Platform",2.6,4,5,Ethereum,2,1,1,0,0,50%,100%,1
+254,N,15-03-2018,04-02-2018,0,12,USA,Tourism,3.1,0,0,Ethereum,1,1,1,3,1,100%,100%,0
+255,N,14-12-2017,01-12-2017,10000000,14,Germany,"Communication,Platform,Business services",2.6,2,2,Ethereum,1,1,1,0,1,100%,100%,1
+256,N,18-03-2018,19-02-2018,35,10,Singapore,"Platform,Tourism",2.2,1,1,Ethereum,3,1,0,0,1,0%,100%,0
+257,Y,07-05-2018,09-12-2017,1000000000,8,UK,"Entertainment,Media",2,1,1,Ethereum,1,1,0,0,1,75%,100%,0
+258,Y,28-02-2018,10-01-2018,100000000,18,Russia,Cryptocurrency,3.9,4.4,4.4,Bitshares 2.0,4,1,1,2,1,6%,100%,0
+259,N,14-04-2018,14-02-2018,72000000,7,Czech Republic,Entertainment,1.9,1,1,Ethereum,1,1,0,0,0,0%,57%,0
+260,Y,15-04-2018,01-02-2018,15700000,7,Russia,"Health,Platform",3.7,3.1,2.7,Ethereum,2,1,1,0,1,91%,100%,0
+261,Y,01-05-2018,01-04-2018,8800000,5,South Africa,"Cryptocurrency,Investment",2.4,2,3,Ethereum,1,1,1,0,1,60%,100%,0
+262,N,24-12-2017,03-11-2017,7000000000,4,Thailand,"Platform,Investment,Business services",2,0,0,Ethereum,1,1,0,1,0,0%,100%,0
+263,N,07-12-2017,07-11-2017,67000000,20,Lithuania,"Platform,Business services",3.2,4,3.5,Ethereum,1,1,1,0,1,95%,100%,0
+264,Y,01-11-2018,01-12-2018,15,19,Germany,Cryptocurrency,4.6,5,4.6,Ethereum,1,1,1,0,1,56%,89%,0
+265,N,12-11-2017,15-10-2017,50000000,13,UK,"Tourism,Platform",2.8,2.8,2.7,Ethereum,1,1,1,0,0,8%,100%,1
+266,N,06-10-2017,01-09-2017,44000000,11,UK,"Banking,Cryptocurrency,Investment,Platform,Business services",1.9,0,0,unknown,unknown,1,1,0,0,64%,45%,1
+267,Y,30-05-2018,07-04-2018,100000000,16,Turkey,"Internet,Media,Smart Contract",3.9,5,4,Ethereum,1,1,1,0,1,100%,100%,1
+268,Y,09-06-2018,25-04-2018,10000000,3,Dubai,Business services,2,0,0,Ethereum,2,1,0,0,0,0%,100%,0
+269,N,12-11-2017,31-10-2017,0,7,Japan,"Entertainment,Platform",2.1,0,0,Ethereum,unknown,1,0,0,0,43%,100%,0
+270,N,17-12-2017,17-11-2017,21000000,8,Malta,Business services,2.9,2,2,Ethereum,3,1,1,0,0,100%,100%,1
+271,N,01-09-2017,01-08-2017,0,3,USA,"Business services,Internet",2.3,0,0,unknown,unknown,1,0,0,0,0%,100%,0
+272,Y,31-05-2018,01-03-2018,2500000000,10,United Kingdom,"Banking,Cryptocurrency,Investment",2.9,0,0,Ethereum,4,1,1,0,0,90%,100%,1
+273,Y,11-05-2018,02-02-2018,28200000,7,Spain,"Communication,Electronics,Internet,Software",3.5,3.8,2.8,Ethereum,1,1,1,3,1,86%,100%,0
+274,N,20-05-2018,20-03-2018,3500000,11,USA,Investment,3.2,3.7,3.3,Ethereum,4,1,1,0,0,91%,100%,1
+275,N,31-03-2018,19-01-2018,15000000,6,Curacao,Casino & Gambling,2.1,0,0,Ethereum,unknown,1,0,0,0,17%,100%,0
+276,Y,06-06-2018,31-05-2018,504000000,27,Singapore,"Business services,Platform,Software",4.1,3.9,3.6,Ethereum,3,1,1,3,1,100%,100%,1
+277,Y,18-02-2018,18-01-2018,92233720,16,USA,"Cryptocurrency,Business services,Retail,Software,Internet",3.4,3.3,3.4,Separate blockchain,4,1,1,2,1,81%,94%,1
+278,N,12-02-2018,05-11-2017,0,10,Singapore,"Cryptocurrency,Business services,Software",1.3,2,2,unknown,2,1,0,0,0,0%,0%,0
+279,N,19-03-2018,19-02-2018,400000000,2,Czech Republic,"Cryptocurrency,Entertainment,Infrastructure,Platform,Smart Contract,Virtual Reality",1.6,0,0,Ethereum,1,1,0,0,0,50%,100%,1
+280,N,04-05-2018,04-04-2018,8000000,14,United States,Investment,2.3,2,1,Ethereum,1,1,1,0,0,0%,100%,0
+281,Y,31-05-2017,25-04-2017,150720000,11,Estonia,"Platform,Cryptocurrency",3,0,0,unknown,1,1,1,0,0,45%,100%,1
+282,N,17-10-2017,18-09-2017,0,7,Russia,Cryptocurrency,2,0,0,Ethereum,1,0,1,0,0,29%,100%,0
+283,Y,12-03-2018,10-12-2017,693000000,37,Russia,"Tourism,Cryptocurrency",3.6,3.9,3.3,Separate blockchain,2,1,1,0,1,43%,100%,0
+284,N,10-06-2018,16-04-2018,21750000,13,British Virgin Islands,"Artificial Intelligence,Banking,Cryptocurrency,Investment",3.1,2,2,Ethereum,1,1,1,0,1,0%,100%,0
+285,N,15-03-2018,20-01-2018,0,8,South Africa,"Platform,Sports",3,4,5,Ethereum,6,1,1,0,1,100%,100%,0
+286,Y,29-10-2017,29-09-2017,500000000,16,USA,"Tourism,Infrastructure,Other",2.3,3.2,2,Ethereum,1,1,1,0,1,6%,100%,0
+287,N,31-03-2018,15-12-2017,29750000,11,Latvia,"Business services,Platform",3.3,0,0,Ethereum,5,1,1,0,1,0%,0%,0
+288,Y,09-05-2018,27-02-2018,950000000,19,South Africa,"Casino & Gambling,Entertainment",3.6,4,3.9,Ethereum,2,1,1,0,1,68%,100%,0
+289,Y,05-11-2017,07-10-2017,80000000,6,Estonia,"Real estate,Tourism",3.3,0,0,Ethereum,2,1,0,0,0,100%,100%,0
+290,Y,06-03-2018,06-02-2018,20000000000,23,UK,"Banking,Platform",3.7,3.6,3.8,Ethereum,1,1,1,0,0,96%,100%,1
+291,N,07-12-2017,06-11-2017,10000000,4,Singapore,"Platform,Banking,Business services",3,1.7,3.3,Ethereum,5,1,1,0,0,100%,100%,1
+292,N,02-01-2018,01-11-2017,0,9,USA,"Business services,Cryptocurrency,Software",2.6,3,3,Ethereum,1,1,1,0,1,89%,100%,0
+293,Y,22-02-2018,11-02-2018,240,8,Singapore,"Cryptocurrency,Investment",2.9,0,0,Ethereum,1,1,0,1,1,0%,100%,0
+294,Y,07-03-2018,25-01-2018,3500000,32,Estonia,"Banking,Big Data,Cryptocurrency,Investment,Other,Platform,Software",2.4,3.3,3.1,Ethereum,3,1,1,0,0,38%,100%,1
+295,N,21-12-2017,21-09-2017,0,12,Estonia,"Entertainment,Casino & Gambling",3.6,0,0,Ethereum,1,1,1,0,1,0%,100%,0
+296,Y,31-03-2018,01-03-2018,400000000,18,Cayman Islands,"Internet,Communication",4.1,4.4,3.9,Ethereum,3,1,1,0,0,100%,100%,1
+297,Y,22-02-2018,18-12-2017,36000000,10,Ukraine,"Investment,Business services",2.2,1,1,unknown,4,1,1,0,0,60%,100%,1
+298,N,10-06-2018,21-05-2018,1900000,4,Perú,Education,4.1,0,0,Ethereum,unknown,1,1,0,1,100%,100%,0
+299,Y,31-03-2018,28-02-2018,100000000,12,Mexico,"Platform,Banking",3,3.5,2.7,Ethereum,1,1,1,0,0,100%,100%,1
+300,N,10-12-2017,10-11-2017,200000000,8,France,"Real estate,Manufacturing",2.6,2.7,2.7,Ethereum,1,1,1,0,1,100%,100%,0
+301,Y,10-05-2018,10-04-2018,230400000,10,Estonia,"Business services,Platform,Smart Contract",4,4.6,3.6,Ethereum,1,1,1,0,1,100%,100%,1
+302,N,25-01-2018,11-12-2017,150000000,11,Czech Republic,"Cryptocurrency,Platform,Smart Contract",2.6,0,0,Ethereum,2,1,0,0,1,73%,100%,0
+303,N,01-05-2018,01-04-2018,270000000,9,Netherlands,Cryptocurrency,1.8,1.3,1.7,Ethereum,1,1,0,0,0,0%,100%,0
+304,N,24-03-2018,24-02-2018,1000000,4,United States,Cryptocurrency,2.4,0,0,"Bitcoin, Scrypt",unknown,1,0,0,0,100%,100%,0
+305,Y,30-04-2018,31-01-2018,10000000,5,UK,"Real estate,Tourism",3.4,0,0,Ethereum,1,1,1,0,0,100%,80%,1
+306,N,28-08-2017,28-07-2017,0,8,Brazil,Business services,1.9,0,0,unknown,unknown,1,0,0,1,0%,100%,0
+307,Y,23-03-2018,16-03-2018,100000000,6,Singapore,"Cryptocurrency,Smart Contract,Software",3.1,4,5,NEO,unknown,1,1,3,1,100%,100%,0
+308,N,16-10-2017,02-10-2017,500000,4,Russia,Business services,1.9,3,2,Ethereum,2,1,0,0,0,0%,100%,0
+309,Y,21-04-2018,21-03-2018,20271000,21,Czech Republic,"Education,Cryptocurrency,Internet,Infrastructure,Electronics,Communication,Business services,Big Data,Investment,Legal,Media,Other,Platform,Smart Contract,Software",4.2,4.3,4.1,Ethereum,2,1,1,0,1,85%,100%,0
+310,Y,09-10-2017,25-09-2017,10000000,14,Russia,"Platform,Banking",2.8,0,0,Ethereum,3,1,1,0,0,0%,100%,0
+311,N,30-05-2018,01-05-2018,50000000000,11,Nigeria,"Investment,Health,Entertainment,Education,Charity,Business services,Artificial Intelligence,Platform,Real estate,Retail",3.9,0,0,Ethereum,1,1,1,2,0,100%,100%,1
+312,N,14-01-2018,23-12-2017,0,4,USA,"Business services,Platform,Software,Big Data",2.3,0,0,Ethereum,1,1,0,2,1,75%,0%,0
+313,Y,30-04-2018,11-03-2018,7000000000,3,UK,Investment,1.8,1,1,Ethereum,1,0,0,0,0,0%,100%,0
+314,N,13-04-2018,09-04-2018,35000000,9,Thailand,"Banking,Smart Contract,Software,Tourism",2.4,4,3,Ethereum,unknown,1,1,0,0,100%,100%,0
+315,N,20-05-2018,20-03-2018,1,17,New Zealand,"Communication,Cryptocurrency,Infrastructure,Internet,Investment,Platform,Software",2.8,0,0,Ethereum,2,1,0,0,1,59%,100%,0
+316,Y,21-03-2018,08-03-2018,24157817,13,Malta,"Artificial Intelligence,Big Data,Investment,Legal,Platform,Software",4.2,4.7,4.1,Ethereum,1,1,1,0,0,100%,100%,1
+317,Y,01-06-2018,01-05-2018,750000000,17,Spain,"Platform,Business services,Real estate,Retail",4.5,4.7,4.4,Ethereum,3,1,1,0,1,0%,0%,0
+318,N,25-04-2018,12-03-2018,5.50E+11,5,Canada,Sports,2.5,0,0,Ethereum,1,1,0,0,0,80%,100%,0
+319,N,01-06-2018,01-02-2018,140000000,8,Cyprus,Tourism,3.2,4,4,Ethereum,1,1,1,0,1,100%,100%,1
+320,Y,30-04-2018,15-04-2018,168000000,7,Singapore,"Communication,Cryptocurrency",3.5,2.9,3.2,Ethereum,2,1,1,1,0,100%,100%,0
+321,Y,28-04-2017,27-03-2017,101000000,4,Singapore,"Business services,Platform",3.6,4.5,4.2,Ethereum,unknown,1,1,0,0,75%,100%,0
+322,N,04-03-2018,11-02-2018,360000000,34,Luxembourg,"Platform,Cryptocurrency,Business services,Internet",2.6,3,3,unknown,unknown,1,0,0,0,88%,100%,1
+323,Y,15-12-2017,17-11-2017,27000000,5,France,"Platform,Communication,Cryptocurrency,Entertainment,Business services",2.4,0,0,Ethereum,1,1,1,0,0,100%,100%,1
+324,N,30-03-2018,02-01-2018,0,15,Australia,Entertainment,1.8,0,0,Ethereum,unknown,1,1,0,0,0%,100%,0
+325,N,22-12-2017,21-11-2017,10000000,7,Lithuania,"Retail,Platform",1.6,0,0,Ethereum,1,0,0,0,0,71%,100%,0
+326,N,15-03-2018,10-02-2018,210000000,12,USA,"Cryptocurrency,Business services,Investment",4.5,5,4.8,Ethereum,1,1,1,0,1,100%,100%,0
+327,Y,08-06-2018,01-04-2018,254000000,18,Singapore,"Business services,Cryptocurrency,Energy,Infrastructure,Investment,Platform,Smart Contract,Software",3.4,0,0,Ethereum,3,1,1,0,0,83%,100%,0
+328,N,11-04-2018,16-03-2018,3038234,7,Netherlands,Investment,2.5,0,0,Ethereum,1,1,1,0,0,100%,100%,0
+329,N,19-10-2017,19-07-2017,300000000,4,USA,Retail,1.8,0,0,unknown,1,1,1,0,0,0%,100%,0
+330,N,15-10-2017,15-09-2017,298000000,6,Russia,Tourism,1.6,0,0,Ethereum,1,0,0,0,0,0%,100%,0
+331,Y,01-06-2018,28-02-2018,500000000,14,UK,Banking,3.1,4,3.6,unknown,unknown,1,1,0,0,93%,100%,0
+332,Y,01-04-2018,31-01-2018,256250000,18,UK,"Platform,Business services,Investment",3.6,3.2,3.6,Ethereum,1,1,1,3,1,50%,94%,0
+333,N,11-06-2018,14-05-2018,12000000,2,Afghanistan,Health,1.7,2,2.5,Ethereum,1,1,0,0,0,0%,100%,0
+334,Y,24-04-2018,25-03-2018,750000000,2,Indonesia,"Energy,Platform,Investment",2.3,0,0,Ethereum,1,1,0,0,0,100%,100%,0
+335,Y,13-04-2018,01-03-2018,4,16,Netherlands,"Banking,Platform",3.3,0,0,Ethereum,2,1,0,0,0,94%,88%,0
+336,Y,28-02-2018,03-02-2018,9500000,16,Switzerland,Investment,3.5,4.4,3.7,Ethereum,2,1,1,0,1,100%,100%,0
+337,Y,29-12-2017,01-12-2017,336600000,21,Lithuania,"Education,Platform",4,4.1,3.5,Ethereum,1,1,1,0,1,67%,100%,0
+338,N,18-09-2017,18-08-2017,90000000,18,Singapore,"Platform,Internet,Software",2.1,0,0,Ethereum,1,1,0,0,0,0%,94%,0
+339,N,10-06-2018,25-05-2018,250000000,16,Singapore,Platform,3.6,5,3,Ethereum,1,1,1,3,0,100%,100%,0
+340,Y,15-04-2018,29-01-2018,350000000,12,Mexico,Health,4.2,4.5,4.7,Ethereum,unknown,1,1,0,1,100%,91%,1
+341,N,30-11-2017,01-11-2017,0,7,Romania,Cryptocurrency,1.9,0,0,Ethereum,1,1,0,0,0,100%,86%,0
+342,Y,16-02-2018,18-01-2018,100000000,12,France,"Education,Platform",3.5,3.8,3.2,Ethereum,1,1,1,3,1,100%,100%,0
+343,N,31-07-2017,14-07-2017,3000000,4,USA,"Banking,Cryptocurrency",1.4,0,0,unknown,unknown,1,1,0,0,0%,0%,0
+344,Y,01-04-2018,01-03-2018,200,5,United States,"Cryptocurrency,Education,Health,Media",3,1,1,Ethereum,1,1,0,3,0,40%,100%,0
+345,N,15-02-2018,01-12-2017,0,4,USA,"Platform,Cryptocurrency",1.3,0,0,Ethereum,unknown,1,0,0,0,100%,100%,0
+346,N,25-03-2018,26-02-2018,1000000000,13,Switzerland,"Platform,Business services",1.8,0,0,Ethereum,2,1,0,0,0,85%,100%,0
+347,Y,26-03-2018,14-02-2018,481500000,24,British Virgin Islands,Platform,2.8,2.9,2.6,Ethereum,4,1,1,0,1,83%,100%,1
+348,N,31-01-2018,01-01-2018,80000000,5,United Arab Emirates,Platform,2.5,0,0,Ethereum,1,1,0,0,1,100%,100%,0
+349,Y,08-02-2018,08-01-2018,600000000,4,USA,"Cryptocurrency,Platform,Entertainment,Internet,Media",3.1,2.3,2.1,Ethereum,1,1,1,0,1,100%,100%,1
+350,Y,23-04-2018,26-03-2018,20,6,UK,"Cryptocurrency,Investment",3.1,0,0,Scrypt,4,1,1,3,1,33%,100%,0
+351,N,24-10-2017,25-08-2017,1000000000,3,USA,"Platform,Cryptocurrency,Business services,Internet",2.6,0,0,Ethereum,3,1,1,0,0,100%,100%,0
+352,N,17-12-2017,12-12-2017,9100000,5,Spain,"Platform,Banking,Investment",2.8,0,0,Waves,unknown,1,0,0,0,100%,100%,0
+353,N,25-02-2018,05-02-2018,109923077,8,Gibraltar,"Health,Platform",2.7,3,2.8,Ethereum,1,1,0,0,1,100%,100%,1
+354,Y,21-05-2018,20-03-2018,1.00E+11,25,USA,"Big Data,Infrastructure,Internet,Smart Contract",4.2,4.3,4.1,Ethereum,1,1,1,0,1,100%,100%,1
+355,N,23-12-2017,01-11-2017,84000000,12,Russia,Business services,3.1,2,4,Ethereum and Waves,3,1,1,2,1,0%,100%,0
+356,N,01-06-2018,19-03-2018,8000000,18,Russia,"Art,Media",2.3,1,1,Ethereum,1,1,0,0,1,0%,100%,1
+357,N,20-10-2017,18-09-2017,85000000,7,USA,"Education,Internet,Platform,Entertainment",1.6,0,0,Ethereum,1,0,0,0,0,0%,100%,0
+358,Y,19-05-2018,03-04-2018,4453135,27,Norway,Investment,4.1,4.5,4.6,Ethereum,1,1,1,0,1,100%,100%,0
+359,Y,24-12-2017,24-11-2017,7000000,6,Russia,"Cryptocurrency,Platform,Business services,Retail",2.7,2,3,Ethereum,2,1,0,0,0,100%,100%,0
+360,Y,31-05-2018,01-05-2018,50000000,16,Cyprus,"Platform,Other,Investment,Cryptocurrency,Business services,Big Data",4.3,4.4,4.2,Ethereum,5,1,1,2,0,38%,94%,1
+361,Y,16-11-2017,19-10-2017,10000000,16,Israel,"Internet,Platform",3,3.4,2.6,Ethereum,1,1,1,3,1,88%,100%,1
+362,N,30-10-2017,16-10-2017,72000000,6,Russia,"Business services,Platform",2.7,2.5,3.1,Ethereum,1,1,1,0,0,0%,100%,0
+363,Y,15-12-2017,15-11-2017,63000000,8,USA,"Platform,Business services",2.3,0,0,Ethereum,5,1,0,0,0,100%,100%,0
+364,N,01-12-2017,01-11-2017,0,5,Israel,Sports,1.9,2.6,2,Waves,3,1,0,0,0,0%,80%,0
+365,Y,25-05-2017,19-05-2017,500000000,15,USA,"Platform,Software",2.5,0,0,Ethereum,unknown,1,1,3,1,0%,100%,1
+366,N,15-01-2018,01-12-2017,1500000,9,Russia,"Manufacturing,Platform,Business services,Retail,Real estate",1.7,1.7,1,Ethereum,1,1,1,0,0,0%,100%,1
+367,N,31-05-2018,01-03-2018,0,4,USA,Investment,1.2,1,1,Ethereum,1,1,0,0,0,0%,100%,1
+368,N,30-11-2017,01-11-2017,60000000,9,USA,"Software,Platform",2.4,2.9,3.5,Ethereum,1,1,1,0,0,100%,100%,0
+369,Y,15-05-2018,08-01-2018,500000000,17,Belize,"Platform,Business services,Internet",3.1,3,2,Ethereum,2,1,1,3,0,65%,100%,0
+370,N,31-12-2017,18-12-2017,7500000,4,Gibraltar,"Platform,Casino & Gambling",2.1,3.2,2.6,Ethereum,1,0,0,0,0,0%,100%,0
+371,N,15-05-2018,16-03-2018,4000000,2,Nigeria,"Cryptocurrency,Investment,Smart Contract",2.2,3,3,Ethereum,1,1,1,0,0,0%,100%,1
+372,N,17-10-2017,10-10-2017,120000000,13,Slovenia,Business services,2.7,3,3,Ethereum,2,1,1,0,0,92%,92%,1
+373,Y,09-03-2018,09-02-2018,6000000000,34,Germany,"Investment,Artificial Intelligence,Banking,Cryptocurrency",3.6,4.1,3,Ethereum,4,1,1,2,1,88%,100%,1
+374,N,15-11-2017,15-10-2017,38175000,6,Russia,"Platform,Business services",2.3,2,2,Ethereum,1,1,1,0,0,100%,100%,0
+375,Y,28-02-2018,17-02-2018,650000000,21,Estonia,"Sports,Health",4.2,4.7,3.8,Ethereum,1,1,1,2,0,100%,100%,1
+376,N,15-04-2018,15-11-2017,34020000,4,USA,Cryptocurrency,2,0,0,unknown,2,1,1,0,0,0%,100%,1
+377,Y,31-12-2017,25-11-2017,500000000,16,South Korea,"Cryptocurrency,Business services",3.7,4.2,3.1,Ethereum,1,1,1,0,1,100%,100%,1
+378,Y,31-03-2018,17-02-2018,55000000,5,United States of America,"Big Data,Communication,Cryptocurrency,Internet,Legal,Platform,Smart Contract",1.6,1,1,Ethereum,unknown,1,0,0,0,80%,0%,0
+379,Y,22-04-2018,10-12-2017,500000000,10,USA,"Health,Platform",3.2,3.9,3.2,Waves,6,1,0,0,1,100%,100%,0
+380,N,01-11-2017,30-09-2017,0,10,India,"Cryptocurrency,Platform",3.3,4,3,Ethereum,2,1,1,0,0,100%,100%,0
+381,Y,22-09-2017,22-09-2017,400230000,37,Japan,"Infrastructure,Platform",3.8,4.2,3.8,Ethereum,1,1,1,3,1,0%,100%,1
+382,Y,24-04-2017,24-04-2017,10000000,10,Germany,Platform,3.5,5,3,Ethereum,1,1,1,3,0,0%,100%,0
+383,N,15-12-2017,15-11-2017,60000000,12,Russia,"Platform,Communication",2.1,0,0,Ethereum,1,1,1,0,0,25%,100%,0
+384,N,18-02-2018,29-01-2018,420000000,1,USA,"Media,Entertainment,Cryptocurrency,Other,Platform,Smart Contract",3.3,0,0,Ethereum,1,1,1,0,1,100%,100%,0
+385,N,30-05-2018,14-03-2018,7000000,1,USA,"Business services,Cryptocurrency,Investment,Smart Contract",2.1,0,0,Ethereum,2,1,1,0,0,100%,100%,0
+386,N,06-05-2018,16-04-2018,75000000,14,British Virgin Islands,"Media,Platform,Sports",2.5,3,2,Ethereum,9,1,1,0,0,36%,100%,0
+387,N,20-03-2018,20-02-2018,200000000,15,UK,"Charity,Cryptocurrency",2.1,3,1,Ethereum,5,1,0,0,1,33%,100%,0
+388,Y,25-05-2018,19-02-2018,100,6,British Virgin Islands,"Artificial Intelligence,Big Data,Infrastructure,Manufacturing",2.4,0,0,Ethereum,2,1,1,0,0,0%,100%,0
+389,Y,12-01-2018,07-07-2017,10000000,3,Marshall Islands,"Business services,Platform,Internet",3,3,3,Ethereum,2,1,0,3,1,0%,100%,1
+390,N,05-04-2018,20-02-2018,2000000,1,Sweden,"Cryptocurrency,Investment,Smart Contract",2.1,2,3,Ethereum,1,1,1,0,0,100%,100%,1
+391,Y,04-03-2018,17-12-2017,500000000,12,UK,"Platform,Business services",3.2,4,4,Ethereum,4,1,1,0,0,100%,100%,0
+392,N,02-03-2018,22-02-2018,0,11,Singapore,"Cryptocurrency,Platform,Business services,Communication",2.5,4,4,Ethereum,1,1,0,0,0,0%,100%,0
+393,N,29-12-2017,20-10-2017,2000000000,6,United Arab Emirates,"Cryptocurrency,Platform,Software",1.9,0,0,Ethereum,1,1,0,0,1,0%,100%,0
+394,N,10-06-2018,18-03-2018,31000000,2,Germany,"Education,Cryptocurrency",2.2,2,2,Ethereum,1,1,0,0,0,100%,100%,1
+395,N,04-12-2017,20-11-2017,150000000,12,UK,Charity,2.9,3.4,2.4,Ethereum,1,1,1,0,1,100%,100%,0
+396,N,23-12-2017,14-12-2017,0,9,Switzerland,"Investment,Health,Manufacturing",2.7,3,2.3,Ethereum,2,1,1,0,1,100%,100%,0
+397,N,11-06-2018,16-04-2018,27500000,9,Lithuania,Software,2.4,0,0,Ethereum,1,1,0,0,0,44%,100%,0
+398,Y,16-02-2018,18-02-2018,40000000,7,USA,"Artificial Intelligence,Banking,Big Data,Infrastructure,Internet,Platform,Smart Contract",3.1,3.1,2.5,Ethereum,1,1,0,0,1,100%,71%,0
+399,Y,14-02-2018,28-01-2018,105000000,5,Cayman Islands,Cryptocurrency,3.3,3,4.6,Ethereum,3,1,0,0,1,100%,100%,1
+400,Y,18-02-2018,18-01-2018,100000000,6,Russia,"Internet,Platform",2.6,0,0,Ethereum,3,1,1,0,0,50%,100%,0
+401,Y,16-02-2017,15-02-2017,750000,6,Switzerland,Software,2.3,0,0,unknown,1,1,0,2,0,100%,100%,0
+402,N,06-08-2017,27-07-2017,0,4,UK,Communication,1.3,0,0,unknown,unknown,0,0,0,1,50%,100%,0
+403,Y,30-09-2017,02-08-2017,98000000,13,Seychelles,"Business services,Internet",2.9,0,0,Ethereum,3,1,0,0,0,23%,100%,0
+404,Y,30-04-2018,01-04-2018,217500000,14,Singapore,"Infrastructure,Platform",3.9,4,3.9,Ethereum,2,1,1,0,1,100%,100%,0
+405,N,17-04-2018,22-02-2018,20000000,5,Singapore,"Business services,Internet,Platform,Retail",2.3,0,0,Ethereum,1,1,1,0,1,0%,100%,1
+406,N,20-12-2017,20-11-2017,12000000,9,Estonia,"Platform,Cryptocurrency,Business services,Investment,Retail,Software",3.1,3,4,Ethereum,1,1,1,0,0,100%,100%,1
+407,N,24-09-2017,27-05-2017,12400786,11,United Arab Emirates,Cryptocurrency,2.5,2,1,unknown,unknown,1,0,3,1,64%,100%,0
+408,Y,31-05-2018,15-04-2018,150000000,27,Singapore,"Media,Artificial Intelligence,Platform,Smart Contract",4,4.3,4,Ethereum,1,1,1,0,1,88%,100%,0
+409,N,01-06-2018,01-12-2017,100000000,5,USA,"Health,Cryptocurrency",1.8,2,1.8,Ethereum,1,1,0,0,0,0%,100%,1
+410,N,02-06-2018,23-04-2018,1200000000,6,USA,"Internet,Cryptocurrency,Smart Contract,Software",2.4,0,0,Ethereum,2,1,1,1,1,67%,0%,0
+411,Y,31-03-2018,30-01-2018,2.26E+16,8,British Virgin Islands,"Business services,Media,Software",2.8,0,0,Ethereum,1,1,1,0,1,0%,100%,1
+412,N,31-05-2018,01-05-2018,0,10,Russia,Platform,2.1,2.6,2,Ethereum,unknown,1,1,0,1,0%,100%,0
+413,Y,31-03-2018,28-02-2018,220000000,12,Mauritius,"Cryptocurrency,Communication",3.6,4.5,2.6,Ethereum,2,1,1,3,1,42%,92%,0
+414,Y,10-05-2018,10-04-2018,1510000000,27,Gibraltar,"Investment,Cryptocurrency,Business services,Big Data,Banking,Platform",3.8,4.2,3.7,Ethereum,1,1,1,2,1,93%,89%,0
+415,Y,11-05-2018,30-03-2018,1000000000,14,South Korea,"Banking,Big Data,Business services,Platform",3.1,3,3.2,Infinity Blockchain,3,1,1,3,1,86%,100%,0
+416,N,30-05-2018,30-04-2018,74,5,UK,Tourism,2.4,0,0,Ethereum,1,1,0,0,0,0%,100%,1
+417,N,25-05-2018,26-02-2018,40,9,India,Software,2.5,0,0,Ethereum,2,1,0,0,1,100%,100%,0
+418,Y,10-05-2018,10-04-2018,730000000,26,UK,"Cryptocurrency,Internet,Platform",4.4,4.6,4.5,Ethereum,2,1,1,0,1,96%,100%,0
+419,N,31-03-2018,29-01-2018,27000000,12,India,Business services,3.4,3.4,3.5,Ethereum,2,1,1,0,1,100%,100%,0
+420,N,05-10-2017,17-08-2017,35000000,4,Russia,"Communication,Charity",1.6,1,2,Waves,3,1,0,0,0,0%,100%,0
+421,Y,01-09-2017,30-06-2017,18565200,2,USA,Entertainment,1.8,0,0,Ethereum,1,1,1,3,0,0%,100%,1
+422,N,29-09-2017,01-07-2017,100000000,1,USA,Entertainment,1.5,1,1,unknown,unknown,1,0,0,1,100%,0%,0
+423,N,16-03-2018,16-02-2018,1500000,8,Russia,"Health,Cryptocurrency,Other,Manufacturing",2.1,4,3,Ethereum,1,1,0,0,0,25%,100%,1
+424,N,10-01-2018,11-12-2017,75000000,8,USA,"Cryptocurrency,Platform,Entertainment,Sports",3,4,4,Ethereum,1,1,0,0,0,100%,0%,1
+425,N,17-11-2017,14-11-2017,800000000,21,UK,"Cryptocurrency,Casino & Gambling,Sports,Virtual Reality",2.1,0,0,unknown,3,1,0,0,0,81%,100%,0
+426,N,31-05-2018,14-05-2018,240,10,Indonesia,"Artificial Intelligence,Big Data,Education,Health,Platform",2.3,0,0,Stellar,1,1,0,0,0,100%,100%,1
+427,N,15-05-2018,09-05-2018,6500000000,13,UK,"Cryptocurrency,Investment,Platform",3.7,3.8,3.2,Ethereum,2,1,1,0,1,77%,100%,0
+428,N,28-09-2017,28-08-2017,9000000,4,Virgin Islands,Cryptocurrency,1.8,1,3.5,Ethereum,2,0,1,0,0,0%,0%,0
+429,N,26-05-2018,26-04-2018,108000000,14,Belgium,"Internet,Cryptocurrency,Platform,Smart Contract",4.1,3.5,4.2,Ethereum,1,1,1,1,1,100%,100%,0
+430,N,13-02-2018,12-01-2018,15000000,4,France,"Infrastructure,Other",2.4,3,3,Ethereum,1,1,0,0,0,25%,100%,0
+431,N,19-02-2018,22-01-2018,32000000,11,Australia,"Banking,Business services,Cryptocurrency,Entertainment,Retail",2.4,0,0,Ethereum,1,1,1,0,0,64%,100%,1
+432,Y,01-05-2018,12-04-2018,650000000,18,Estonia,"Smart Contract,Platform,Legal,Infrastructure,Education,Artificial Intelligence,Software",3.1,2.9,2.5,iOlite Blockchain,1,1,1,0,0,100%,100%,1
+433,N,14-08-2017,24-07-2017,160000000,3,Netherlands,Platform,1.6,2,1.5,Ethereum,1,0,0,0,1,0%,100%,0
+434,Y,30-10-2017,16-10-2017,600000000,11,Australia,"Cryptocurrency,Platform",4,4,4.5,Ethereum,1,1,1,1,0,100%,100%,0
+435,Y,15-09-2017,15-08-2017,100000000,18,USA,Real estate,3.6,5,4,Ethereum,unknown,1,1,3,0,0%,100%,1
+436,Y,30-04-2018,12-03-2018,60000000,12,UK,Cryptocurrency,3.7,3.7,3.9,Ethereum,5,1,1,0,0,92%,100%,0
+437,N,04-05-2018,23-02-2018,109609500,12,USA,Entertainment,1.8,1,1,Ethereum,2,1,0,0,0,67%,100%,0
+438,N,28-04-2018,06-04-2018,45000000,7,Sweden,"Banking,Business services,Cryptocurrency",1.9,1,2,unknown,3,1,1,0,0,0%,0%,1
+439,N,31-01-2018,21-09-2017,0,22,USA,"Cryptocurrency,Health",2.5,3,4,unknown,4,1,1,2,0,100%,100%,0
+440,Y,14-10-2017,05-08-2017,500000000,4,Netherlands,Other,2.5,5,4,Ardor,unknown,1,0,3,0,100%,100%,1
+441,N,12-04-2018,08-03-2018,0,10,France,"Platform,Cryptocurrency,Software",2.5,0,0,Ethereum,1,1,0,0,1,0%,100%,0
+442,N,01-03-2018,01-12-2017,70000000,10,UK,"Platform,Real estate",2,0,0,Ethereum,2,1,0,0,0,0%,100%,1
+443,N,21-04-2018,10-03-2018,600000000,7,Italy,Manufacturing,2.6,2,2.5,Ethereum,1,1,0,0,0,86%,100%,0
+444,Y,07-03-2018,05-02-2018,250000000,18,USA,"Big Data,Business services,Cryptocurrency,Internet,Smart Contract",3.3,3.8,3.1,Ethereum,3,1,1,0,0,72%,100%,1
+445,N,01-06-2018,26-02-2018,35000000,18,Panama,"Cryptocurrency,Platform,Investment",4.2,4.5,4.1,Ethereum,2,1,1,0,1,100%,100%,0
+446,Y,31-10-2017,25-07-2017,200000000,10,USA,Internet,3.1,5,5,Ethereum,2,1,1,3,0,70%,100%,1
+447,Y,17-11-2017,17-10-2017,54300000,14,Singapore,"Cryptocurrency,Platform,Retail",3.6,3.7,1.7,Ethereum,2,1,1,3,1,100%,100%,0
+448,Y,05-03-2018,29-01-2018,150000000,31,British Virgin Islands,"Cryptocurrency,Other",3.9,4.1,4.1,Ethereum,2,1,1,0,0,88%,100%,1
+449,N,30-04-2018,01-02-2018,0,9,Ukraine,"Cryptocurrency,Entertainment",3.2,3,3,Ethereum,1,1,1,0,1,100%,100%,1
+450,Y,31-08-2017,17-07-2017,40000000,8,Canada,Health,2.7,2,1,unknown,unknown,1,1,0,0,88%,100%,0
+451,Y,07-09-2017,08-08-2017,20000000,16,China,"Cryptocurrency,Platform",4.1,5,5,NEO,1,1,1,3,1,0%,100%,0
+452,N,30-05-2018,08-05-2018,0,10,Ecuador,"Platform,Manufacturing,Business services,Big Data,Artificial Intelligence,Tourism",2.3,3.5,2,Ethereum,2,1,0,0,1,100%,100%,0
+453,Y,28-03-2018,20-12-2017,45000000,21,British Virgin Islands,"Cryptocurrency,Communication,Charity,Business services,Entertainment,Infrastructure,Internet,Media,Other,Platform,Retail,Smart Contract,Software,Sports",4,4.3,3.7,Ethereum,3,1,1,0,1,95%,100%,1
+454,Y,07-02-2018,07-12-2017,481302774,15,Russia,"Platform,Communication",3.2,4,3.4,Ethereum,1,1,1,3,1,87%,100%,1
+455,N,03-01-2018,03-10-2017,440000000,16,India,Cryptocurrency,2.7,3,3,Ethereum,1,1,0,0,1,63%,100%,0
+456,N,12-10-2017,14-09-2017,0,3,USA,"Platform,Software",2.3,0,0,Waves,2,1,1,0,0,100%,100%,0
+457,Y,31-05-2018,03-04-2018,474500000,38,Thailand,"Internet,Media,Platform,Smart Contract",4.3,5,4,Stellar,2,1,1,1,1,50%,100%,0
+458,N,22-03-2018,01-03-2018,450000000,5,Romania,Entertainment,2.1,0,0,Ethereum,1,1,1,0,1,0%,0%,0
+459,N,02-04-2018,05-02-2018,150000000,6,Italy,"Internet,Media,Platform",3.1,3,2,Ethereum,3,1,0,0,1,100%,100%,1
+460,N,06-06-2018,02-04-2018,2100000,7,Switzerland,"Banking,Business services",2.4,0,0,unknown,4,1,1,0,1,0%,100%,0
+461,N,19-12-2017,28-11-2017,500000,6,USA,"Platform,Business services",2.5,0,0,Ethereum,1,1,1,0,0,100%,100%,1
+462,N,30-04-2018,03-04-2018,500000000,39,Russia,"Banking,Business services,Cryptocurrency,Infrastructure,Investment,Legal,Platform",3.4,4.1,3.2,Ethereum,4,1,1,0,1,85%,100%,0
+463,N,25-01-2018,15-12-2017,58000000,8,Ukraine,Cryptocurrency,2.5,2.7,2.4,Ethereum,1,1,1,0,0,25%,100%,0
+464,N,01-03-2018,01-01-2018,0,4,UK,"Business services,Cryptocurrency,Health",1.5,2,1,Ethereum,3,1,0,0,0,0%,75%,0
+465,N,22-09-2017,22-08-2017,600000000,3,Switzerland,Cryptocurrency,2.9,0,0,Ethereum,2,1,1,0,1,100%,100%,0
+466,N,19-12-2017,20-11-2017,1500000,5,Cyprus,"Business services,Cryptocurrency",2.1,0,0,Waves,5,1,1,0,0,0%,100%,0
+467,N,31-05-2018,17-04-2018,22500000,12,Russia,Infrastructure,2.8,4,3,Ethereum,4,1,0,0,0,0%,100%,0
+468,N,15-03-2018,03-03-2018,200000000,6,United Arab Emirates,"Business services,Smart Contract",3,0,0,Ethereum,2,1,0,1,0,100%,100%,1
+469,N,22-05-2018,23-04-2018,65000000,6,Estonia,"Business services,Media,Platform",2.7,3,2,Ethereum,1,1,1,0,0,100%,100%,1
+470,N,13-04-2018,27-02-2018,0,4,France,Art,2.1,0,0,Ethereum,1,1,0,0,0,100%,100%,0
+471,N,02-05-2018,23-03-2018,12000000,6,Cyprus,"Cryptocurrency,Investment,Platform",2,1,1,X11,1,1,0,0,0,0%,100%,0
+472,Y,03-06-2018,10-02-2018,75000000000,17,Switzerland,"Platform,Real estate,Software",3.7,3.3,2.7,Ethereum,2,1,1,2,1,71%,100%,0
+473,Y,15-02-2018,15-01-2018,400000000,12,Ukraine,"Platform,Cryptocurrency",3.2,2.6,2.9,Ethereum,1,1,1,0,1,0%,0%,0
+474,N,23-03-2018,21-02-2018,150,4,Germany,"Communication,Entertainment,Internet,Media",1.9,0,0,Ethereum,1,1,0,0,1,25%,100%,0
+475,N,15-04-2018,21-03-2018,500000000,18,Switzerland,Art,3.9,3.7,3.7,Ethereum,1,1,1,0,1,94%,100%,0
+476,N,08-04-2018,26-03-2018,30000000000,5,USA,"Media,Entertainment,Platform",2.7,2.4,2,Ethereum,1,1,1,0,1,100%,100%,1
+477,Y,16-10-2017,16-09-2017,100000000,20,Italy,"Platform,Cryptocurrency",3.3,0,0,unknown,unknown,1,0,1,1,15%,95%,1
+478,Y,31-05-2018,15-04-2018,65000000,26,Singapore,Education,3.3,4,4,Multichain,4,1,1,0,0,12%,100%,1
+479,Y,15-12-2017,16-10-2017,10000000000,10,USA,"Banking,Cryptocurrency",3.1,5,5,Ethereum,1,1,1,0,0,90%,100%,0
+480,N,07-02-2018,08-01-2018,50000000,15,Switzerland,Cryptocurrency,2.4,0,0,Separate blockchain,1,1,1,0,1,0%,100%,0
+481,N,31-01-2018,01-01-2018,0,4,Indonesia,"Cryptocurrency,Investment,Real estate,Tourism",1.3,0,0,unknown,unknown,1,0,0,0,75%,100%,0
+482,N,19-09-2017,19-08-2017,0,18,UK,"Media,Internet",2.3,0,0,Ethereum,1,1,0,0,0,0%,100%,0
+483,Y,13-11-2016,13-11-2016,820,15,Poland,"Platform,Infrastructure,Software",3,0,0,Ethereum,1,1,1,3,0,86%,100%,1
+484,Y,27-05-2018,13-05-2018,492000000,15,Netherlands,"Business services,Retail",4.2,4.3,3.9,Ethereum,1,1,1,3,0,93%,100%,1
+485,Y,18-01-2018,22-11-2017,266400000,5,USA,Internet,4.1,3.8,3.9,Stellar,3,1,1,0,1,100%,100%,0
+486,N,10-12-2017,01-11-2017,0,3,Switzerland,"Cryptocurrency,Platform",1.8,1.6,2.1,Ethereum,1,0,1,0,1,0%,100%,0
+487,Y,03-06-2018,03-05-2018,37500000,10,Bulgaria,Entertainment,2.4,2,2.1,Ethereum,1,1,1,0,0,100%,100%,0
+488,N,15-04-2018,15-01-2018,0,15,Germany,"Communication,Infrastructure,Internet",2.1,0,0,Ethereum,unknown,1,1,0,1,13%,100%,0
+489,Y,15-04-2018,24-03-2018,200000000,13,Singapore,"Infrastructure,Platform",3.7,4.2,3,Ethereum,1,1,1,3,1,85%,100%,1
+490,N,30-01-2018,01-12-2017,0,13,USA,"Business services,Entertainment,Communication",2.4,0,0,Ethereum,unknown,1,1,0,0,8%,92%,1
+491,Y,07-08-2017,23-07-2017,335000000,11,USA,Internet,2.5,3,4,Ethereum,unknown,1,0,0,0,100%,100%,1
+492,N,26-02-2018,09-10-2017,15260000,9,Russia,"Communication,Platform",2.5,2,2,Ethereum,1,1,0,0,1,0%,100%,0
+493,Y,25-04-2018,25-01-2018,800000,17,Tanzania,"Investment,Manufacturing",2.8,3,3,UNIVERSA,4,1,1,0,0,29%,100%,1
+494,Y,15-09-2017,16-08-2017,58500000,3,UK,Cryptocurrency,3,0,0,Ethereum,1,1,0,0,1,100%,100%,1
+495,N,31-03-2018,02-02-2018,8000000000,6,Estonia,"Big Data,Business services,Investment,Platform",2.6,0,0,Ethereum,unknown,1,1,0,0,100%,100%,1
+496,N,30-05-2018,01-03-2018,0,22,Russia,"Software,Business services,Cryptocurrency",3.4,4,3.6,Ethereum,1,1,1,0,1,62%,100%,1
+497,N,04-04-2018,09-03-2018,65000000,5,Ukraine,Platform,1.9,0,0,Separate blockchain,unknown,1,0,0,1,0%,80%,0
+498,N,28-03-2018,28-03-2018,216000000,3,Australia,Business services,2.6,3.9,3.9,Ethereum,1,1,0,0,0,0%,100%,1
+499,Y,19-12-2017,19-11-2017,200000000,14,Russia,"Cryptocurrency,Investment",2.6,3,2.3,Ethereum,1,1,1,0,0,57%,100%,0
+500,Y,26-08-2017,12-08-2017,29400000,7,UK,"Platform,Software",3.4,0,0,unknown,2,1,1,0,1,43%,86%,0
+501,Y,17-03-2017,12-03-2017,51000000,18,Singapore,"Cryptocurrency,Business services",3.7,4.3,4.3,Ethereum,2,1,1,3,1,0%,100%,0
+502,Y,06-04-2018,09-03-2018,52500000,16,USA,Investment,4.3,4.5,4.1,Ethereum,1,1,1,3,1,88%,88%,0
+503,Y,03-05-2018,03-04-2018,100,17,Russia,"Cryptocurrency,Platform,Investment",2.9,2.5,2.2,NEM,9,1,1,0,0,94%,100%,0
+504,N,27-03-2018,05-03-2018,170000000,18,Switzerland,Cryptocurrency,4.1,4.8,3.7,Ethereum,1,1,1,3,1,89%,100%,1
+505,N,09-04-2018,09-03-2018,100000000,5,Singapore,"Investment,Platform,Cryptocurrency",2.9,2.5,2,Ethereum,1,1,1,0,1,100%,100%,0
+506,Y,17-11-2017,17-10-2017,156118,7,Bulgaria,"Platform,Entertainment",2.4,0,0,Ethereum,7,1,0,0,0,57%,100%,1
+507,N,15-12-2017,10-12-2017,0,4,Canada,Internet,2.4,0,0,NEO,3,1,1,0,0,0%,100%,0
+508,Y,15-01-2018,10-11-2017,20000000,16,Russia,"Entertainment,Platform,Cryptocurrency",3.1,3.7,3.1,Ethereum,1,1,1,0,1,81%,100%,0
+509,Y,17-02-2018,20-01-2018,695800000,10,British Virgin Islands,"Platform,Business services,Investment",3.1,3.4,3.1,Ethereum,1,1,1,0,0,100%,22%,1
+510,N,31-03-2018,14-01-2018,400000000,5,India,"Business services,Internet",2.3,0,0,Ethereum,1,1,0,0,0,100%,100%,0
+511,N,15-12-2017,14-11-2017,0,3,South Korea,Entertainment,1.6,2,2,Ethereum,1,1,0,0,0,0%,0%,1
+512,Y,07-03-2018,28-02-2018,60000000,26,Australia,"Cryptocurrency,Platform",3.5,3.7,3.2,Ethereum,2,1,1,0,1,100%,100%,1
+513,Y,15-04-2018,01-02-2018,600000000,32,USA,"Business services,Big Data,Cryptocurrency,Infrastructure,Internet,Other,Platform,Smart Contract,Software",4.1,4.2,3.9,Graphene,4,1,1,0,1,100%,97%,1
+514,N,10-12-2017,10-10-2017,400000000,3,Poland,Software,1.6,1.5,1.5,Ethereum,1,1,0,0,0,0%,100%,0
+515,Y,11-12-2017,01-12-2017,300000000,10,South Africa,"Business services,Platform",3.2,5,4,Ethereum,1,1,1,0,1,30%,100%,1
+516,Y,15-04-2018,25-02-2018,356264000,16,UK,"Real estate,Sports",3.6,3.2,4,Ethereum,3,1,1,0,1,81%,94%,0
+517,Y,12-03-2018,10-02-2018,500000000,12,Gibraltar,"Platform,Cryptocurrency,Business services,Investment,Banking",3.6,4.3,3.9,Ethereum,3,1,1,2,0,75%,100%,1
+518,Y,21-04-2018,21-03-2018,30000000,10,Singapore,Investment,2.9,3.4,2.6,Ethereum,4,1,1,0,1,100%,100%,0
+519,Y,29-01-2018,04-12-2017,43200000,17,USA,"Entertainment,Cryptocurrency,Platform",3.3,3.3,2.9,Ethereum,1,1,1,2,1,100%,100%,1
+520,N,31-03-2018,01-02-2018,0,10,Thailand,"Cryptocurrency,Platform",2.8,0,0,Ethereum,2,1,1,0,0,0%,100%,1
+521,N,31-03-2018,03-02-2018,4000000000,14,Singapore,Cryptocurrency,2.4,0,0,Ethereum,2,1,0,0,1,0%,100%,0
+522,Y,31-03-2018,20-02-2018,476228844,6,Cayman Islands,"Banking,Cryptocurrency,Investment,Platform,Software",4,0,0,Ethereum,1,1,1,2,0,100%,100%,0
+523,N,31-05-2018,01-04-2018,40000000000,6,Singapore,"Entertainment,Casino & Gambling,Platform,Smart Contract",2.4,2.4,2.7,Ethereum,2,1,0,0,0,83%,100%,0
+524,Y,15-03-2018,25-02-2018,66000000,13,British Virgin Islands,"Investment,Banking,Cryptocurrency,Platform",2.9,2.8,2.6,Ethereum,1,1,1,3,1,85%,92%,0
+525,N,03-12-2017,03-10-2017,0,13,Singapore,Business services,2.6,0,0,Ethereum,1,1,0,2,0,100%,100%,0
+526,Y,02-02-2018,18-01-2018,500000000,12,Singapore,"Platform,Software,Internet",3.6,4,3.6,Ethereum,1,1,1,3,1,100%,100%,0
+527,Y,31-12-2017,06-12-2017,50000000,11,USA,"Platform,Business services,Investment,Cryptocurrency",2.9,3.3,2.5,Ethereum,1,1,1,0,1,36%,100%,0
+528,N,25-12-2017,25-11-2017,50000000,25,UK,"Business services,Investment,Banking",2.5,0,0,Ethereum,1,1,0,0,0,0%,100%,0
+529,Y,07-12-2017,07-11-2017,400000000,6,Seychelles,Platform,3.3,0,0,Ethereum,1,1,1,2,1,0%,100%,1
+530,N,31-05-2018,15-02-2018,1000000000,10,United Arab Emirates,"Manufacturing,Energy,Infrastructure",3.6,3.8,3.6,Ethereum,1,1,1,0,0,100%,90%,1
+531,Y,31-07-2017,02-06-2017,30000000,15,USA,Cryptocurrency,3.3,4,3.4,unknown,unknown,1,1,0,0,0%,100%,0
+532,Y,20-11-2017,22-10-2017,30000000,9,Australia,"Platform,Cryptocurrency",3.9,3,4,Ethereum,1,1,1,1,1,100%,100%,0
+533,N,31-01-2018,01-12-2017,50000000,8,Switzerland,"Business services,Software",2.1,0,0,Ethereum,1,1,0,0,0,88%,100%,1
+534,N,30-04-2018,01-03-2018,35000000,7,UK,Infrastructure,2.3,0,0,Ethereum,4,1,0,0,1,86%,100%,0
+535,N,11-03-2018,09-02-2018,200000000,7,Russia,"Cryptocurrency,Platform,Software,Health",3.2,2.4,2.4,Ethereum,1,1,1,2,1,0%,100%,0
+536,Y,22-03-2018,21-02-2018,7600000,19,Estonia,"Communication,Business services,Big Data,Cryptocurrency,Education,Investment,Other,Platform,Smart Contract,Software",3.3,3.7,2.8,Ethereum,1,1,1,0,1,100%,100%,0
+537,Y,15-02-2018,01-10-2017,78000000,5,USA,Business services,3.1,3.7,3,Ethereum,1,1,1,0,1,100%,100%,1
+538,N,31-05-2018,02-04-2018,2800000,9,Ukraine,"Legal,Investment,Cryptocurrency,Platform",4.2,4.6,4.2,Ethereum,3,1,1,0,1,89%,100%,0
+539,Y,20-03-2018,20-02-2018,2000000000,6,Canada,"Entertainment,Internet,Media",3,3,4,Ethereum,1,1,0,0,0,0%,100%,0
+540,N,07-04-2018,21-02-2018,365000000,14,Switzerland,"Banking,Cryptocurrency,Internet,Investment,Platform,Smart Contract,Software",1.7,1.7,1.5,Ethereum,4,1,0,0,0,29%,100%,0
+541,N,14-11-2017,01-11-2017,410000000,8,USA,Health,2.9,2,3.7,Ethereum,2,1,1,3,0,38%,100%,0
+542,Y,24-01-2018,18-01-2018,204780000,15,Colombia,"Platform,Cryptocurrency",3.7,4,3.7,Ethereum,3,1,1,0,1,100%,100%,1
+543,Y,01-04-2018,15-02-2018,71250000,9,Estonia,"Cryptocurrency,Platform,Business services,Software,Internet,Smart Contract",3.6,3.5,3.4,Ethereum,1,1,1,2,1,100%,100%,1
+544,Y,08-10-2017,07-09-2017,30000000,8,UK,"Platform,Other,Art",3.1,0,0,Ethereum,1,1,0,3,0,100%,100%,1
+545,Y,29-07-2017,28-06-2017,14700000,23,Costa Rica,Casino & Gambling,3.3,4,3.4,Ethereum,unknown,1,1,3,1,70%,100%,1
+546,Y,03-09-2015,04-08-2015,100000000,8,Switzerland,Cryptocurrency,1.8,1,1,Counterparty,unknown,0,0,3,0,0%,100%,0
+547,Y,28-02-2018,01-02-2018,50000000,8,British Virgin Islands,Banking,3.6,2.7,2.7,Ethereum,6,1,1,2,1,100%,100%,1
+548,N,31-03-2018,01-02-2018,200000000,14,USA,Business services,2.8,4,4,Ethereum,1,1,0,0,1,86%,100%,0
+549,N,21-04-2018,20-02-2018,720000,7,Isle of Man,Retail,2.5,0,0,Waves,5,1,1,0,0,100%,100%,0
+550,Y,06-09-2017,27-07-2017,80000000,9,Israel,Energy,3.1,0,0,Ethereum,1,1,0,0,0,22%,100%,1
+551,N,31-12-2017,03-12-2017,10000000,7,USA,"Other,Investment,Internet,Cryptocurrency,Business services,Retail",2.5,0,0,Stellar Consensus Protocol (SCP),1,1,0,0,1,86%,100%,1
+552,N,10-04-2018,15-03-2018,8000000,16,USA,"Entertainment,Cryptocurrency,Platform",4,3.8,3.7,Ethereum,1,1,1,3,1,94%,100%,0
+553,N,05-06-2018,01-12-2017,2310000,18,Serbia,Manufacturing,2.7,5,3,Ethereum,unknown,1,1,0,1,0%,100%,0
+554,N,31-01-2018,28-11-2017,10000000,17,United Arab Emirates,"Business services,Cryptocurrency,Media",2.3,0,0,unknown,unknown,1,1,0,1,0%,100%,1
+555,Y,04-05-2018,16-04-2018,500000000,18,USA,"Virtual Reality,Entertainment",4.5,4.8,4.4,Ethereum,2,1,1,2,0,94%,100%,0
+556,N,28-02-2018,01-02-2018,141000000,9,Belgium,Real estate,2.4,3,2,Ethereum,1,1,1,0,0,0%,100%,0
+557,N,18-12-2017,16-11-2017,75000000,21,Belarus,"Media,Platform,Software",2.6,0,0,Ethereum,2,1,1,0,0,0%,100%,0
+558,N,25-03-2018,21-02-2018,12500000,6,UK,"Communication,Cryptocurrency,Internet,Software",1.4,0,0,Ethereum,1,1,0,0,0,0%,0%,0
+559,N,31-03-2018,01-02-2018,0,4,South Africa,Cryptocurrency,1.2,1.2,1,Ethereum,3,1,0,0,0,0%,0%,0
+560,Y,01-11-2017,07-09-2017,103548812,12,Russia,Real estate,4,4.3,3.9,Ethereum,1,1,1,0,1,33%,100%,0
+561,Y,04-09-2017,21-08-2017,700000000,12,Russia,Platform,3.4,0,0,unknown,7,1,1,3,1,17%,100%,0
+562,N,15-02-2018,01-01-2018,0,7,Singapore,Cryptocurrency,1.4,0,0,Ethereum,unknown,1,0,0,1,0%,100%,0
+563,Y,18-08-2017,09-08-2017,550000000,13,USA,"Platform,Software",3.5,0,0,Ethereum,1,1,1,0,0,100%,100%,1
+564,Y,19-12-2016,05-11-2016,25000000,4,Mexico,"Banking,Cryptocurrency",1.3,1,1,Waves,1,0,0,0,0,0%,100%,0
+565,Y,07-06-2018,07-02-2018,10120000,20,UK,"Artificial Intelligence,Banking,Cryptocurrency,Platform,Smart Contract",4.1,4.3,3.9,Ethereum,4,1,1,2,1,75%,100%,1
+566,Y,12-10-2017,12-09-2017,1872221,20,Estonia,"Cryptocurrency,Business services,Software",3.1,3.6,2.9,Ethereum,2,1,1,0,1,100%,100%,0
+567,Y,28-02-2018,01-02-2018,500000000,23,USA,"Platform,Cryptocurrency,Business services",4.6,4.7,4.6,Ethereum,3,1,1,0,1,74%,96%,1
+568,Y,31-03-2018,01-03-2018,300000000,18,Singapore,Software,4.5,4.9,4.7,Ethereum,3,0,1,0,0,100%,100%,0
+569,Y,26-07-2017,29-06-2017,133333328,15,Singapore,Casino & Gambling,3.5,4.7,4.8,Ethereum,unknown,1,1,2,1,40%,100%,0
+570,Y,08-01-2018,08-12-2017,64200000,17,Poland,"Software,Investment",3.7,3.9,3.4,Ethereum,1,1,1,2,0,82%,100%,0
+571,N,30-11-2017,01-11-2017,500000000,4,China,Entertainment,2.3,0,0,Ethereum,1,1,0,0,1,0%,100%,0
+572,Y,01-02-2018,16-01-2018,100000000,37,Switzerland,"Cryptocurrency,Charity",3.3,3.6,2.9,Ethereum,5,1,1,0,0,97%,100%,0
+573,Y,31-03-2018,15-02-2018,350000000,11,Georgia,"Manufacturing,Cryptocurrency",2.5,3,3,Ethereum,1,1,0,0,0,100%,100%,1
+574,N,07-05-2018,17-04-2018,0,13,Australia,Cryptocurrency,2.3,0,0,Ethereum,3,1,0,0,0,62%,100%,0
+575,Y,30-03-2018,15-02-2018,408000000,12,South Africa,"Artificial Intelligence,Big Data,Internet",4.6,4.6,4.5,Ethereum,8,1,1,1,1,100%,100%,1
+576,N,21-01-2018,21-01-2018,0,12,Indonesia,"Platform,Cryptocurrency",3.6,3.2,4,Ethereum,1,1,1,3,0,33%,100%,0
+577,Y,01-06-2018,30-04-2018,15,4,UK,"Investment,Internet,Cryptocurrency,Business services,Banking,Platform,Smart Contract",2.4,1,2,Ethereum,1,1,1,0,0,75%,100%,0
+578,N,30-05-2018,01-04-2018,15000000,12,Ireland,"Banking,Business services,Cryptocurrency,Infrastructure,Investment,Platform",3.5,0,0,Ethereum,4,1,1,2,0,0%,0%,0
+579,Y,31-12-2017,20-11-2017,76000000,4,Netherlands,"Platform,Business services",3.9,4.8,3.9,Ethereum,1,1,1,3,1,100%,100%,1
+580,Y,30-04-2018,01-03-2018,30000000,14,Switzerland,"Big Data,Infrastructure,Legal,Platform,Smart Contract,Virtual Reality",3.4,3.2,2.9,Ethereum,7,1,1,0,0,100%,100%,0
+581,Y,18-02-2018,18-01-2018,200000000,18,USA,"Investment,Banking",2.4,3.6,2.7,unknown,unknown,1,1,0,0,89%,100%,0
+582,N,23-05-2018,07-03-2018,825000000,14,UK,Investment,2.5,0,0,Ethereum,1,1,1,0,0,0%,100%,0
+583,Y,30-06-2017,30-06-2017,46800000,16,Russia,"Business services,Internet",2.8,0,0,Ethereum,unknown,1,0,3,1,87%,100%,1
+584,N,02-02-2018,27-11-2017,0,11,UK,"Real estate,Investment",1.6,2,2,Ethereum,unknown,0,1,0,0,0%,82%,0
+585,Y,30-04-2018,12-03-2018,75000000,10,Czech Republic,"Investment,Cryptocurrency,Big Data,Artificial Intelligence,Platform,Software",3.6,3.7,3.2,Ethereum,1,1,1,3,0,100%,100%,1
+586,N,01-05-2018,01-04-2018,700000000,11,Germany,"Artificial Intelligence,Health",2.6,0,0,Ethereum,3,1,1,0,0,18%,91%,0
+587,N,31-03-2018,01-03-2018,12,46,Panama,Entertainment,2.5,2.5,2.5,NEM,6,1,1,0,1,73%,96%,0
+588,Y,08-11-2017,06-11-2017,500000000,18,Singapore,"Platform,Cryptocurrency",4.1,4.8,4.3,Ethereum,1,1,1,0,0,50%,100%,0
+589,N,31-05-2018,31-01-2018,36000000,8,Hungary,"Platform,Media,Communication,Business services,Software",3.6,3.6,3.9,Ethereum,3,1,1,1,1,100%,100%,0
+590,Y,25-03-2018,25-02-2018,60000000,15,Malta,"Platform,Casino & Gambling,Entertainment,Cryptocurrency,Internet",3.5,3.8,3.2,Ethereum,1,1,1,0,1,93%,100%,0
+591,Y,14-02-2018,28-12-2017,20000000,23,Thailand,"Platform,Cryptocurrency,Internet,Communication",2.7,3,3.5,NEM,5,1,1,0,0,0%,48%,1
+592,N,30-04-2018,23-01-2018,1,4,Spain,"Business services,Cryptocurrency,Legal",2.3,2,2,Ethereum,3,1,1,0,0,0%,100%,0
+593,Y,20-10-2017,22-09-2017,55000000,8,China,"Platform,Tourism",2.8,0,0,Ethereum,1,1,0,3,1,75%,100%,1
+594,Y,22-02-2018,13-02-2018,500000000,19,British Virgin Islands,"Platform,Business services,Software,Internet",4.4,4.5,4.2,Ethereum,unknown,1,1,2,1,84%,100%,0
+595,Y,10-09-2017,10-08-2017,200000000,13,USA,"Platform,Cryptocurrency",2.9,4.2,3.9,Filecoin network,4,1,1,0,0,0%,92%,0
+596,Y,07-06-2018,08-05-2018,40000000,9,Gibraltar,Infrastructure,3.9,4.5,4.5,Ethereum,1,1,1,3,1,89%,100%,1
+597,Y,15-03-2018,30-01-2018,10000000,8,UK,"Banking,Cryptocurrency,Smart Contract",1.8,1,1,Ethereum,2,1,1,0,0,0%,100%,0
+598,Y,29-09-2016,25-08-2016,100000000,26,Slovenia,Platform,3.6,4.3,4.9,Ethereum,4,0,0,0,0,88%,100%,0
+599,N,31-03-2018,01-01-2018,2000000,5,Russia,"Cryptocurrency,Manufacturing",2.2,2.1,2.3,Ethereum and Waves,6,1,1,0,0,40%,100%,0
+600,Y,31-03-2018,01-03-2018,450,10,UK,Real estate,4.2,4.7,4.4,Ethereum,3,1,1,1,0,100%,100%,1
+601,N,06-12-2017,22-11-2017,0,6,Poland,"Tourism,Platform",2.3,2.5,2.1,unknown,1,1,0,0,0,50%,100%,0
+602,Y,30-11-2017,25-11-2017,1000000000,25,Estonia,Cryptocurrency,4.1,4.2,4.3,Ethereum,1,1,1,0,1,92%,100%,0
+603,Y,20-05-2018,20-04-2018,100500000,13,Germany,"Business services,Infrastructure,Platform,Smart Contract",4.1,4.3,3.8,Ethereum,2,1,1,2,0,79%,100%,0
+604,N,19-12-2017,20-11-2017,100000000,12,Russia,"Platform,Infrastructure",2.8,3,2.5,Ethereum,1,1,1,0,0,100%,100%,1
+605,Y,17-05-2018,15-02-2018,287000000,21,Ras al-Khaimah,"Cryptocurrency,Platform",3.6,4,3.2,Ethereum,4,1,1,0,0,80%,100%,1
+606,Y,19-05-2018,01-03-2018,150000000,21,Cayman Islands,"Cryptocurrency,Investment,Banking,Real estate",3.5,4.2,3.2,Ethereum,2,1,1,0,1,90%,100%,0
+607,Y,26-03-2018,23-02-2018,30000000,3,France,"Platform,Business services,Retail",3.7,4,3.4,Ethereum,1,1,1,0,1,100%,100%,1
+608,Y,26-11-2017,06-11-2017,1500000,6,UK,"Platform,Cryptocurrency,Business services",3.1,4.1,1.7,Ethereum,3,1,0,0,0,100%,100%,0
+609,N,25-03-2018,18-03-2018,1000000000,6,Singapore,Education,2,1,3,Ethereum,1,1,1,0,1,0%,100%,0
+610,N,31-03-2018,07-12-2017,800000000,6,Seychelles,"Platform,Communication,Cryptocurrency,Retail",3.6,3.7,3.3,Ethereum,3,1,1,0,1,100%,100%,0
+611,Y,16-12-2017,17-11-2017,1000000000,18,USA,"Business services,Platform",3.2,4.2,4.6,Ethereum,1,0,1,3,1,94%,100%,0
+612,N,31-01-2018,17-01-2018,0,6,Israel,Platform,2.1,2.9,2.2,Ethereum,unknown,1,0,0,0,100%,100%,0
+613,Y,20-05-2018,20-03-2018,29750000,14,Russia,Platform,3.3,3.3,3.2,Ethereum,3,1,1,0,1,79%,100%,1
+614,Y,30-12-2017,10-11-2017,3500000,11,Spain,"Platform,Entertainment",3.4,3.7,3.7,Waves,4,1,1,3,1,100%,100%,0
+615,N,11-12-2017,11-11-2017,70000000000,14,Germany,"Infrastructure,Cryptocurrency,Platform",1.8,0,0,Ethereum,1,1,1,0,0,0%,100%,1
+616,Y,30-06-2017,20-05-2017,15000000,6,Russia,"Software,Platform",2.8,0,0,unknown,1,1,0,2,0,0%,100%,0
+617,Y,04-08-2017,02-08-2017,29600000,20,Gibraltar,Investment,2.9,0,0,Ethereum,1,1,1,3,0,70%,100%,0
+618,N,31-12-2017,01-12-2017,0,7,UK,"Business services,Investment",2.1,1,1,Ethereum,3,1,0,0,0,100%,100%,0
+619,N,31-03-2018,16-02-2018,500000,3,USA,"Artificial Intelligence,Charity,Cryptocurrency,Education,Infrastructure,Virtual Reality",2.5,2,2,Ethereum,8,1,0,0,1,100%,100%,0
+620,N,16-05-2018,17-04-2018,0,7,Estonia,"Business services,Cryptocurrency,Investment,Platform,Retail",2.5,0,0,Ethereum,4,1,1,0,0,71%,100%,0
+621,N,02-06-2018,17-03-2018,0,6,Indonesia,"Cryptocurrency,Smart Contract",2.2,2.5,2.5,Ethereum,unknown,1,0,0,0,0%,100%,0
+622,N,09-04-2018,12-03-2018,175000000,14,Estonia,Infrastructure,3,3.6,2.7,Ethereum,1,1,1,0,1,100%,100%,0
+623,Y,05-06-2018,03-04-2018,99000000,23,Israel,Tourism,4.1,4.1,4.2,Ethereum,3,1,1,0,1,100%,100%,1
+624,Y,16-05-2018,27-04-2018,2200000000,24,Singapore,"Platform,Cryptocurrency,Banking,Smart Contract",3.7,3.6,3.5,Ethereum,1,1,1,2,0,58%,100%,1
+625,N,01-02-2018,01-11-2017,350000000,13,Switzerland,"Platform,Cryptocurrency",2.7,3,2.3,Waves,4,1,1,0,0,83%,83%,0
+626,Y,10-05-2018,22-01-2018,50000000,12,UK,"Cryptocurrency,Platform",3.1,3.5,2.6,Ethereum,1,1,1,0,1,100%,100%,1
+627,Y,31-05-2018,11-04-2018,210000000,22,UK,"Platform,Entertainment,Education,Casino & Gambling,Sports",3.6,3.5,3.3,Ethereum,3,1,1,0,1,77%,100%,1
+628,Y,19-03-2018,15-01-2018,350000000,16,Singapore,"Business services,Infrastructure,Real estate,Software",3.6,4,3,Ethereum,4,1,1,3,1,88%,100%,0
+629,N,30-11-2017,01-11-2017,0,9,Cambodia,"Platform,Cryptocurrency,Internet,Communication",2.3,3.9,2.9,Tendermint,2,0,0,0,1,78%,78%,0
+630,N,01-06-2018,28-02-2018,20000000,16,Singapore,"Banking,Cryptocurrency,Investment,Platform,Smart Contract,Software",4.2,4.7,4.3,Ethereum,4,1,1,0,0,100%,100%,1
+631,N,25-12-2017,13-11-2017,80000000,10,Estonia,"Platform,Business services,Internet",2.8,0,0,Ethereum,4,1,1,0,0,60%,100%,0
+632,Y,31-01-2018,14-12-2017,100000000,12,Russia,Entertainment,3.4,3.5,3.3,Ethereum,3,1,1,0,1,75%,100%,0
+633,N,06-12-2017,28-10-2017,70000000,6,Switzerland,"Platform,Other,Business services",3.2,3.6,3.5,Ethereum,1,1,1,0,1,100%,100%,0
+634,Y,31-08-2017,31-08-2017,200000000,16,Lithuania,"Business services,Platform",3.7,3.4,2.9,Ethereum,unknown,1,0,3,1,94%,100%,0
+635,N,27-05-2018,27-04-2018,50000000,10,United States,"Platform,Smart Contract",3.3,0,0,Ethereum,1,1,1,3,1,63%,88%,0
+636,N,15-05-2018,01-04-2018,151151515,6,Peru,"Business services,Investment",2.1,0,0,Ethereum,4,1,0,0,0,0%,100%,0
+637,Y,20-05-2018,22-03-2018,65000000,3,United Arab Emirates,Investment,2.1,1,1,Ethereum,1,1,1,0,0,100%,0%,1
+638,N,20-10-2017,20-08-2017,68000000,9,USA,"Other,Platform",2,0,0,Ethereum,unknown,0,0,0,0,0%,100%,0
+639,N,05-04-2018,25-02-2018,99000000,4,Belize,"Entertainment,Casino & Gambling",3.3,3,2.4,unknown,2,1,1,0,1,100%,100%,0
+640,N,25-03-2018,11-03-2018,2000000000,32,United Kingdom,"Cryptocurrency,Sports",3.3,0,0,Ethereum,1,1,1,0,1,3%,94%,0
+641,Y,15-10-2017,15-09-2017,100000000,12,Russia,Platform,3.5,3,1,Ethereum,1,1,1,3,0,100%,100%,1
+642,Y,06-04-2018,06-01-2018,40000000,15,Germany,"Cryptocurrency,Education",3.2,2.6,2.5,Ethereum,1,1,0,0,1,100%,100%,0
+643,N,10-06-2018,01-05-2018,88000000,27,Georgia,"Cryptocurrency,Infrastructure",3.9,4.2,3.7,Ethereum,3,1,1,0,1,93%,100%,1
+644,Y,04-09-2017,18-08-2017,9800000,3,USA,"Sports,Entertainment",2,0,0,Waves,unknown,1,0,0,0,0%,100%,0
+645,Y,30-12-2017,04-12-2017,70000000,21,China,"Banking,Cryptocurrency",3.2,4,4,Ethereum,1,1,1,3,0,29%,100%,1
+646,N,30-12-2017,10-11-2017,40000000,5,Russia,"Platform,Entertainment",2.3,0,0,Ethereum,1,1,1,0,1,0%,100%,0
+647,N,08-12-2017,22-11-2017,425000000,3,USA,"Platform,Business services",2.1,0,0,Ethereum,2,1,0,0,0,100%,100%,0
+648,N,07-05-2018,23-04-2018,70000000,14,Switzerland,"Investment,Platform",2.4,0,0,Ethereum,2,1,0,0,0,0%,100%,0
+649,N,29-09-2017,01-08-2017,0,5,Slovenia,Real estate,2.6,0,0,Ethereum,2,1,1,3,0,0%,100%,0
+650,N,01-05-2018,10-03-2018,0,11,Romania,Investment,3.8,3.7,3.9,Ethereum,1,1,1,0,1,100%,100%,1
+651,Y,29-11-2017,24-10-2017,647500000,10,Cayman Islands,"Cryptocurrency,Business services,Entertainment,Internet,Platform,Smart Contract,Software,Virtual Reality",3.8,2,3,Ethereum,2,1,1,3,1,80%,100%,1
+652,N,10-06-2018,27-05-2018,5500000000,24,Singapore,Banking,3.2,3,3,Stellar,3,1,1,1,0,96%,100%,1
+653,Y,05-04-2018,15-03-2018,4,9,Cayman Islands,Entertainment,3.8,4.3,3.5,Ethereum,1,1,1,2,1,100%,100%,0
+654,Y,30-11-2017,30-10-2017,1500000000,13,Ukraine,"Business services,Platform",3.8,4,3.3,Ethereum,1,1,1,0,0,62%,100%,1
+655,Y,30-04-2018,02-03-2018,225000000,14,UK,"Banking,Investment,Cryptocurrency",2.4,5,5,Ethereum,1,1,1,0,0,100%,89%,0
+656,N,23-10-2017,20-10-2017,14000000,4,UK,"Cryptocurrency,Software",1.7,1,1,unknown,unknown,1,0,0,0,0%,0%,0
+657,N,31-01-2018,19-01-2018,45000000,15,South Korea,"Platform,Cryptocurrency,Smart Contract,Legal",3.7,3.9,3.3,Ethereum,2,1,0,0,1,81%,100%,0
+658,Y,15-03-2018,15-02-2018,500000000,19,British Virgin Islands,"Communication,Platform",3.1,4,3,Ethereum,3,1,1,3,0,88%,100%,1
+659,Y,10-11-2017,10-10-2017,21760000,10,Russia,Other,2.4,0,0,Waves,9,1,0,0,0,0%,100%,0
+660,N,07-03-2018,07-02-2018,50000000,7,Netherlands,"Cryptocurrency,Internet,Platform",2.6,0,0,Ethereum,1,1,1,0,1,86%,100%,1
+661,N,11-05-2018,04-05-2018,200000000,11,Australia,"Software,Smart Contract,Retail,Platform,Cryptocurrency,Business services",3.5,3.9,3.3,Ethereum,1,1,1,0,1,100%,100%,1
+662,Y,25-03-2018,29-01-2018,25000000,6,USA,"Banking,Business services,Cryptocurrency,Investment,Smart Contract",2.4,0,0,Ethereum,2,1,0,0,0,100%,100%,1
+663,N,01-06-2018,20-11-2017,0,7,Russia,"Cryptocurrency,Communication",2.7,2.5,2,Ethereum,2,1,1,3,1,14%,100%,0
+664,N,15-01-2018,25-12-2017,0,16,USA,"Platform,Electronics",2.3,3.6,2,"Ethereum, Bitcoin",unknown,1,1,0,0,0%,100%,0
+665,N,03-04-2018,25-01-2018,5000000,3,Japan,Entertainment,2.4,0,0,Ethereum,2,1,1,0,1,0%,100%,1
+666,N,14-01-2018,15-12-2017,4000000,3,India,Platform,1.8,0,0,Ethereum,1,1,0,0,0,33%,100%,0
+667,Y,31-03-2018,01-03-2018,70000000,18,Russia,"Real estate,Tourism",2.6,0,0,Ethereum,1,1,1,0,0,22%,100%,1
+668,Y,23-01-2018,15-01-2018,400000000,23,Romania,"Cryptocurrency,Energy",3.7,3.8,3.1,Ethereum,5,1,1,2,1,96%,100%,1
+669,N,31-12-2017,02-10-2017,140000000,5,USA,Investment,2.7,1.7,2.3,Ethereum,1,1,1,0,1,100%,80%,0
+670,N,31-03-2018,01-03-2018,2000000,5,Greece,"Banking,Business services,Communication,Cryptocurrency,Platform,Smart Contract,Software",2.1,0,0,Ethereum,unknown,1,0,0,0,100%,100%,0
+671,N,11-04-2018,09-03-2018,21000000,11,UK,"Cryptocurrency,Business services,Internet,Platform,Retail,Smart Contract",3.9,4.3,4.3,Ethereum,4,1,1,3,1,100%,100%,0
+672,N,08-06-2018,11-05-2018,70000000,6,Switzerland,"Other,Internet,Big Data,Smart Contract",2.3,0,0,Ethereum,1,1,0,0,0,0%,100%,1
+673,N,11-06-2018,16-04-2018,22222222,18,UK,"Cryptocurrency,Other",4.1,4,3.3,Ethereum,1,1,1,0,1,72%,100%,1
+674,Y,13-04-2018,17-03-2018,50000000,22,Gibraltar,"Platform,Investment",3.7,3.9,3.3,Ethereum,4,1,1,0,1,100%,96%,0
+675,Y,28-06-2017,27-06-2017,1000,3,Netherlands,"Business services,Real estate",3,0,0,Waves,unknown,1,1,2,0,67%,100%,0
+676,N,20-04-2018,20-03-2018,2100000000,19,Belarus,"Cryptocurrency,Entertainment,Communication,Platform",2.9,3.6,2.6,Ethereum,1,1,1,0,0,58%,100%,0
+677,N,31-10-2017,01-09-2017,0,1,Virgin Islands,"Platform,Business services",2.6,0,0,Ethereum,1,1,1,0,1,100%,100%,0
+678,Y,31-03-2018,17-03-2018,36009615,16,Switzerland,Cryptocurrency,4.1,4.4,3.8,NEO,2,1,1,3,1,100%,100%,1
+679,Y,28-02-2018,01-02-2018,151250000,13,Canada,Platform,3.8,3.9,3.2,Ethereum,6,1,1,3,1,100%,100%,0
+680,N,15-04-2018,01-02-2018,0,19,Russia,"Platform,Cryptocurrency,Investment,Entertainment,Software",3.6,4.8,4.3,Ethereum,1,1,1,0,1,50%,94%,1
+681,Y,05-04-2018,10-03-2018,106000000,15,Malta,"Media,Internet,Cryptocurrency,Other,Platform",3.5,3.9,3.3,Ethereum,4,1,1,2,1,100%,100%,1
+682,Y,28-09-2017,07-09-2017,45000000,5,Spain,Internet,2.6,0,0,Ethereum,1,1,0,0,1,0%,100%,1
+683,Y,21-05-2018,01-05-2018,8200000000,14,Poland,"Cryptocurrency,Platform,Smart Contract",4,4.1,3.7,Ethereum,2,1,0,0,1,0%,0%,0
+684,N,07-06-2018,24-04-2018,350000000,8,UK,"Cryptocurrency,Energy,Platform",1.9,1,1,Ethereum,unknown,1,1,0,1,0%,100%,0
+685,N,27-05-2018,16-04-2018,111,12,USA,Infrastructure,2.4,2,2,Ethereum,3,1,1,0,0,75%,100%,0
+686,Y,16-05-2018,18-04-2018,362,18,Malta,"Platform,Entertainment",4.1,4,3.8,Ethereum,2,1,1,3,1,100%,100%,0
+687,N,28-03-2018,28-11-2017,100000000,6,Indonesia,Platform,1.9,0,0,unknown,10,1,0,0,0,0%,100%,0
+688,Y,10-03-2018,01-03-2018,200000000,22,Singapore,"Banking,Business services",4.6,4.3,4.2,Ethereum,1,1,1,2,1,100%,100%,1
+689,Y,31-05-2018,01-04-2018,450000000,17,Brazil,"Platform,Cryptocurrency",3,2.9,2.5,Separate Blockchain,3,1,1,2,1,100%,100%,0
+690,Y,31-05-2018,01-03-2018,1500000000,15,Belize,"Business services,Communication,Cryptocurrency,Media",4.8,4.8,4.7,Ethereum,5,1,1,3,1,100%,100%,1
+691,N,13-09-2017,13-08-2017,100000000,6,Russia,Health,2.3,0,0,Waves,1,1,1,0,0,50%,100%,0
+692,Y,01-03-2018,26-12-2017,8000000,14,Russia,"Cryptocurrency,Business services,Tourism",3.3,3.5,3.1,Ethereum,3,1,1,0,1,100%,100%,1
+693,Y,14-02-2018,31-01-2018,550000000,16,Canada,"Cryptocurrency,Platform,Banking",3.3,4,4,Ethereum,1,1,1,2,0,81%,100%,1
+694,Y,31-07-2017,13-06-2017,12500000,11,Singapore,"Cryptocurrency,Platform",3.1,3,2,Ethereum,1,1,1,3,0,0%,100%,0
+695,Y,31-05-2018,04-05-2018,1040000000,23,Malta,Banking,3,0,0,Ethereum,1,1,0,0,0,96%,100%,1
+696,N,11-09-2017,28-08-2017,25000000,8,Russia,Retail,2.8,0,0,Ethereum,3,1,0,0,0,38%,100%,0
+697,Y,20-10-2017,25-09-2017,26400000,6,USA,"Investment,Platform,Cryptocurrency",3.4,4.2,3.4,Ethereum,1,1,0,1,0,33%,100%,0
+698,N,12-04-2018,15-03-2018,0,5,Russia,"Cryptocurrency,Legal,Other",3.3,0,0,Ethereum,1,1,1,2,1,20%,100%,0
+699,N,31-05-2018,14-01-2018,36000000,2,USA,Health,2.1,2,2,unknown,2,1,1,0,0,100%,100%,0
+700,N,30-04-2018,01-04-2018,250500000,11,USA,"Business services,Real estate",2.4,0,0,Ethereum,1,1,0,0,0,100%,100%,0
+701,Y,15-04-2018,15-02-2018,9250000,18,Latvia,Electronics,4.4,4.7,4.2,Ethereum,2,1,1,0,1,88%,100%,1
+702,N,11-06-2018,21-04-2018,0,24,USA,"Banking,Platform",3.3,3,2,Multichain,1,1,1,3,0,71%,100%,0
+703,Y,20-12-2017,07-11-2017,15000000,15,Russia,Entertainment,3.6,3.8,3.6,Ethereum,1,1,1,0,1,53%,100%,0
+704,N,31-08-2017,01-08-2017,7000000,3,Belize,Cryptocurrency,2,0,0,unknown,unknown,1,1,0,1,100%,100%,0
+705,N,17-12-2017,27-11-2017,30000000,6,Singapore,"Cryptocurrency,Infrastructure,Electronics",2.7,2.3,2.7,Ethereum,2,1,0,0,0,83%,100%,1
+706,N,31-03-2018,02-03-2018,500000,9,India,"Charity,Business services,Investment,Smart Contract",2.4,2.3,1,Ethereum,1,1,1,0,1,0%,0%,0
+707,Y,15-03-2018,04-12-2017,50000000,7,UK,"Banking,Cryptocurrency,Charity,Platform",3.1,3.4,2.8,Ethereum,unknown,1,1,0,0,100%,100%,1
+708,Y,21-07-2017,07-07-2017,200000000,11,Estonia,"Software,Platform",3.1,5,4.8,Ethereum,1,1,0,0,0,73%,100%,1
+709,N,23-09-2017,26-08-2017,23000000,6,USA,Platform,1.5,1,1,Ethereum,2,0,0,0,0,0%,100%,0
+710,Y,11-11-2017,20-09-2017,7,16,Russia,"Investment,Platform",3.3,3.2,2.5,Ethereum,2,1,1,0,1,88%,100%,0
+711,N,01-06-2018,26-03-2018,1.00E+11,18,USA,"Entertainment,Communication,Platform",4,3.5,4,unknown,3,1,1,0,1,61%,100%,0
+712,N,28-02-2018,01-01-2018,160000000,7,USA,"Entertainment,Platform",3,0,0,Ethereum,1,1,0,0,1,17%,100%,1
+713,N,08-06-2018,08-05-2018,15817083,10,Australia,"Platform,Cryptocurrency,Internet",3.6,4.2,3.1,Ethereum,1,1,1,0,1,90%,100%,1
+714,Y,15-03-2018,16-02-2018,37500000,14,Latin America,Investment,3,0,0,Ethereum,1,1,0,0,1,100%,100%,0
+715,N,01-01-2018,01-12-2017,0,14,USA,"Energy,Other",4,4.7,3.4,Ethereum,1,1,1,3,1,93%,93%,0
+716,N,11-09-2017,14-08-2017,0,7,Australia,Platform,2.4,0,0,Ethereum,unknown,1,1,0,0,100%,100%,1
+717,Y,12-03-2018,12-02-2018,2500000000,12,USA,"Platform,Entertainment,Sports",3.5,4,3.3,Ethereum,unknown,1,0,2,0,100%,100%,1
+718,Y,30-04-2018,15-01-2018,200000000,5,Czech Republic,Banking,4,3.7,4.1,Ethereum,5,1,1,0,1,100%,100%,0
+719,N,08-06-2018,25-05-2018,27500000000,21,Cayman Islands,Platform,3.3,0,0,VeChain,1,1,1,3,0,87%,100%,0
+720,Y,30-10-2017,19-09-2017,60000000,16,Belize,"Tourism,Infrastructure",3.9,3.9,3.5,Ethereum,2,1,1,1,1,88%,100%,1
+721,Y,31-05-2018,01-05-2018,15000000,15,India & Australia,Platform,3.5,3,2,Ethereum,2,1,1,0,1,73%,100%,0
+722,N,20-05-2018,22-02-2018,90,7,Czech Republic,Real estate,2,0,0,Ethereum,4,1,1,0,0,0%,100%,0
+723,Y,29-10-2017,01-10-2017,50000000,26,Canada,Cryptocurrency,3.6,4,2,Ethereum,1,1,1,0,1,15%,100%,0
+724,N,29-03-2018,27-02-2018,0,17,Saint Lucia,"Cryptocurrency,Charity,Platform,Infrastructure",3.1,3.1,2.4,Ethereum,1,1,1,0,0,100%,100%,0
+725,N,24-04-2018,25-03-2018,315000000,10,Canada,"Artificial Intelligence,Cryptocurrency,Platform",2.8,0,0,New Blockchain,2,1,1,0,1,70%,100%,0
+726,N,15-03-2018,15-02-2018,36000000,13,Australia,Media,1.9,3,2,Waves,1,1,0,0,0,0%,100%,0
+727,Y,17-05-2018,07-04-2018,260000000,10,Singapore,Infrastructure,2.5,2.8,2.8,Ethereum,1,1,0,0,0,0%,100%,0
+728,Y,05-02-2018,11-12-2017,50000000,14,Cyprus,"Banking,Cryptocurrency,Platform,Business services",3.4,4.5,3.4,unknown,7,1,1,0,0,93%,100%,0
+729,Y,14-02-2018,26-11-2017,20000000,14,Estonia,"Platform,Cryptocurrency,Investment,Banking",3.6,3.8,3.2,Ethereum,4,1,1,3,0,93%,100%,1
+730,N,01-05-2018,01-04-2018,70000000,7,USA,"Banking,Cryptocurrency,Internet,Investment",2.4,0,0,Ethereum,1,1,0,0,0,100%,100%,0
+731,N,10-06-2018,28-05-2018,300000000,17,Singapore,Platform,3.4,0,0,Ethereum,1,1,1,0,1,94%,75%,1
+732,N,16-05-2018,30-04-2018,400000000,4,UAE,Real estate,2.9,0,0,Ethereum,unknown,1,1,0,0,0%,100%,0
+733,Y,27-01-2018,27-12-2017,240000000,14,Singapore,"Infrastructure,Communication",3.3,4,4,Ethereum,2,1,1,3,1,50%,79%,0
+734,Y,11-02-2018,01-01-2018,150000000,20,UK,"Manufacturing,Platform",2.3,0,0,unknown,unknown,1,1,0,0,90%,100%,0
+735,N,05-05-2018,05-04-2018,0,7,USA,"Infrastructure,Cryptocurrency,Business services,Banking,Investment,Platform,Smart Contract",3.4,0,0,Ethereum,2,1,1,3,0,100%,100%,0
+736,N,30-11-2017,02-11-2017,0,26,Singapore,"Banking,Cryptocurrency",3.7,3,3,Ethereum,1,1,1,3,1,81%,100%,1
+737,N,15-12-2017,31-10-2017,50000000,8,Canada,"Platform,Business services",2,4,3,Ethereum,3,1,0,0,0,50%,100%,1
+738,Y,20-03-2018,21-01-2018,3000000000,19,Thailand,"Infrastructure,Software,Retail",3.8,4.2,4.5,Stellar,2,1,1,0,1,100%,84%,0
+739,N,21-11-2017,22-10-2017,5000000,2,Russia,"Software,Platform",1.6,1,2,unknown,1,1,0,0,0,100%,100%,1
+740,N,28-02-2018,30-01-2018,100000000,9,UK,Entertainment,1.9,0,0,Ethereum,1,0,1,0,0,100%,100%,0
+741,N,31-03-2018,01-02-2018,200000000,14,Panama,Platform,2.3,0,0,Ethereum,1,1,1,0,0,0%,100%,1
+742,N,23-05-2018,25-04-2018,210000000,5,USA,"Cryptocurrency,Investment,Platform",3.4,3,3,Ethereum,1,1,1,0,1,100%,100%,0
+743,Y,17-08-2017,17-07-2017,5000000,21,Switzerland,Energy,4.1,0,0,Ethereum,1,1,1,0,1,0%,0%,0
+744,Y,21-07-2017,21-06-2017,600,6,Russia,"Cryptocurrency,Platform",1.6,1.8,1.5,Ethereum,1,0,0,0,0,0%,0%,0
+745,Y,16-01-2018,05-12-2017,25000000,8,UK,"Casino & Gambling,Banking,Investment",2.6,4,4,Ethereum,2,1,0,0,0,100%,100%,0
+746,N,15-01-2018,11-12-2017,192000000,17,Slovenia,"Platform,Business services,Investment,Retail,Manufacturing",2.8,3.1,2.3,Ethereum,1,1,1,0,1,71%,100%,0
+747,Y,21-04-2018,20-03-2018,700000000,17,UK,"Big Data,Cryptocurrency,Smart Contract,Software",2.4,2.2,2.2,Ethereum,2,1,1,0,1,88%,100%,0
+748,Y,31-03-2018,01-03-2018,8000000,13,Singapore,"Artificial Intelligence,Banking,Big Data,Business services,Cryptocurrency,Internet",2.8,0,0,Ethereum,3,1,0,0,0,85%,100%,1
+749,N,21-03-2018,21-02-2018,0,8,Mexico,Education,2.3,0,0,Ethereum,2,1,1,0,1,0%,100%,1
+750,Y,16-12-2017,08-12-2017,30000000,17,USA,"Platform,Cryptocurrency",4.2,4.9,4.9,Ethereum,1,1,1,2,1,0%,100%,1
+751,N,02-06-2018,12-04-2018,114000000,8,UK,Health,1.9,1,2,MAHRA platform,unknown,1,0,0,0,0%,50%,0
+752,N,15-01-2018,01-12-2017,200000000,11,Russia,"Platform,Business services,Cryptocurrency",2.4,3,2,Ethereum,1,1,1,0,0,0%,100%,0
+753,Y,25-12-2017,15-10-2017,1500001,9,Russia,"Platform,Banking",3.6,3.9,3.8,Ethereum,1,1,1,0,1,78%,100%,0
+754,Y,19-05-2018,19-02-2018,10000000,25,UK,Retail,4.1,4.6,4.1,Ethereum,6,1,1,0,0,76%,100%,0
+755,N,27-10-2017,02-10-2017,0,5,Singapore,Real estate,2.2,1.4,1.2,unknown,unknown,1,1,0,0,100%,100%,0
+756,Y,23-02-2018,24-11-2017,60000000,7,USA,"Business services,Entertainment,Banking,Retail,Media",3.4,4.6,4.1,Ethereum,2,1,1,0,0,14%,100%,1
+757,N,10-02-2018,10-01-2018,0,4,Estonia,Investment,2,0,0,Ethereum,1,1,1,0,0,0%,100%,0
+758,Y,07-12-2017,02-11-2017,30000000,7,Australia,Platform,3.8,3.7,3.2,Ethereum,1,1,1,2,1,57%,100%,0
+759,N,18-05-2018,20-03-2018,28301260,36,"Serbia, France","Banking,Cryptocurrency,Investment,Platform",3.4,4,4,Ethereum,4,1,0,0,1,100%,100%,0
+760,N,10-05-2018,10-04-2018,22500000,6,Germany,"Legal,Investment,Cryptocurrency,Other,Platform",1.6,1,1,Ethereum,1,1,0,0,0,0%,100%,0
+761,Y,24-11-2017,27-10-2017,490000000,10,Netherlands,"Business services,Investment",3,0,0,Ethereum,1,1,1,0,1,0%,100%,0
+762,N,07-10-2017,07-09-2017,9000000,5,Russia,Education,2.4,1,2,Waves,5,1,0,0,0,100%,100%,0
+763,Y,18-11-2017,26-10-2017,60000000,10,Russia,"Casino & Gambling,Platform",3.5,3.5,3.5,Ethereum,4,1,1,0,1,0%,100%,1
+764,Y,20-11-2017,02-11-2017,500000000,31,Switzerland,"Platform,Cryptocurrency,Software",4.1,4.4,4.2,Ethereum,2,1,1,0,0,90%,100%,1
+765,Y,18-11-2017,18-10-2017,60000000,35,Cambodia,"Banking,Platform",4.1,4.3,3.9,Ethereum,1,1,1,0,1,80%,100%,0
+766,Y,30-04-2018,20-03-2018,130000000,8,Switzerland,Internet,3.5,3,2,Ethereum,2,1,1,0,0,100%,100%,0
+767,Y,03-06-2017,31-05-2017,100000000,6,USA,"Platform,Infrastructure,Software",3,0,0,Ethereum,unknown,1,1,2,0,100%,0%,0
+768,Y,25-02-2018,25-01-2018,400000000,15,Lithuania,"Platform,Business services,Cryptocurrency,Investment",3.1,3.2,2.7,Ethereum,1,1,1,1,1,100%,100%,0
+769,N,31-01-2018,15-12-2017,0,8,Brazil,Manufacturing,2.6,3,3,Ethereum,1,1,0,3,1,100%,100%,0
+770,Y,30-04-2018,01-03-2018,86400000,11,UK,"Platform,Internet,Cryptocurrency,Business services,Software",3.9,3.6,3.8,Ethereum,3,1,1,0,1,100%,100%,1
+771,N,26-10-2017,26-09-2017,480000000,14,United Arab Emirates,Education,3.6,5,4,Ethereum,1,1,1,2,0,50%,100%,1
+772,Y,30-01-2018,28-11-2017,40000000,19,UK,"Platform,Business services,Retail",4.3,4.5,4.1,Ethereum,4,1,1,3,1,100%,100%,0
+773,N,27-05-2018,09-04-2018,600000000,34,Korea,"Business services,Platform",2.5,0,0,Keccak,1,1,1,0,0,0%,100%,0
+774,Y,28-02-2018,13-11-2017,50000000,11,Singapore,"Cryptocurrency,Platform,Investment",3.5,3.9,3.5,Ethereum,2,1,1,0,1,100%,91%,0
+775,Y,25-05-2018,20-04-2018,21000000,6,Belize,Communication,2.7,2.4,2.4,BitShares,6,1,1,0,1,100%,100%,1
+776,N,22-05-2018,20-04-2018,26520000,9,USA,Artificial Intelligence,2.5,0,0,Ethereum,4,1,0,0,0,78%,100%,1
+777,N,21-10-2017,01-10-2017,0,4,Brazil,"Platform,Cryptocurrency",1.6,0,0,Waves,unknown,1,0,0,0,100%,100%,0
+778,N,12-02-2018,15-01-2018,400000000,8,USA,"Entertainment,Platform",3.6,4.5,4,StreamSpace,3,1,1,0,1,25%,100%,1
+779,Y,26-02-2018,27-11-2017,195555360,9,UK,"Business services,Platform,Software",4,4,3.9,Ethereum,3,1,1,1,1,89%,100%,1
+780,N,01-06-2018,01-03-2018,100000000,1,Canada,Retail,2.3,1,1,Waves,5,0,0,0,0,100%,100%,0
+781,Y,10-05-2018,03-05-2018,990000000,13,Isle of Man,"Big Data,Health,Platform,Software",4,4,3.6,Ethereum,3,1,1,3,0,46%,100%,0
+782,N,01-05-2018,18-02-2018,0,10,Russia,"Platform,Retail",2.5,0,0,unknown,unknown,1,1,0,0,70%,100%,0
+783,Y,30-01-2018,07-12-2017,180000,7,USA,Other,2.7,4,4,Ethereum,2,1,1,0,1,100%,83%,1
+784,Y,26-11-2017,20-10-2017,25000000,4,Russia,"Business services,Platform",2.6,2,2,Ethereum,7,1,1,0,1,50%,100%,0
+785,N,16-12-2017,16-11-2017,720000000,21,Russia,"Entertainment,Platform,Virtual Reality",3.4,4.2,3,Ethereum,1,1,1,0,1,95%,100%,0
+786,N,01-05-2018,23-04-2018,3000000,1,Russia,Entertainment,1.5,1,1,Waves,1,1,1,3,0,8%,100%,0
+787,N,03-04-2018,04-03-2018,5236000000,21,Singapore,"Cryptocurrency,Investment,Platform,Smart Contract",3.1,3,2.5,Ethereum,2,1,1,3,1,71%,100%,1
+788,N,15-02-2018,01-01-2018,0,4,Denmark,Cryptocurrency,1.5,2,2,Bitcoin,unknown,1,1,0,0,0%,0%,0
+789,N,21-03-2018,28-02-2018,0,5,Russia,Infrastructure,2.6,3,3,Ethereum,1,1,0,0,1,0%,100%,1
+790,N,16-04-2018,16-06-2018,50000000,14,USA,"Cryptocurrency,Entertainment",2.5,3,2,Ethereum,1,1,0,0,1,71%,100%,1
+791,N,01-12-2017,01-11-2017,3000000,6,Russia,"Real estate,Investment",1.4,2,2,Waves,6,0,0,0,0,0%,100%,0
+792,Y,07-06-2018,26-04-2018,60000000,20,Malta,"Business services,Cryptocurrency,Platform,Smart Contract",4,5,5,Ethereum,1,1,1,3,1,70%,100%,1
+793,Y,12-10-2017,12-09-2017,331700000,12,Russia,Cryptocurrency,3.6,4.6,4.2,Waves,5,1,1,0,0,50%,100%,0
+794,N,31-01-2018,12-12-2017,0,7,Germany,"Cryptocurrency,Entertainment",3.5,3,4,Ethereum,5,1,1,0,1,100%,100%,1
+795,N,01-11-2017,01-10-2017,65000000,3,Germany,Software,2,0,0,Waves,3,1,0,0,0,100%,100%,0
+796,N,01-12-2017,15-10-2017,0,6,Thailand,Real estate,2.4,1,1,Ethereum,1,1,0,0,1,50%,100%,0
+797,Y,05-12-2017,06-11-2017,100000000,9,Singapore,"Platform,Other",3.4,3.6,3,Ethereum,1,1,1,3,0,100%,100%,0
+798,Y,25-04-2018,25-03-2018,42000000000,21,Switzerland,"Platform,Infrastructure",4,4.4,3.7,Ethereum,1,1,1,3,1,86%,100%,0
+799,N,31-01-2018,18-12-2017,350000000,8,Ukraine,Casino & Gambling,2.6,3.4,2.4,Ethereum,1,1,0,0,0,50%,100%,0
+800,N,29-04-2018,01-03-2018,4000000000,3,UK,Software,2.3,0,0,Ethereum,1,1,0,0,0,0%,100%,0
+801,N,30-05-2018,16-04-2018,355200000,13,Philippines,Platform,2.5,0,0,Ethereum,3,1,0,0,0,69%,100%,1
+802,N,30-01-2018,01-12-2017,0,3,Canada,"Platform,Retail",1.8,0,0,Ethereum,1,1,1,0,0,67%,100%,0
+803,Y,01-05-2018,31-03-2018,350000000,15,Estonia,Health,4.1,4.1,3.5,Ethereum,2,1,1,2,1,80%,100%,0
+804,N,05-12-2017,24-10-2017,150000000,18,USA,"Software,Media,Communication",3,0,0,NEM,unknown,1,0,0,0,44%,100%,0
+805,Y,16-08-2017,01-08-2017,1.40E+13,3,China,Platform,3,3,3,Ethereum,unknown,1,0,3,1,0%,100%,1
+806,Y,06-01-2017,18-11-2016,100000000,14,Switzerland,Platform,3.4,4.7,5,Ethereum,1,1,1,0,0,62%,92%,0
+807,N,26-03-2018,15-01-2018,18000000,8,USA,"Platform,Cryptocurrency,Software,Internet,Media,Smart Contract,Communication,Education",4.3,4.3,4.3,Ethereum,1,1,1,0,1,100%,100%,1
+808,N,26-03-2018,26-02-2018,0,6,USA,"Business services,Communication,Platform",2.3,0,0,Ethereum,1,1,0,0,1,50%,50%,1
+809,Y,26-10-2017,21-09-2017,140000000,18,Netherlands,"Business services,Platform",3.1,4.2,4.2,Ethereum,2,1,1,0,1,76%,100%,0
+810,Y,31-08-2017,15-07-2017,1340000000,5,India,"Cryptocurrency,Investment",2.4,5,4,Ethereum,1,1,0,0,0,100%,100%,1
+811,Y,30-04-2018,15-03-2018,7200000,18,United Arab Emirates,"Energy,Investment",3.5,4.5,3.4,Ethereum,3,1,1,3,1,78%,100%,1
+812,N,24-02-2018,26-12-2017,0,6,Canada,"Charity,Health",2.1,2.8,1.5,Ethereum,2,1,0,0,0,0%,100%,0
+813,N,05-05-2018,10-03-2018,10000000,8,Czechia,"Entertainment,Platform",2.1,3,2,Ethereum,1,1,0,0,1,100%,100%,0
+814,Y,16-10-2017,16-09-2017,50000000,10,Singapore,"Cryptocurrency,Platform,Investment,Banking,Real estate",3.5,4,3.3,Ethereum,1,1,1,1,0,100%,100%,0
+815,N,14-11-2017,14-10-2017,18200000,13,Greece,"Platform,Software,Business services",2.5,0,0,unknown,1,1,0,0,1,38%,100%,0
+816,Y,10-05-2018,26-03-2018,102500000,10,Belize,"Platform,Investment,Real estate",2.8,3.1,3,Ethereum,1,1,1,0,1,100%,100%,0
+817,Y,10-02-2018,10-12-2017,100000000,10,Germany,"Business services,Legal,Platform,Smart Contract",3.7,4.1,4.3,Ethereum,unknown,1,1,0,0,40%,100%,0
+818,Y,24-12-2017,16-12-2017,106000000,6,Switzerland,"Cryptocurrency,Platform,Banking,Software",3.2,3.8,3.7,Ethereum,1,1,1,0,1,0%,100%,1
+819,Y,30-04-2018,01-03-2018,40000000,30,UK,"Big Data,Health,Platform,Smart Contract",4,4.1,3.9,Ethereum,4,1,1,3,1,100%,100%,0
+820,Y,30-11-2017,31-10-2017,20000000,8,Russia,"Cryptocurrency,Communication,Internet,Platform",4,4.1,3.8,Ethereum,5,1,1,3,0,89%,89%,0
+821,N,02-06-2018,02-05-2018,500,4,UK,"Cryptocurrency,Big Data,Artificial Intelligence,Investment,Platform,Software",2.1,1.5,1,Ethereum,1,1,1,0,1,75%,100%,1
+822,Y,01-02-2018,01-02-2018,2307692310,15,Gibraltar,Energy,4,4.2,4.1,Ethereum,1,1,1,3,0,73%,100%,0
+823,Y,20-03-2018,01-03-2018,1500000000,18,Switzerland,"Business services,Communication,Internet,Media,Platform",4.7,4.7,4.7,Ethereum,1,1,1,1,0,100%,100%,0
+824,N,31-01-2018,06-11-2017,24999,10,Estonia,"Platform,Business services,Investment,Real estate,Cryptocurrency",2.3,0,0,Ethereum,5,1,1,0,0,90%,90%,0
+825,Y,24-11-2017,09-11-2017,125000000,10,Japan,Platform,3.5,3.8,2.8,Ethereum,2,1,1,3,1,100%,100%,0
+826,Y,17-08-2017,17-07-2017,1000000000,9,Israel,Platform,1.8,0,0,Ethereum,unknown,1,1,0,0,0%,0%,0
+827,N,15-05-2018,02-04-2018,400000000,15,Singapore,"Business services,Infrastructure",3.4,3.4,3.4,Ethereum,1,1,1,1,1,81%,100%,0
+828,N,06-12-2017,01-11-2017,0,8,Russia,"Platform,Manufacturing",2.1,0,0,Ethereum,3,1,0,0,0,0%,100%,0
+829,N,30-11-2017,25-10-2017,0,15,USA,"Platform,Software",3.1,0,0,Ethereum,1,1,1,0,0,100%,100%,0
+830,N,24-12-2017,05-12-2017,0,11,Russia,"Platform,Entertainment",3,3,3,Ethereum,1,1,1,0,1,0%,100%,1
+831,Y,15-04-2018,15-01-2018,45000000,5,Russia,"Cryptocurrency,Retail,Business services",2.8,4,3,ThePower,2,1,1,0,1,0%,100%,0
+832,N,29-03-2018,01-03-2018,40000000,10,Belarus,"Business services,Infrastructure",2.9,3,3,Waves,5,1,1,0,1,40%,100%,1
+833,Y,18-06-2017,18-05-2017,9476400,4,Switzerland,Banking,2.5,0,0,Ethereum,1,1,1,3,0,100%,100%,0
+834,Y,22-12-2017,27-11-2017,50000000,12,Lithuania,"Platform,Communication",4.2,4.3,4.7,Ethereum,3,1,1,0,0,100%,100%,0
+835,Y,31-03-2018,19-02-2018,70000000,27,Russia,"Cryptocurrency,Business services,Internet,Platform",3.6,3.9,3.6,Ethereum,3,1,1,3,1,81%,100%,1
+836,N,31-01-2018,15-01-2018,30000000,16,USA,"Platform,Cryptocurrency,Internet",3.7,4,3.6,Ethereum,1,1,1,0,1,100%,100%,1
+837,Y,21-05-2018,04-04-2018,300000000,30,China,Real estate,3.6,5,4,Ethereum,3,1,1,0,0,100%,100%,1
+838,N,30-04-2018,01-04-2018,130000000,11,Russia,"Business services,Education,Internet",2.8,3,3,Ethereum,2,1,0,0,1,36%,100%,0
+839,Y,18-02-2018,14-02-2018,450000000,53,Israel,Platform,4.1,4.7,4.4,Ethereum,1,1,1,0,0,91%,100%,0
+840,Y,04-03-2018,04-01-2018,16800000000,13,UK,"Infrastructure,Platform,Smart Contract,Software",3.8,4.4,3.9,Ethereum,3,1,1,0,0,77%,100%,1
+841,Y,22-03-2018,01-03-2018,100000000,10,Seychelles,"Cryptocurrency,Investment,Platform,Smart Contract",4.1,4.2,3.8,Ethereum,1,1,1,3,1,90%,100%,0
+842,Y,14-02-2018,30-01-2018,20000000,22,Singapore,"Platform,Business services,Artificial Intelligence,Big Data",2.6,3.1,3.1,Ethereum,6,1,1,0,0,79%,26%,1
+843,Y,26-10-2017,10-08-2017,27000000,11,Poland,Cryptocurrency,3,0,0,Ethereum,1,1,1,0,0,0%,100%,1
+844,Y,01-12-2017,01-11-2017,24000000,17,Germany,Entertainment,3.8,4,3.7,unknown,2,1,1,3,0,76%,94%,0
+845,N,31-01-2018,01-01-2018,0,3,UK,Platform,1.5,0,0,Ethereum,1,0,0,0,0,0%,100%,0
+846,N,01-06-2018,17-11-2017,200000000,5,Chile,Real estate,1.6,2,1.6,unknown,2,0,0,0,0,100%,100%,0
+847,N,16-05-2018,16-04-2018,150000000,11,Belize,Platform,2.5,4,4,Ethereum,1,1,1,0,1,91%,100%,1
+848,Y,04-05-2018,19-04-2018,80000000,12,Malta,Communication,3,0,0,Ethereum,2,1,1,0,0,92%,100%,1
+849,N,29-11-2017,08-11-2017,50000000,11,Colombia,"Education,Platform",3.5,4.4,3.4,Ethereum,1,1,1,0,1,100%,100%,1
+850,Y,14-01-2018,14-01-2018,6000000000,67,Cayman Islands,Business services,3.5,4,4,Ethereum,unknown,1,1,0,1,18%,100%,0
+851,Y,31-03-2018,01-03-2018,260000000,18,Netherlands,"Artificial Intelligence,Platform",3.9,3.4,3.4,NEO,2,1,1,3,1,78%,100%,0
+852,N,26-03-2018,05-03-2018,50031000,18,Slovenia,"Platform,Investment,Cryptocurrency,Business services,Smart Contract",3.9,3.9,3.7,Ethereum,1,1,1,1,1,94%,100%,0
+853,N,10-06-2018,01-04-2018,187500000,8,Cayman Island,Cryptocurrency,2.5,0,0,Ethereum,4,1,0,0,0,75%,100%,0
+854,N,31-10-2017,07-09-2017,0,2,UK,Real estate,2.1,0,0,Ethereum,unknown,1,0,0,0,100%,100%,0
+855,Y,14-03-2018,07-02-2018,84000000,6,USA,Software,2,3,1.2,Ethereum,3,1,0,0,0,0%,100%,0
+856,Y,10-02-2018,01-02-2018,28672000,18,Singapore,Banking,3.3,0,0,Ethereum,1,1,0,3,1,72%,100%,0
+857,N,16-01-2018,01-12-2017,0,10,South Africa,Cryptocurrency,2.9,4,4,Ethereum,1,1,1,0,1,40%,100%,0
+858,N,04-11-2017,04-10-2017,70000,5,Australia,Charity,1.9,0,0,Ethereum,1,0,0,0,0,100%,100%,0
+859,Y,11-09-2017,11-09-2017,75000000,9,USA,"Investment,Platform",3.3,2.5,2.5,Ethereum,2,1,0,3,1,56%,100%,1
+860,N,22-09-2017,08-09-2017,280000000,3,Russia,Communication,2.4,0,0,Ethereum,1,1,0,0,0,100%,100%,0
+861,Y,28-10-2017,21-10-2017,100000000,21,USA,"Internet,Cryptocurrency,Artificial Intelligence,Investment,Platform",4.7,4.5,3.9,Ethereum,1,1,1,0,1,90%,100%,0
+862,Y,31-03-2018,13-02-2018,400,7,South Africa,"Artificial Intelligence,Cryptocurrency,Investment,Smart Contract",2.6,0,0,Ethereum,3,1,0,0,1,100%,100%,1
+863,N,22-05-2018,12-03-2018,570000000,10,USA,"Communication,Internet,Media",3.5,0,0,Ethereum,4,1,1,2,1,58%,100%,0
+864,N,25-12-2017,25-11-2017,0,2,Russia,"Platform,Business services",1.5,0,0,Ethereum,1,1,0,0,0,0%,0%,0
+865,Y,10-05-2018,17-04-2018,300,40,Slovenia,"Artificial Intelligence,Platform,Retail",4.5,4.6,4.2,Ethereum,1,1,1,2,1,93%,100%,0
+866,Y,15-01-2018,15-01-2018,55000000,15,Romania,"Platform,Communication",3.8,4,3.4,Ethereum,2,1,1,3,1,100%,100%,0
+867,Y,01-06-2018,21-02-2018,3000000000,23,USA,Health,3.6,0,0,Ethereum,5,1,0,3,1,96%,100%,1
+868,Y,06-09-2017,06-09-2017,6000000,7,UK,Entertainment,3.1,3,4,Ethereum,1,1,1,2,1,89%,50%,1
+869,Y,10-02-2018,15-01-2018,10000000,9,UK,"Education,Platform",2.3,1.8,1.5,Ethereum,2,1,1,0,0,11%,100%,0
+870,Y,30-04-2018,16-04-2018,210000000,21,Costa Rica,"Smart Contract,Platform,Entertainment,Cryptocurrency,Casino & Gambling,Software,Sports",4.8,4.8,4.8,Ethereum,3,1,1,3,1,100%,100%,1
+871,Y,16-01-2018,16-01-2018,201000000,23,Liechtenstein,"Platform,Business services,Infrastructure",4,4.5,3.3,Ethereum,1,1,1,0,1,100%,100%,0
+872,Y,01-01-2018,30-11-2017,150000000,9,USA,"Platform,Banking,Infrastructure",3.4,3.4,3.3,Ethereum,1,1,1,0,0,44%,100%,1
+873,Y,05-05-2018,16-03-2018,3100000000,23,Philippines,Communication,3.2,2.9,3.1,Ethereum,5,1,1,0,1,96%,100%,1
+874,Y,15-09-2016,23-08-2016,80000,1,Switzerland,"Platform,Cryptocurrency,Business services",1.3,2.4,2.4,BitShares,unknown,0,1,0,0,0%,0%,0
+875,N,09-12-2017,10-11-2017,0,13,UK,"Cryptocurrency,Business services,Banking",2.8,3,3,Ethereum,1,1,1,0,1,100%,100%,0
+876,Y,29-09-2017,11-09-2017,462500000,12,Russia,"Platform,Cryptocurrency",1.5,0,0,unknown,1,0,0,0,0,0%,100%,0
+877,Y,01-06-2018,01-04-2018,6400000,2,UK,"Cryptocurrency,Investment",2.4,0,0,Ethereum,2,1,1,0,1,100%,100%,1
+878,Y,30-03-2018,29-01-2018,45000000,18,Cyprus,"Banking,Business services",2.6,0,0,Ethereum,1,1,1,2,0,89%,100%,0
+879,N,31-01-2018,10-01-2018,0,9,Russia,"Platform,Communication",1.6,1.6,1,unknown,unknown,1,0,0,0,0%,100%,0
+880,N,31-05-2018,10-05-2018,35000000,5,Russia,"Education,Investment,Smart Contract,Big Data,Banking,Business services,Cryptocurrency",1.4,1.3,1,unknown,unknown,1,0,0,0,0%,100%,0
+881,Y,25-05-2018,01-02-2018,1000000000,9,Australia,"Cryptocurrency,Investment",2.5,0,0,Ethereum,2,1,1,0,0,71%,100%,1
+882,N,30-11-2017,30-10-2017,13000000,14,Switzerland,"Business services,Platform",2.8,3.2,2.5,Ethereum,1,1,1,0,0,86%,100%,1
+883,N,31-05-2018,01-01-2018,500000000,14,UK,"Banking,Cryptocurrency",2.7,2.4,2.5,Ethereum,7,1,1,1,1,100%,100%,0
+884,N,01-05-2018,01-12-2017,0,10,Kenya,Business services,1.1,1,1,unknown,unknown,0,0,3,1,40%,0%,0
+885,N,31-10-2017,21-10-2017,1000000000,27,USA,"Platform,Communication",3.4,4,3,Ethereum,4,1,1,0,1,29%,100%,0
+886,N,29-01-2018,19-12-2017,90000000,6,Finland,Software,2.3,0,0,Ethereum,unknown,1,0,0,1,78%,100%,1
+887,N,10-05-2018,11-02-2018,46900000,33,Gibraltar,"Artificial Intelligence,Education,Platform,Virtual Reality",2.6,0,0,Ethereum,2,1,1,0,0,0%,100%,0
+888,N,30-04-2018,01-04-2018,115000000,9,USA,Health,3.6,4,3.2,Ethereum,4,1,1,0,1,33%,100%,0
+889,N,31-03-2018,01-03-2018,75000000000,6,Russia,"Investment,Real estate",1.6,1.7,1.3,Ethereum,1,0,0,0,0,17%,100%,0
+890,N,20-04-2018,29-03-2018,0,11,Netherland,Smart Contract,2.4,0,0,Ethereum,2,1,0,0,0,0%,100%,0
+891,Y,24-04-2018,24-02-2018,25000000,6,Romania,"Charity,Cryptocurrency,Platform",2.5,2.4,1.4,Ethereum,4,1,1,2,1,100%,100%,0
+892,N,14-09-2017,15-08-2017,0,2,USA,"Media,Platform",3,0,0,Ethereum,1,1,1,0,0,0%,100%,1
+893,N,05-02-2018,05-01-2018,0,4,Russia,Cryptocurrency,1.5,0,0,unknown,unknown,1,0,0,0,0%,100%,0
+894,N,31-03-2018,01-03-2018,270000000,9,Singapore,"Business services,Platform",2.9,0,0,Ethereum,1,1,1,2,1,44%,100%,0
+895,Y,28-05-2018,24-04-2018,130000000,14,Australia,"Business services,Cryptocurrency,Investment,Platform,Retail",2.7,2.8,2.4,Ethereum,4,1,1,0,1,43%,100%,0
+896,Y,09-02-2018,07-02-2018,66000000,11,France,"Platform,Banking",3.9,4.5,3.9,Ethereum,1,1,1,2,1,100%,100%,0
+897,N,22-04-2018,01-02-2018,10450000,5,USA,Business services,2.1,2,1,Ethereum,1,1,0,0,0,0%,100%,0
+898,Y,18-10-2017,18-09-2017,3170000,4,Russia,Infrastructure,2.5,0,0,Ethereum,unknown,1,1,0,1,0%,100%,0
+899,Y,27-04-2018,11-04-2018,1,20,Singapore,"Cryptocurrency,Platform",3.3,5,5,unknown,unknown,1,1,2,0,0%,100%,1
+900,N,07-11-2017,07-10-2017,0,8,Israel,"Sports,Health,Cryptocurrency",1.7,2,2,Ethereum,1,0,0,0,0,0%,100%,0
+901,N,19-01-2018,19-11-2017,0,19,USA,"Platform,Business services",2.1,0,0,Ethereum,1,1,0,0,1,89%,100%,0
+902,Y,24-03-2018,15-02-2018,100000000,17,Korea,"Casino & Gambling,Platform",3,0,0,QRC,3,1,1,0,0,0%,100%,0
+903,Y,21-07-2017,22-06-2017,30000000,26,China,"Banking,Cryptocurrency",3.7,4,4,Ethereum,1,1,1,2,1,0%,100%,0
+904,Y,15-10-2017,15-09-2017,8500000,5,UK,Real estate,2.4,2,2,Bitshares,1,1,0,0,0,0%,100%,1
+905,N,27-04-2018,22-01-2018,100000000,4,USA,"Entertainment,Media",2.4,0,0,Ethereum,unknown,1,0,3,0,75%,100%,0
+906,N,30-11-2017,30-10-2017,1250200000,12,Belarus,"Platform,Cryptocurrency",3.4,3.9,4.1,Ethereum,1,1,1,0,1,100%,100%,0
+907,N,26-05-2018,26-04-2018,50,1,Cayman Islands,"Big Data,Infrastructure,Investment,Platform",3.6,4,3.5,Ethereum,1,1,1,0,1,100%,100%,0
+908,Y,16-07-2017,28-06-2017,4.77E+15,10,USA,"Cryptocurrency,Software",2.4,0,0,Ethereum,1,1,1,0,0,0%,100%,0
+909,N,29-01-2018,01-12-2017,4000000,3,USA,"Business services,Platform",1.9,0,0,unknown,1,1,1,0,1,100%,100%,0
+910,N,26-10-2017,02-10-2017,10000000,10,Australia,"Platform,Other",3.8,4.3,4.2,Ethereum,1,1,1,3,0,80%,100%,1
+911,N,31-01-2018,15-11-2017,26600000,20,Cyprus,"Business services,Platform,Cryptocurrency,Banking,Communication",3.3,4.3,3.6,Ethereum,unknown,1,0,0,1,60%,100%,0
+912,Y,09-06-2017,26-05-2017,100000000,2,China,Platform,1.5,1.7,1,unknown,4,1,0,0,0,0%,100%,0
+913,Y,22-03-2018,22-02-2018,400000000,19,Switzerland,"Business services,Health,Manufacturing,Software",3.8,3.9,3.7,Ethereum,4,1,1,3,0,89%,100%,1
+914,Y,01-12-2017,01-11-2017,60000000,15,Russia,"Entertainment,Platform",3.6,2.8,3.5,Ethereum,1,1,1,3,1,71%,100%,1
+915,N,15-12-2017,01-12-2017,40000000,10,USA,"Real estate,Cryptocurrency",2.9,4.6,4.6,unknown,1,1,0,0,0,100%,100%,1
+916,N,31-01-2018,01-01-2018,40000000,9,Thailand,Platform,3,4.2,3.6,Ethereum,unknown,1,0,0,0,100%,100%,0
+917,Y,01-05-2018,19-02-2018,550000000,17,Russia,"Business services,Big Data,Artificial Intelligence,Internet",3.5,5,4,Ethereum,1,1,1,3,1,41%,100%,1
+918,N,05-05-2018,20-03-2018,27,14,Netherlands,Charity,2.6,0,0,Ethereum,4,1,1,0,0,100%,100%,0
+919,Y,26-01-2018,19-01-2018,275000000,15,British Virgin Islands,"Entertainment,Casino & Gambling",3.3,2.9,3,Ethereum,1,1,1,3,0,93%,100%,1
+920,Y,14-03-2018,15-01-2018,50000000,15,Seychelles,"Business services,Communication,Infrastructure,Legal,Retail",3.4,0,0,Ethereum,1,1,1,0,1,100%,100%,0
+921,N,10-01-2018,10-12-2017,13300000,2,Switzerland,"Other,Investment",2,0,0,Ethereum,1,1,0,0,0,100%,100%,0
+922,N,10-06-2018,30-04-2018,940000000,7,Slovenia,"Banking,Business services",2.5,0,0,Ethereum,1,1,1,0,0,100%,100%,0
+923,Y,25-05-2018,25-04-2018,700,26,Seychelles,"Platform,Entertainment,Business services",1.9,1.8,1.6,Ethereum,1,1,1,0,1,0%,100%,1
+924,N,26-05-2018,09-04-2018,0,16,Cayman Islands,"Cryptocurrency,Business services,Investment",3.8,4.3,5,Ethereum,4,1,1,0,1,100%,100%,0
+925,Y,24-01-2018,15-01-2018,34000000,20,Switzerland,Cryptocurrency,3.3,3.7,3,Ethereum,2,1,1,2,1,100%,100%,1
+926,Y,28-02-2018,20-11-2017,650000000,11,China,"Banking,Business services",2.5,3,3.1,Ethereum,1,1,1,0,1,0%,55%,1
+927,Y,12-10-2017,13-09-2017,314159265,15,USA,Platform,2.3,2,2,unknown,1,1,1,0,1,93%,100%,0
+928,N,14-02-2018,01-02-2018,5000000000,12,United Kingdom,Investment,2.8,0,0,Ethereum,4,1,1,1,0,100%,100%,1
+929,N,28-02-2018,30-11-2017,0,3,Belgium,"Platform,Cryptocurrency,Business services,Investment,Software",2.1,0,0,WAVES,2,1,0,0,1,0%,100%,0
+930,N,31-05-2018,20-04-2018,16000000,7,Poland,Charity,2.5,2.6,2.3,Ethereum,5,1,0,0,0,57%,100%,0
+931,Y,20-12-2017,13-12-2017,450000000,21,Singapore,"Software,Platform,Business services",3.8,4.3,3.4,Ethereum,1,1,1,2,1,100%,100%,0
+932,N,15-01-2018,01-12-2017,10000000,16,Ukraine,"Platform,Cryptocurrency,Business services,Investment",2.7,3.3,3.3,Ethereum,3,1,1,0,1,69%,100%,0
+933,Y,01-12-2017,16-11-2017,880000000,16,USA,"Infrastructure,Electronics",2.3,4,4,unknown,unknown,1,1,3,1,0%,100%,1
+934,N,28-02-2018,01-02-2018,7000000,4,British Virgin Islands,"Business services,Education,Legal,Tourism",2.5,0,0,Ethereum,1,1,1,0,0,100%,100%,0
+935,N,14-01-2018,14-12-2017,0,9,Jersey,Cryptocurrency,2.2,3,2,Ethereum,3,1,0,0,1,11%,78%,1
+936,N,12-03-2018,12-02-2018,0,6,Panama,Casino & Gambling,1.3,1.8,1.6,unknown,unknown,0,0,0,0,0%,100%,0
+937,Y,17-04-2017,19-03-2017,6666666,1,Switzerland,"Entertainment,Platform,Cryptocurrency",1.2,1,1,unknown,1,0,1,0,0,0%,100%,0
+938,Y,20-04-2018,07-02-2018,144000000,17,France,Platform,2.9,4.4,2,Ethereum,6,1,1,3,0,100%,100%,1
+939,N,28-02-2018,27-11-2017,200000000,14,USA,"Platform,Business services,Infrastructure,Health",3.2,4.2,4.1,Ethereum,4,1,1,0,1,100%,100%,1
+940,Y,30-11-2017,01-11-2017,1181031,17,South Korea,"Cryptocurrency,Platform",3.4,4,4,Ethereum,1,1,1,0,1,94%,100%,1
+941,N,15-12-2017,20-11-2017,1172500000,18,Russia,"Software,Smart Contract,Health",3.3,2.9,2.9,Ethereum,1,1,1,0,1,61%,100%,0
+942,Y,10-09-2017,10-08-2017,70000000,14,USA,"Internet,Platform,Communication",3.1,3.4,3.9,unknown,unknown,1,1,2,1,0%,100%,0
+943,Y,29-11-2017,29-11-2017,1000000000,19,USA,Internet,3.2,4,2.7,unknown,unknown,1,1,0,1,100%,100%,0
+944,Y,28-02-2018,15-01-2018,10000000,19,Gibraltar,"Platform,Investment,Smart Contract,Software",2.9,0,0,Ethereum,1,1,1,1,1,68%,100%,0
+945,N,24-09-2017,25-08-2017,210000000,10,Chile,Business services,3.1,3,3.5,Ethereum,1,1,1,0,0,70%,100%,1
+946,Y,18-01-2018,18-11-2017,8000000,4,Switzerland,Other,1.9,0,0,Ethereum,unknown,1,1,0,0,75%,0%,0
+947,N,11-06-2018,11-05-2018,100000000,9,Singapore,Software,2.7,4,4,unknown,3,1,1,0,0,67%,100%,0
+948,N,31-03-2018,14-03-2018,425000000,5,Switzerland,Smart Contract,2.4,0,0,Ethereum,2,1,0,0,0,40%,100%,1
+949,N,20-11-2017,21-09-2017,560000000,5,Russia,"Cryptocurrency,Business services,Investment,Banking",2.4,0,0,Ethereum,1,1,0,0,0,20%,100%,0
+950,N,24-12-2017,28-11-2017,250000000,24,USA,"Software,Business services",2.8,0,0,Ethereum,2,1,1,0,1,88%,100%,0
+951,Y,16-02-2018,01-12-2017,122400000,22,Singapore,"Investment,Platform",3,3.6,3.3,Waves,unknown,1,1,0,1,41%,100%,1
+952,N,06-01-2018,22-11-2017,500000000,11,Marshall Islands,"Business services,Software",1.8,0,0,Ethereum,2,1,1,0,0,0%,0%,0
+953,Y,18-02-2018,01-11-2017,800000000,16,Russia,Other,3.5,4,4,unknown,3,1,1,0,1,0%,100%,0
+954,N,31-01-2018,28-12-2017,0,3,Belize,"Banking,Cryptocurrency",1.5,0,0,CryptoNote,unknown,1,0,0,0,0%,100%,0
+955,N,27-01-2018,06-01-2018,0,3,UK,"Software,Cryptocurrency,Entertainment",1.5,1,1,Waves,4,1,0,0,1,33%,100%,1
+956,Y,29-12-2017,29-11-2017,50000000,11,Russia,"Business services,Platform",2.8,4,3.5,Ethereum,5,1,0,0,0,36%,100%,0
+957,Y,05-06-2018,20-04-2018,300000000,14,Estonia,"Artificial Intelligence,Education,Electronics,Infrastructure,Internet,Platform,Software",3.9,3,3.3,Ethereum,1,1,1,0,0,77%,100%,1
+958,N,02-03-2018,01-02-2018,99996000,8,Switzerland,Investment,2.3,0,0,Ethereum,unknown,1,1,0,1,75%,75%,0
+959,N,15-02-2018,26-11-2017,1500000000,8,Singapore,"Platform,Cryptocurrency,Business services,Investment",1.6,0,0,Waves,unknown,1,0,0,1,0%,0%,0
+960,Y,25-07-2017,12-07-2017,13000000,4,China,"Investment,Cryptocurrency",2.5,0,0,Ethereum,1,1,0,0,1,100%,0%,0
+961,Y,25-10-2017,26-08-2017,4900000,8,Russia,Communication,2.3,0,0,Waves,3,1,0,0,0,0%,100%,0
+962,N,02-04-2018,03-03-2018,264000000,11,Germany,"Business services,Retail,Platform",3.3,3.7,3.5,Ethereum,3,1,1,0,1,100%,100%,0
+963,Y,20-02-2018,20-12-2017,75000000,5,Romania,"Cryptocurrency,Business services,Investment,Communication",2.6,3,2.3,Ethereum,1,1,1,0,1,100%,100%,0
+964,Y,23-05-2018,14-03-2018,125000000,19,Slovenia,"Communication,Cryptocurrency,Entertainment,Internet,Media,Platform,Smart Contract",2.9,0,0,Ethereum,1,1,1,0,1,79%,100%,1
+965,Y,31-12-2017,10-09-2017,10100000,18,Estonia,"Cryptocurrency,Platform",3.4,4.2,4.2,Ethereum,4,1,1,0,1,0%,0%,0
+966,Y,10-10-2017,22-08-2017,180000000,34,Singapore,"Investment,Real estate,Platform,Cryptocurrency",4.2,4.4,4,Ethereum,1,1,1,3,1,73%,100%,0
+967,N,09-10-2017,09-09-2017,0,2,Australia,"Business services,Cryptocurrency,Investment",1.8,0,0,Ethereum,1,0,0,0,1,100%,100%,0
+968,N,29-08-2017,01-08-2017,150000,6,Germany,"Banking,Cryptocurrency",2.3,0,0,unknown,unknown,1,0,0,1,83%,100%,0
+969,N,30-04-2018,01-03-2018,11000000,10,Spain,"Investment,Cryptocurrency,Casino & Gambling",2.5,0,0,Waves,4,1,0,0,0,30%,100%,0
+970,Y,30-05-2018,30-03-2018,303000000,20,Belize,"Entertainment,Communication,Big Data,Artificial Intelligence,Software",4.2,4.5,3.9,Ethereum,2,1,1,0,1,100%,100%,1
+971,Y,14-04-2018,31-01-2018,14070000,9,Pakistan,Banking,2,0,0,Waves,3,1,0,0,0,0%,100%,0
+972,Y,22-04-2018,15-04-2018,100000000,9,UK,"Cryptocurrency,Investment,Other",3.2,3.7,4.2,Ethereum,1,1,1,0,1,100%,100%,0
+973,Y,22-04-2018,22-03-2018,52000000,22,Seychelles,"Artificial Intelligence,Big Data,Cryptocurrency,Infrastructure,Platform,Smart Contract,Software",3.6,3.9,2.6,Ethereum,1,1,1,3,0,79%,8%,0
+974,N,05-02-2018,05-01-2018,0,7,Russia,"Business services,Entertainment,Infrastructure,Software,Investment",1.9,0,0,Ethereum,unknown,1,0,0,0,0%,100%,0
+975,Y,29-11-2017,29-10-2017,1530000000,18,Switzerland,"Platform,Cryptocurrency,Business services,Investment,Internet,Software",3.4,3,2,unknown,1,1,1,0,1,83%,100%,1
+976,Y,19-10-2017,19-09-2017,1050000000,14,USA,"Communication,Internet",4.2,4.5,3.9,Ethereum,1,1,1,1,1,93%,100%,0
+977,Y,07-03-2018,08-02-2018,66000000,24,Singapore,"Investment,Platform",4,4.8,3.5,Ethereum,1,1,1,3,0,96%,100%,1
+978,Y,28-05-2018,14-05-2018,500000000,12,Switzerland,"Artificial Intelligence,Big Data,Smart Contract",4.1,4.7,3.7,Ethereum,1,1,1,0,1,100%,100%,1
+979,Y,02-03-2018,09-02-2018,130000000,16,UK,"Platform,Investment",4.1,4.4,4,Ethereum,3,1,1,0,0,100%,100%,0
+980,N,20-05-2018,20-04-2018,212062500,6,Lithuania,"Cryptocurrency,Smart Contract",2.6,0,0,Ethereum,1,1,0,0,0,83%,100%,1
+981,N,30-11-2017,31-10-2017,95000000,5,Ukraine,Cryptocurrency,2.3,0,0,Waves,4,1,1,0,0,80%,100%,0
+982,N,17-05-2018,17-04-2018,500000000,14,Germany,"Artificial Intelligence,Platform",3.1,4,5,Ethereum,1,1,1,2,1,71%,100%,1
+983,Y,31-03-2018,19-02-2018,100000000,8,Italy,"Communication,Cryptocurrency,Platform,Smart Contract",2.5,3,3,Ethereum,1,1,0,0,1,88%,100%,0
+984,Y,10-01-2018,09-01-2018,7000000,12,USA,"Entertainment,Casino & Gambling,Sports",4.1,4,4,Ethereum,1,1,1,0,1,90%,100%,0
+985,Y,31-10-2017,10-09-2017,99000000,11,Russia,Sports,3.4,3.3,3,Ethereum,2,1,1,0,1,73%,100%,0
+986,Y,01-10-2017,01-09-2017,250000000,5,Japan,"Internet,Platform,Media",3.3,0,0,Ethereum,1,1,1,3,1,0%,100%,1
+987,N,22-03-2018,11-12-2017,0,20,USA,"Business services,Cryptocurrency,Platform,Health",3.7,4.3,3.1,Ethereum,4,1,1,0,1,100%,100%,1
+988,N,03-06-2018,31-01-2018,200,19,Philippines,Platform,2.1,3,2,Ethereum,1,1,1,0,0,89%,100%,0
+989,Y,17-12-2017,07-12-2017,150000000,20,Switzerland,"Platform,Business services",3.6,0,0,Ethereum,4,1,1,0,0,100%,85%,0
+990,Y,04-09-2017,28-08-2017,100000000,4,Estonia,Retail,2,0,0,Ethereum,unknown,0,1,0,0,100%,100%,0
+991,Y,31-05-2018,01-03-2018,441000000,26,Estonia,"Platform,Software,Communication",4.2,4.3,3.8,Ethereum,1,1,1,3,1,100%,100%,0
+992,N,22-01-2018,18-12-2017,63000000,11,South Korea,"Cryptocurrency,Software",2.3,0,0,Ethereum,1,1,1,0,0,0%,100%,0
+993,Y,03-01-2018,01-12-2017,343192038,14,Switzerland,"Business services,Infrastructure",3.7,4.4,4.2,Ethereum,1,1,1,2,1,86%,100%,1
+994,Y,20-05-2018,20-04-2018,60000000,9,India,"Internet,Media,Platform",4.3,4.6,4.2,Ethereum,1,1,1,0,1,100%,100%,1
+995,N,15-12-2017,13-10-2017,0,8,Russia,Manufacturing,2,0,0,Waves,1,1,0,0,0,0%,100%,0
+996,Y,15-02-2018,15-01-2018,700000000,6,Seychelles,"Cryptocurrency,Platform,Smart Contract,Software",2.9,2.7,2.2,Ethereum,4,1,1,3,0,0%,100%,0
+997,N,30-04-2018,30-03-2018,11430800,14,Russia,"Communication,Media,Virtual Reality",2.5,0,0,Waves,unknown,1,1,0,0,43%,100%,1
+998,N,25-02-2018,09-02-2018,750000000,7,Canada,"Sports,Cryptocurrency,Tourism",2.5,2,2,NXT,5,1,0,3,0,43%,100%,1
+999,Y,16-03-2018,09-02-2018,40000000,36,Ukraine,Media,4.2,4.2,4.1,Ethereum,11,1,1,2,1,97%,100%,1
+1000,Y,30-06-2017,31-05-2017,20000000,11,Estonia,Banking,2.5,4,4,Ethereum,unknown,1,1,0,0,100%,100%,1
+1001,N,30-11-2017,08-11-2017,23302500,12,Russia,"Platform,Business services,Software,Communication",2.5,2.3,1,Ethereum,2,1,1,0,0,67%,100%,0
+1002,Y,06-04-2018,05-03-2018,13800000,8,British Virgin Islands,"Entertainment,Platform",2.6,2,1,Ethereum,2,1,1,0,1,75%,100%,0
+1003,N,07-05-2018,07-03-2018,150000000,1,Spain,"Banking,Investment",1.9,0,0,Ethereum,1,1,1,0,0,100%,100%,1
+1004,N,16-05-2018,15-03-2018,21000000,2,USA,"Other,Investment,Internet,Entertainment,Education,Cryptocurrency,Communication,Charity,Art,Platform,Smart Contract",2,0,0,Ethereum,2,1,1,0,0,100%,100%,1
+1005,N,13-03-2018,12-02-2018,0,9,Estonia,"Artificial Intelligence,Big Data,Health",2.3,3,2,Ethereum,1,1,1,0,0,0%,100%,0
+1006,N,29-10-2017,29-09-2017,200000000,1,UK,Casino & Gambling,0.8,1,1,unknown,unknown,0,1,0,0,0%,100%,0
+1007,Y,31-03-2018,06-11-2017,240000000,13,UK,"Banking,Business services,Cryptocurrency",3.3,3.4,2.8,Ethereum,2,1,1,0,1,100%,100%,0
+1008,Y,24-08-2017,20-07-2017,1200000000,10,Latvia,Other,2,0,0,Ethereum,6,1,1,0,0,0%,100%,0
+1009,Y,31-03-2018,01-12-2017,699500000,20,UK,"Platform,Retail,Infrastructure,Real estate",3.7,3.2,3,Ethereum,1,1,1,0,1,70%,100%,0
+1010,N,30-12-2017,01-12-2017,5100000000,5,Russia,Platform,2.3,0,0,Ethereum,1,1,0,0,1,0%,100%,0
+1011,N,31-05-2018,01-05-2018,2000000,12,Czech Republic,"Cryptocurrency,Energy,Infrastructure,Investment,Smart Contract",2.9,3.4,3.6,Ethereum,2,1,1,0,0,58%,100%,0
+1012,N,27-05-2018,01-05-2018,0,9,Estonia,"Cryptocurrency,Platform",2.2,3,2.5,Ethereum,3,1,1,0,0,0%,100%,0
+1013,Y,18-05-2018,18-04-2018,250000000,19,British Virgin Islands,"Communication,Cryptocurrency,Entertainment,Investment,Platform,Smart Contract",4,4,4,Ethereum,1,1,1,0,1,100%,100%,1
+1014,Y,20-08-2017,06-08-2017,125000000,2,USA,"Business services,Cryptocurrency",3.4,0,0,NEBL,3,1,1,1,1,100%,100%,1
+1015,Y,11-01-2018,01-11-2017,284000000,20,UK,"Platform,Cryptocurrency,Investment,Communication,Internet",3.4,3.6,2.7,Ethereum,1,1,1,2,0,100%,100%,1
+1016,N,29-04-2018,14-04-2018,120000000,9,Nigeria,"Cryptocurrency,Infrastructure,Investment,Platform",2.6,0,0,Ethereum,2,1,1,0,1,100%,100%,1
+1017,N,07-04-2018,03-03-2018,28000000,16,Slovenia,"Platform,Cryptocurrency,Business services",3.5,4.1,3.2,Ethereum,1,1,1,0,1,100%,100%,0
+1018,N,25-11-2017,14-10-2017,0,6,Singapore,Business services,2.3,1,1,Ethereum,1,1,0,0,0,100%,100%,0
+1019,N,13-04-2018,16-03-2018,210,3,United States,"Business services,Artificial Intelligence,Media,Software",2.6,0,0,Ethereum,1,1,0,0,1,100%,100%,0
+1020,Y,10-05-2018,04-04-2018,180000000,20,United States,Cryptocurrency,2.9,3,3,Ethereum,3,1,1,0,0,83%,100%,0
+1021,N,19-04-2018,20-03-2018,20000000,11,UK,Charity,3.7,4.3,3.2,Ethereum,2,1,1,0,1,82%,100%,1
+1022,N,09-09-2017,08-08-2017,1000000000,7,Singapore,Investment,1.6,3,2,Waves,unknown,0,1,0,0,100%,100%,0
+1023,Y,28-02-2018,23-01-2018,17200000,15,UK,"Investment,Platform,Cryptocurrency",3.3,3.2,4.2,Ethereum,1,1,1,0,0,100%,100%,0
+1024,N,09-03-2018,19-01-2018,4500000,4,United States,Cryptocurrency,1,1,1,Ethereum,unknown,1,0,0,0,0%,0%,1
+1025,Y,01-04-2018,29-11-2017,33600000,19,Russia,Business services,4,4.2,4.1,Ethereum,6,1,1,0,1,100%,100%,0
+1026,Y,01-06-2018,01-05-2018,750000000,14,UK,"Entertainment,Casino & Gambling,Investment,Platform,Software",4,3.9,3.9,Ethereum,3,1,1,0,1,100%,100%,1
+1027,Y,26-03-2018,25-01-2018,52000000,1,United Arab Emirates,"Investment,Real estate",2.4,0,0,Ethereum,2,1,1,0,1,100%,100%,0
+1028,Y,15-05-2018,17-04-2018,35000000,23,Singapore,"Big Data,Business services,Cryptocurrency,Internet,Platform,Software",4.3,4.3,4.1,Ethereum,4,1,1,0,1,100%,100%,1
+1029,N,31-10-2017,30-09-2017,65000000,7,UK,"Cryptocurrency,Media",3.1,2,1,Ethereum,1,1,0,3,0,29%,100%,1
+1030,Y,28-02-2018,31-10-2017,50000000,14,Singapore,"Platform,Entertainment",3.8,4,3.6,Ethereum,5,1,1,3,1,100%,100%,0
+1031,N,10-06-2018,20-04-2018,4500000000,4,Turkey,"Health,Platform",2.9,0,0,Ethereum,1,1,0,0,0,75%,100%,0
+1032,Y,25-04-2018,31-01-2018,26990000,17,Belize,Investment,2.8,4,4,Stellar,2,1,1,0,0,12%,88%,0
+1033,N,13-11-2017,15-10-2017,30000000,23,USA,"Cryptocurrency,Platform",2.1,0,0,unknown,unknown,1,0,0,0,78%,17%,0
+1034,Y,19-12-2017,18-12-2017,500000000,9,Singapore,"Platform,Entertainment",3,4,4,QTUM,3,1,1,0,0,0%,89%,1
+1035,N,07-12-2017,22-11-2017,0,15,Russia,Platform,2.3,1,1,Ethereum,unknown,1,1,0,0,27%,100%,0
+1036,Y,19-03-2018,16-03-2018,10000000000,18,Singapore,"Smart Contract,Artificial Intelligence,Big Data,Banking,Cryptocurrency,Platform",3.5,0,0,Ethereum,1,1,1,0,1,0%,100%,1
+1037,Y,01-10-2015,17-08-2015,11000000,13,USA,"Platform,Software",4,5,4.6,Ethereum,2,1,1,2,1,54%,100%,0
+1038,Y,28-04-2018,28-03-2018,120000000,14,Switzerland,"Communication,Entertainment,Media",3.4,4,2.9,Steem,4,1,1,2,0,79%,100%,1
+1039,Y,13-03-2018,30-01-2018,7000000,22,Estonia,"Entertainment,Cryptocurrency,Sports",3.9,4.1,3.9,Ethereum,3,1,1,3,1,95%,100%,0
+1040,Y,17-12-2017,17-11-2017,869474423,23,Germany,"Platform,Investment",3.6,0,0,Ethereum,1,1,0,2,0,82%,100%,1
+1041,N,15-11-2017,15-10-2017,120000000,3,Russia,Internet,2.3,3,3,Ethereum,unknown,1,1,0,1,0%,100%,0
+1042,N,11-06-2018,02-04-2018,120000000,9,Australia,Cryptocurrency,2.3,0,0,Ethereum,4,1,0,0,0,0%,100%,0
+1043,Y,11-05-2018,01-03-2018,150000000,10,England,"Real estate,Energy,Cryptocurrency",2.4,0,0,Ehtereum,2,1,0,0,0,100%,100%,0
+1044,N,30-04-2018,01-04-2018,300000,3,Netherlands,"Investment,Real estate",2,0,0,Ethereum,1,1,1,0,0,0%,100%,1
+1045,N,01-06-2018,01-04-2018,400000000,10,USA,"Media,Platform,Internet",2.5,0,0,Ethereum,1,1,1,0,0,90%,100%,1
+1046,Y,19-02-2018,20-11-2017,200000000,14,Luxembourg,"Platform,Entertainment",3.8,4.2,4.2,Ethereum,2,1,1,0,0,100%,100%,0
+1047,N,15-01-2018,15-12-2017,100000000,8,Russia,"Communication,Internet,Media",1.7,2.2,2,Ethereum,unknown,0,0,0,0,0%,100%,0
+1048,Y,21-12-2017,21-11-2017,700000000,15,USA,"Platform,Retail",3.3,0,0,Ethereum,1,1,1,3,0,67%,100%,0
+1049,N,10-05-2018,30-09-2017,0,9,Germany,"Retail,Other",2.3,4,3,Ethereum,1,1,1,0,0,67%,100%,1
+1050,N,20-12-2017,20-10-2017,2500000,7,France,"Cryptocurrency,Internet,Education",1.8,1,1,Ethereum,1,1,0,0,1,100%,100%,0
+1051,Y,21-05-2018,27-03-2018,75000000,20,Estonia,"Entertainment,Cryptocurrency,Platform,Tourism",4.1,4.4,3.6,Ethereum,2,1,1,0,1,100%,100%,0
+1052,N,04-01-2018,05-12-2017,150000000,5,Singapore,"Platform,Business services,Investment,Infrastructure",2.5,0,0,Ethereum,1,1,0,1,0,0%,100%,1
+1053,N,09-05-2018,09-04-2018,0,8,Austria,"Cryptocurrency,Investment,Platform,Smart Contract",2.4,3,3,Ethereum,unknown,1,1,0,0,88%,100%,0
+1054,N,01-04-2018,15-03-2018,586200000,12,Belarus,"Communication,Infrastructure,Platform,Virtual Reality",2.8,2.4,2.9,Ethereum,1,1,1,0,0,92%,33%,0
+1055,N,09-06-2018,06-04-2018,200000000,16,Seychelles,"Smart Contract,Platform,Cryptocurrency,Artificial Intelligence,Software",4.1,3.2,3.4,Ethereum,2,1,1,0,1,94%,100%,0
+1056,N,26-04-2018,29-03-2018,4,5,Canada,Entertainment,2.5,0,0,Ethereum,1,1,0,0,0,100%,100%,1
+1057,Y,30-09-2017,15-08-2017,700000,5,Lithuania,Platform,2.9,4,4,Waves,unknown,1,1,0,0,60%,100%,0
+1058,Y,04-04-2018,26-12-2017,4289400000,20,Estonia,"Platform,Business services,Other",4,4,3.8,Ethereum,3,1,1,0,1,100%,100%,0
+1059,Y,20-12-2017,29-11-2017,320000000,16,Poland,"Platform,Media,Communication",4.1,4,4.2,Ethereum,1,1,1,2,1,94%,100%,1
+1060,Y,21-02-2018,08-02-2018,300000000,16,USA,"Big Data,Platform",3.6,4.2,3.7,Ethereum,1,1,0,2,0,94%,100%,1
+1061,N,06-12-2017,15-11-2017,40000000,3,UK,"Platform,Internet,Retail,Casino & Gambling",2.1,0,0,Ethereum,unknown,1,1,0,0,67%,100%,0
+1062,Y,19-06-2017,15-06-2017,165680000,14,Russia,"Software,Infrastructure,Platform",3.9,5,4,Ethereum,unknown,1,1,3,1,54%,100%,0
+1063,N,16-04-2018,20-03-2018,150000000,9,Nigeria,"Cryptocurrency,Health,Software",2.6,0,0,Ethereum,1,1,1,0,1,100%,100%,1
+1064,N,10-06-2018,10-05-2018,53000000,14,Bulgaria,"Cryptocurrency,Investment,Manufacturing",3.6,3.5,4,Waves,7,1,1,0,0,43%,100%,1
+1065,Y,30-11-2017,01-11-2017,66000000,8,Russia,"Platform,Business services,Cryptocurrency,Internet",2.1,1,1,Ethereum,unknown,1,0,0,1,38%,38%,0
+1066,Y,27-08-2017,01-07-2017,10000000,1,South Africa,Banking,2.5,0,0,NEM,6,1,1,0,0,50%,50%,0
+1067,N,20-11-2017,21-10-2017,400000000,7,UK,Platform,2.6,2.2,1.2,Ethereum,1,1,1,0,1,100%,100%,1
+1068,N,17-02-2018,15-01-2018,150000000,9,Brazil,"Cryptocurrency,Business services,Platform,Communication",3.1,3.5,4,Ethereum,1,1,0,0,1,78%,100%,1
+1069,N,31-10-2017,01-10-2017,2500000000,6,Canada,Other,2,0,0,Ethereum,unknown,1,0,0,1,0%,100%,0
+1070,Y,09-08-2017,10-07-2017,247500000,10,Cayman Islands,"Cryptocurrency,Internet",2,1,1,unknown,unknown,0,0,0,1,100%,100%,0
+1071,N,06-12-2017,06-11-2017,500000000,16,Singapore,"Business services,Software",2.6,0,0,Ethereum,1,1,1,0,0,0%,100%,1
+1072,N,09-06-2018,12-03-2018,178,16,Belize,"Banking,Business services,Cryptocurrency,Infrastructure,Investment,Platform,Smart Contract",3.4,3.9,3.6,Ethereum,1,1,1,0,1,60%,100%,0
+1073,N,01-04-2018,01-03-2018,340,13,Romania,Platform,2.9,3.5,3.5,Ethereum,2,1,0,0,1,100%,100%,1
+1074,N,31-10-2017,01-10-2017,12700000,7,Latvia,Other,3.8,3.8,3.8,Ethereum,1,1,1,0,1,88%,100%,1
+1075,Y,03-04-2018,03-03-2018,215000000,12,USA,"Platform,Cryptocurrency,Entertainment,Communication",4.5,4.3,4.4,Ethereum,2,1,1,2,1,92%,100%,0
+1076,Y,24-08-2017,24-07-2017,900000000,11,United Arab Emirates,"Entertainment,Art",3.8,0,0,Ethereum,unknown,1,1,0,1,0%,100%,1
+1077,N,28-04-2018,18-04-2018,30000000,7,Estonia,Platform,2.2,2,1,Ethereum,4,1,1,0,0,100%,100%,0
+1078,Y,15-02-2018,15-01-2018,25000000,6,Latvia,"Platform,Entertainment",2.8,2.2,2.9,Ethereum,2,1,1,3,1,0%,0%,1
+1079,N,08-12-2017,08-11-2017,0,12,USA,"Platform,Cryptocurrency,Entertainment,Media",3,5,5,Ethereum,3,1,1,0,0,67%,100%,0
+1080,Y,31-05-2018,16-03-2018,100,10,Russia,Entertainment,1.9,3,3,Ethereum,unknown,1,1,0,1,100%,100%,0
+1081,N,31-03-2018,01-03-2018,8500000,7,Russia,"Business services,Communication",1.8,1.6,2.4,Ethereum,6,1,0,0,0,0%,0%,0
+1082,Y,17-10-2017,13-10-2017,500000000,7,Germany,"Business services,Platform",3.9,5,5,Ethereum,1,1,0,2,1,100%,100%,1
+1083,Y,31-05-2018,15-05-2018,18514065480,17,Estonia,Entertainment,3.7,4,4,Ethereum,1,1,1,0,0,94%,100%,0
+1084,N,29-10-2017,13-10-2017,0,9,Slovenia,"Business services,Cryptocurrency,Platform,Retail,Internet",2.8,3.5,2.9,Ethereum,1,1,0,0,0,89%,100%,0
+1085,N,15-03-2018,10-02-2018,8,6,USA,"Cryptocurrency,Internet",1.8,0,0,Ethereum,1,1,1,0,0,0%,100%,1
+1086,N,10-02-2018,15-12-2017,0,16,Russia,"Health,Platform",3.2,3.9,4.1,Ethereum,1,1,1,0,0,50%,100%,0
+1087,Y,15-02-2018,07-01-2018,700000000,9,Estonia,"Platform,Business services,Cryptocurrency",3.7,3.9,3.3,Ethereum,1,1,1,0,0,100%,100%,0
+1088,Y,17-01-2018,07-12-2017,14250000,11,British Virgin Islands,Cryptocurrency,3.3,3.6,2.9,Separate blockchain,1,1,1,3,0,91%,100%,1
+1089,N,19-03-2018,19-02-2018,75000000,9,Denmark,"Platform,Infrastructure,Business services,Artificial Intelligence,Software",2.8,3,3,Ethereum,1,1,1,0,1,89%,100%,0
+1090,Y,31-03-2018,05-02-2018,7,13,Austria,"Banking,Business services,Cryptocurrency",3.3,3.6,3.5,Ethereum,3,1,1,0,1,100%,100%,0
+1091,N,10-06-2018,15-04-2018,1000000000,15,Austria,"Energy,Infrastructure",3.3,4.3,3.6,Ethereum,1,1,1,0,0,92%,100%,0
+1092,Y,25-05-2018,01-03-2018,1500000000,10,Germany,"Business services,Banking,Communication,Cryptocurrency,Electronics,Manufacturing,Platform",2.6,1.7,1.7,Ethereum,6,1,1,3,1,80%,100%,0
+1093,N,10-06-2018,25-05-2018,325000000,6,Estonia,"Cryptocurrency,Infrastructure,Investment",2.3,2,3,Ethereum,3,1,0,0,0,70%,100%,0
+1094,Y,17-11-2017,17-11-2017,252460800,18,USA,"Platform,Business services",2.9,0,0,Ethereum,1,1,1,0,1,63%,84%,0
+1095,N,31-05-2018,15-12-2017,80000000,11,Singapore,Platform,2.6,2,2,Ethereum,3,1,1,0,0,27%,100%,0
+1096,N,31-03-2018,04-02-2018,64000000,9,UK,"Banking,Business services,Communication,Cryptocurrency,Internet",2.6,0,0,Ethereum,3,1,1,0,0,33%,100%,0
+1097,Y,08-06-2018,18-05-2018,121000000,5,UK,"Banking,Investment,Platform,Smart Contract",2.5,2,1,Ethereum,1,1,0,0,0,60%,100%,1
+1098,Y,30-04-2018,01-04-2018,123,6,UK,"Business services,Cryptocurrency,Investment",3.6,4,4,Ethereum,1,1,1,0,1,100%,100%,0
+1099,Y,04-04-2018,05-03-2018,47,16,Belize,"Business services,Platform",4,4.3,3.9,Ethereum,1,1,1,0,1,100%,100%,0
+1100,Y,30-04-2018,15-03-2018,240000000,15,United Arab Emirates,Real estate,3.2,3,2,Ethereum,3,1,0,0,0,100%,100%,0
+1101,N,12-02-2018,29-12-2017,50000000,6,Croatia,"Cryptocurrency,Software,Entertainment",3.2,3.8,3.5,Ethereum,1,1,1,0,0,100%,100%,1
+1102,Y,15-12-2017,27-11-2017,5000000000,17,Gibraltar,"Platform,Health",3.3,2.6,2.6,QRC,3,1,1,0,1,76%,100%,1
+1103,N,30-04-2018,31-03-2018,400,7,Russia,Platform,2.4,1,2,Ethereum,2,1,1,0,0,71%,100%,0
+1104,Y,25-05-2018,25-03-2018,510000000,12,Estonia,"Business services,Retail",4.3,4.3,4.9,Ethereum,1,1,1,0,1,92%,100%,0
+1105,N,12-05-2018,14-03-2018,20000000,15,Saint Kitts and Nevis,"Cryptocurrency,Big Data,Artificial Intelligence,Infrastructure,Investment,Other,Platform,Smart Contract,Software",3.9,4.7,4,Ethereum,1,1,1,0,1,94%,100%,0
+1106,N,16-05-2018,01-04-2018,13650000,11,USA,"Business services,Cryptocurrency,Software,Tourism",3,0,0,Ethereum,1,1,0,0,0,82%,100%,1
+1107,N,30-04-2018,18-02-2018,500000000,12,UK,Retail,2.5,0,0,Ethereum,1,1,1,2,0,17%,100%,0
+1108,Y,05-05-2018,06-03-2018,1151000000,6,Singapore,"Communication,Cryptocurrency,Internet,Software",3.2,4,3.5,Ethereum,1,1,1,0,1,100%,83%,0
+1109,N,12-04-2018,13-03-2018,0,5,Russia,"Banking,Business services",2.3,0,0,Ethereum,unknown,1,1,0,1,0%,100%,0
+1110,Y,01-03-2018,13-02-2018,375000000,16,Singapore,"Cryptocurrency,Energy,Platform,Smart Contract",3.3,5,4,Ethereum,1,1,1,3,0,56%,100%,0
+1111,Y,14-01-2018,15-12-2017,560000000,17,Canada,"Platform,Business services,Software",3.4,2.8,2.7,Ethereum,1,1,1,3,0,100%,76%,1
+1112,N,24-11-2017,24-10-2017,60000000,6,Russia,"Entertainment,Platform",2.3,0,0,unknown,unknown,1,1,0,0,100%,100%,0
+1113,Y,25-07-2017,07-07-2017,40000000,7,Netherlands,"Entertainment,Business services,Platform",2.5,0,0,Ethereum,unknown,1,1,0,1,43%,100%,1
+1114,N,05-12-2017,25-10-2017,142857143,4,Monaco,"Investment,Platform",2.3,0,0,Ethereum,1,1,0,0,1,75%,100%,1
+1115,Y,09-05-2018,27-03-2018,240000000,22,Japan,"Platform,Entertainment,Media",3.2,3,3,Ethereum,3,1,1,3,1,95%,100%,1
+1116,Y,28-12-2017,28-11-2017,10000000,18,USA,"Cryptocurrency,Platform",3.1,3,3,Ethereum,1,1,1,0,0,0%,100%,1
+1117,N,30-04-2018,01-04-2018,350000000,25,USA,Cryptocurrency,3,2.7,2.3,Ethereum,1,1,1,0,1,96%,72%,1
+1118,Y,14-03-2018,28-02-2018,150000000,51,Singapore,Media,3.9,4.3,3.8,Ethereum,unknown,1,1,3,1,86%,100%,0
+1119,N,27-10-2017,27-09-2017,0,12,Russia,"Internet,Investment",1.9,0,0,Waves,unknown,1,1,0,0,0%,100%,0
+1120,Y,02-05-2017,02-05-2017,42300000,8,UK,"Banking,Cryptocurrency",2.3,4,5,Ethereum,1,1,0,3,0,0%,0%,1
+1121,N,20-05-2018,20-03-2018,30600000,8,Latvia,Energy,3.5,4,3,Ethereum,1,1,1,2,0,38%,100%,1
+1122,Y,23-02-2018,23-01-2018,27000000,15,Italy,"Business services,Platform",3.2,4,3.6,Ethereum,unknown,1,0,0,0,93%,100%,1
+1123,Y,08-03-2018,15-02-2018,98000000,14,Russia,"Platform,Software",3.6,3.4,3.9,Ethereum,2,1,1,0,1,93%,100%,1
+1124,N,20-03-2018,22-02-2018,200000000,16,USA,"Health,Platform",3.6,3.7,3.5,Ethereum,1,1,1,2,1,81%,100%,0
+1125,Y,28-02-2018,22-01-2018,50000000,18,France,Platform,3.7,4.1,3.3,Ethereum,3,1,1,0,1,95%,100%,0
+1126,N,20-12-2017,25-11-2017,15000000,10,Slovenia,"Cryptocurrency,Banking,Platform",2.5,0,0,Ethereum,1,1,0,0,0,90%,100%,1
+1127,Y,29-08-2017,20-07-2017,3000000,9,Estonia,Entertainment,2.8,0,0,Ethereum,3,1,0,2,0,0%,100%,1
+1128,N,16-01-2017,02-12-2016,50000000,5,USA,"Cryptocurrency,Platform",2.5,0,0,unknown,1,1,0,3,0,0%,100%,0
+1129,N,30-04-2018,15-03-2018,200000000,7,Singapore,Platform,1.7,1,2,Ethereum,2,1,0,0,1,0%,0%,0
+1130,Y,15-03-2018,01-02-2018,212500000,16,Estonia,"Software,Entertainment",2.9,3.5,2.8,Ethereum,2,1,0,0,1,75%,100%,0
+1131,N,31-05-2018,01-05-2018,500000000,5,USA,"Artificial Intelligence,Big Data,Health,Infrastructure,Platform,Smart Contract,Software",3.3,0,0,Ethereum,2,1,1,0,1,100%,100%,1
+1132,Y,25-05-2018,27-03-2018,1520000,28,Thailand,Artificial Intelligence,3.3,0,0,Ethereum,4,1,1,0,0,57%,100%,1
+1133,Y,28-02-2018,23-01-2018,885000000,39,Singapore,"Platform,Internet,Cryptocurrency,Virtual Reality",4.1,4.3,3.9,Ethereum,3,1,1,3,1,38%,100%,1
+1134,Y,07-02-2018,23-12-2017,1600000,5,Russia,"Manufacturing,Business services",2.3,2.1,1.7,Ethereum,1,1,1,0,0,0%,100%,0
+1135,N,08-06-2018,23-02-2018,1200000000,6,USA,Energy,2.3,0,0,Ethereum,1,1,0,0,0,0%,100%,0
+1136,Y,15-02-2018,15-11-2017,150000000,37,Switzerland,"Platform,Media",3.7,4.5,3.5,Ripemd160,3,1,1,3,0,89%,100%,0
+1137,Y,10-05-2018,01-03-2018,70000000,13,Singapore,"Retail,Smart Contract",3.1,0,0,Ethereum,1,1,1,0,0,100%,62%,1
+1138,Y,09-02-2018,10-01-2018,380000000,14,Cayman Islands,"Platform,Cryptocurrency,Business services,Retail,Health",3.4,3.7,3.1,Ethereum,2,1,1,0,1,79%,100%,0
+1139,Y,14-03-2018,21-02-2018,1308800000,23,Malta,"Platform,Cryptocurrency,Entertainment,Communication,Media",4.4,4.6,4,Ethereum,6,1,1,0,0,77%,100%,1
+1140,Y,16-05-2018,13-03-2018,22,20,Estonia,"Retail,Real estate,Platform,Internet,Cryptocurrency,Tourism",3.7,3.9,3.4,Ethereum,3,1,1,0,1,95%,100%,1
+1141,Y,28-01-2018,01-11-2017,10000000000,14,USA,"Platform,Retail",3.2,3.6,3.1,unknown,3,1,0,2,1,86%,100%,1
+1142,Y,31-01-2018,15-12-2017,6900000,6,UK,Cryptocurrency,3,4,4,unknown,1,1,1,0,1,83%,100%,1
+1143,Y,08-06-2018,08-05-2018,3000000000,14,Singapore,"Entertainment,Platform",4.3,4.5,4.1,Ethereum,1,1,1,0,1,0%,100%,1
+1144,N,08-11-2017,08-10-2017,33700000,11,USA,"Banking,Business services,Platform",3.5,1.9,2.3,Ethereum,1,1,0,2,1,36%,100%,0
+1145,Y,30-04-2018,30-03-2018,300000000,13,Singapore,"Internet,Platform",3.8,3.4,2.8,Ethereum,1,1,1,0,0,92%,100%,0
+1146,Y,15-11-2017,15-10-2017,33000000,22,Russia,"Investment,Cryptocurrency,Business services,Banking,Platform",4,4,3.6,Ethereum,2,1,1,2,1,91%,100%,1
+1147,N,23-11-2017,23-10-2017,100000000,15,USA,Platform,2.4,0,0,Ethereum,1,1,0,0,0,40%,0%,0
+1148,N,25-04-2018,14-12-2017,0,4,Czech Republic,"Platform,Media,Entertainment,Virtual Reality",2.9,2,2,Ethereum,1,1,1,0,1,0%,100%,1
+1149,N,15-02-2018,27-12-2017,936000000,8,Czech Republic,Casino & Gambling,1.9,1.6,1,Ethereum,1,1,0,0,1,0%,100%,0
+1150,Y,05-04-2018,06-03-2018,500000000,17,Poland,"Cryptocurrency,Business services,Infrastructure,Internet",3.5,4,3.1,Ethereum,3,1,1,0,1,100%,100%,0
+1151,N,18-12-2017,08-12-2017,40000000,15,UK,"Software,Cryptocurrency",3.4,5,4.8,Ethereum,1,1,1,0,0,80%,93%,1
+1152,N,25-02-2018,25-01-2018,6000000,10,Estonia,Platform,2.6,0,0,unknown,1,1,1,0,1,90%,100%,0
+1153,Y,20-02-2018,20-01-2018,400000000,5,Latvia,Platform,2,0,0,Ethereum,1,1,0,0,0,0%,100%,1
+1154,N,25-08-2017,10-07-2017,0,3,USA,Cryptocurrency,1.2,1.4,1.7,Ethereum,1,0,0,0,0,0%,100%,0
+1155,N,13-02-2018,30-01-2018,0,9,Belarus,Health,2.5,3,2,Ethereum,unknown,1,0,0,1,0%,100%,0
+1156,Y,29-01-2018,29-01-2018,100000000,16,UK,"Business services,Platform",3.3,3.1,3.2,Ethereum,unknown,1,1,2,1,100%,0%,0
+1157,N,07-11-2017,10-10-2017,7000000,10,Russia,"Cryptocurrency,Platform",2.8,2.1,2.3,Ethereum,1,1,0,0,1,40%,100%,1
+1158,Y,29-09-2017,29-08-2017,50000000,11,UK,Entertainment,2.4,0,0,unknown,unknown,1,1,3,0,0%,100%,1
+1159,Y,05-07-2017,04-07-2017,45000000,12,Switzerland,"Banking,Cryptocurrency",3.3,0,0,Ethereum,unknown,1,1,2,1,75%,100%,0
+1160,N,08-06-2018,09-05-2018,15000000,19,Switzerland,"Cryptocurrency,Communication,Casino & Gambling,Art,Education,Entertainment,Health,Infrastructure,Internet,Manufacturing,Media,Real estate,Retail,Software,Sports,Tourism,Virtual Reality",4.4,4.3,4.4,Ethereum,1,1,1,1,1,100%,100%,1
+1161,N,15-01-2018,14-12-2017,220000000,14,USA,"Business services,Platform,Media",3.8,3.6,3.6,Ethereum,unknown,1,0,0,0,29%,100%,0
+1162,N,21-04-2018,31-03-2018,0,1,USA,Entertainment,2.5,0,0,Ethereum,1,1,0,0,1,100%,100%,1
+1163,N,10-04-2018,15-02-2018,2000000000,2,USA,"Real estate,Investment,Cryptocurrency,Tourism",1.8,1.6,1,Ethereum,2,1,0,0,1,100%,0%,0
+1164,Y,16-11-2017,01-11-2017,510000000,26,USA,"Platform,Media",4.1,4.7,3.3,Ethereum,2,1,1,0,0,96%,100%,0
+1165,N,02-08-2017,28-06-2017,500000,4,Ukraine,Cryptocurrency,2.1,0,0,Waves,4,1,1,0,0,0%,100%,0
+1166,Y,09-10-2017,12-09-2017,350000000,43,France,"Platform,Cryptocurrency,Business services",3.9,3.5,3.7,Ethereum,1,1,1,2,1,95%,100%,1
+1167,N,15-12-2017,15-09-2017,0,7,Poland,"Internet,Platform",2.1,0,0,Ethereum,unknown,1,1,0,1,100%,100%,0
+1168,Y,28-07-2017,27-07-2017,350000000,9,USA,"Platform,Internet",3.4,0,0,Ethereum,unknown,1,1,2,1,33%,100%,1
+1169,N,31-12-2017,11-10-2017,500000000,4,Russia,"Platform,Cryptocurrency,Business services,Internet",1.4,1.1,1,Ethereum,1,1,0,0,0,0%,100%,1
+1170,N,31-01-2018,07-01-2018,50000000,15,UK,"Platform,Retail",2.7,4,3,Ethereum,1,1,0,2,0,93%,100%,1
+1171,Y,14-11-2017,27-09-2017,54000000,17,Finland,"Retail,Platform",3.8,4,3.6,Ethereum,1,1,1,0,1,76%,100%,0
+1172,N,25-11-2017,25-10-2017,137500000,5,India,"Media,Platform,Art",2,0,0,Ethereum,1,1,0,0,0,0%,100%,0
+1173,N,21-05-2018,16-04-2018,13000000000,8,Germany,Entertainment,3,2.5,3,Ethereum,3,1,1,1,0,88%,100%,0
+1174,N,22-05-2018,22-02-2018,250000000,10,USA,"Business services,Communication,Cryptocurrency,Internet,Platform,Retail,Software",2.9,0,0,Ethereum,1,1,1,0,1,80%,100%,1
+1175,N,05-05-2018,20-03-2018,25000000,17,Australia,Cryptocurrency,2,0,0,POS,6,1,1,0,0,0%,0%,1
+1176,N,22-02-2018,22-12-2017,10500000,8,UK,"Platform,Cryptocurrency,Software",2.7,3,3.5,Ethereum,1,1,1,0,0,0%,100%,0
+1177,N,25-05-2018,25-02-2018,300000000,14,Marshall Islands,Real estate,2.7,2.6,1.7,Ethereum,1,1,1,0,1,93%,100%,0
+1178,N,23-12-2017,16-12-2017,17000000,9,Germany,"Platform,Cryptocurrency,Business services,Software,Communication,Infrastructure",2.3,2.3,1.4,Ethereum,1,1,1,0,1,11%,100%,0
+1179,N,06-04-2018,06-03-2018,650000000,10,Estonia,"Artificial Intelligence,Cryptocurrency,Infrastructure,Platform,Software",2.9,0,0,Ethereum,4,1,1,0,1,30%,100%,0
+1180,N,28-02-2018,01-02-2018,0,7,Singapore,"Cryptocurrency,Investment,Platform",2.1,0,0,unknown,unknown,1,0,0,0,0%,100%,0
+1181,N,15-11-2017,15-10-2017,0,12,Japan,"Real estate,Investment",2.5,0,0,Ethereum,1,1,1,0,1,33%,100%,0
